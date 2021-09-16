@@ -1,0 +1,2724 @@
+"Year","Gear","Fleet","EffortUnits","QualityCode","Source","Region","Ocean","effort"
+1952,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",161161.666666667
+1953,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",79043.1636363636
+1953,"LL","JPN","HOOKS",3,"LO",NA,NA,24348.2
+1954,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",51064.1904761905
+1954,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",40151.9666666667
+1954,"LL","JPN","HOOKS",3,"LO",NA,NA,31799.6315789474
+1955,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",37542.8624338624
+1955,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",43301.8313953488
+1955,"LL","JPN","HOOKS",3,"LO",NA,NA,34064.4545454545
+1956,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",66753.9417040359
+1956,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",53183.9288702929
+1956,"LL","JPN","HOOKS",3,"LO",NA,NA,38596.7
+1957,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",80919.5068493151
+1957,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",44837.6583850932
+1957,"LL","JPN","HOOKS",3,"LO",NA,NA,19032.8235294118
+1958,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",64509.3793103448
+1958,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",39524.1395348837
+1958,"LL","JPN","HOOKS",3,"LO",NA,NA,27124.4615384615
+1959,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",95804.3738738739
+1959,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",51499.7762557078
+1959,"LL","JPN","HOOKS",3,"LO",NA,NA,29964.4615384615
+1960,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",136313.958847737
+1960,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",57255.75
+1960,"LL","JPN","HOOKS",3,"LO",NA,NA,20341.2592592593
+1961,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",158080.958139535
+1961,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",91317.4621513944
+1961,"LL","JPN","HOOKS",3,"LO",NA,NA,45965.7666666667
+1962,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",31152.5
+1962,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",86044.1692307692
+1962,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",78162.2107843137
+1962,"LL","JPN","HOOKS",3,"LO",NA,NA,72941.5476190476
+1963,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",46976.4
+1963,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",105695.520900322
+1963,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",53210.7485207101
+1963,"LL","JPN","HOOKS",3,"LO",NA,NA,53336.9206349206
+1964,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",19855.3076923077
+1964,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",102260.520249221
+1964,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",70744.5985576923
+1964,"LL","JPN","HOOKS",3,"LO",NA,NA,58294.1739130435
+1965,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",43560.1875
+1965,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",118444.787634409
+1965,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",72063.9694117647
+1965,"LL","JPN","HOOKS",3,"LO",NA,NA,56015.5942028986
+1966,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",47364.4375
+1966,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",85666.6658878505
+1966,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",92979.478515625
+1966,"LL","JPN","HOOKS",3,"LO",NA,NA,70607.9759036145
+1967,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",17506.7083333333
+1967,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",108212.793214863
+1967,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",86314.0096
+1967,"LL","JPN","HOOKS",3,"LO",NA,NA,57959.6956521739
+1967,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",91614.5833333333
+1967,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Western","Indian",138295
+1967,"LL","TWN","HOOKS",3,"LO","Pacific, Western Central","Pacific",138800
+1968,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",26398.347826087
+1968,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Antarctic","Indian",33295.0666666667
+1968,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",103923.628019324
+1968,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",95790.4382470119
+1968,"LL","JPN","HOOKS",3,"LO",NA,NA,90834.9793814433
+1968,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",56880.8695652174
+1968,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Western","Indian",95416.2079510703
+1968,"LL","TWN","HOOKS",3,"LO",NA,NA,68122.2222222222
+1968,"LL","TWN","HOOKS",3,"RNRI","Atlantic, Southeast","Atlantic",30641
+1968,"LL","TWN","HOOKS",3,"RNRI",NA,NA,10954
+1969,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",67454.95
+1969,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Antarctic","Indian",6658
+1969,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",70702.5026086956
+1969,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",87259.6118210863
+1969,"LL","JPN","HOOKS",3,"LO",NA,NA,86626.4761904762
+1969,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",103200.751879699
+1969,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Western","Indian",102502.997275204
+1969,"LL","TWN","HOOKS",3,"LO","Pacific, Western Central","Pacific",25700
+1969,"LL","TWN","HOOKS",3,"LO",NA,NA,37666.6666666667
+1970,"BBN","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",956.260273972603
+1970,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",80506.0612244898
+1970,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Antarctic","Indian",22629.2
+1970,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",100241.152509653
+1970,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",49486.9671457906
+1970,"LL","JPN","HOOKS",3,"LO",NA,NA,124182.771428571
+1970,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",116650.819672131
+1970,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Western","Indian",62943.0147058823
+1970,"LL","TWN","HOOKS",3,"LO",NA,NA,39187.5
+1970,"LL","TWN","HOOKS",3,"RNRI","Atlantic, Southeast","Atlantic",195099
+1970,"TROL","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",470.63963963964
+1971,"BBN","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",772.785388127854
+1971,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",139225.282051282
+1971,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Antarctic","Indian",10691.7272727273
+1971,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",119603.746615087
+1971,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",56086.3161592506
+1971,"LL","JPN","HOOKS",3,"LO",NA,NA,68415.1971830986
+1971,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",88512.8205128205
+1971,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Western","Indian",105391.015625
+1971,"LL","TWN","HOOKS",3,"LO",NA,NA,45516.6666666667
+1971,"TROL","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",317.820754716981
+1972,"BBN","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",795.238532110092
+1972,"GILL","THA","DAYS",0,"LO","Indian Ocean, Eastern","Indian",6289
+1972,"GILL","THA","DAYS",0,"LO","Pacific, Western Central","Pacific",9980
+1972,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",331140.6
+1972,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",118450.886904762
+1972,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",74225.4893617021
+1972,"LL","JPN","HOOKS",3,"LO",NA,NA,113341.222222222
+1972,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",70342.4390243902
+1972,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Western","Indian",78700.9836065574
+1972,"LL","TWN","HOOKS",3,"LO",NA,NA,41694.4444444444
+1972,"TROL","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",384.293023255814
+1973,"BBN","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",1014.13157894737
+1973,"GILL","THA","DAYS",0,"LO","Indian Ocean, Eastern","Indian",4360
+1973,"GILL","THA","DAYS",0,"LO","Pacific, Western Central","Pacific",17165
+1973,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",316491.956521739
+1973,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Antarctic","Indian",2373
+1973,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",120001.90078329
+1973,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",72543.1524163569
+1973,"LL","JPN","HOOKS",3,"LO",NA,NA,38301.5849056604
+1973,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",75367.2043010753
+1973,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Western","Indian",105128.488372093
+1973,"LL","TWN","HOOKS",3,"LO",NA,NA,95540
+1973,"TROL","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",459.615023474178
+1974,"BBN","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",1002.77727272727
+1974,"GILL","THA","DAYS",0,"LO","Indian Ocean, Eastern","Indian",2494.5
+1974,"GILL","THA","DAYS",0,"LO","Pacific, Western Central","Pacific",12332
+1974,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",296386.886363636
+1974,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Antarctic","Indian",16479
+1974,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",101172.765486726
+1974,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",76644.9009287926
+1974,"LL","JPN","HOOKS",3,"LO",NA,NA,36856.8625
+1974,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",118860.885608856
+1974,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Western","Indian",99000
+1974,"LL","TWN","HOOKS",3,"LO",NA,NA,49740
+1974,"TROL","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",441.056603773585
+1975,"BB","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",807.376146788991
+1975,"GILL","THA","DAYS",0,"LO","Indian Ocean, Eastern","Indian",4067
+1975,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",124680.441860465
+1975,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Antarctic","Indian",23535.5
+1975,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",104928.202898551
+1975,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",94590.1029900332
+1975,"LL","JPN","HOOKS",3,"LO",NA,NA,25405.417721519
+1975,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Eastern","Indian",33511.251497006
+1975,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Western","Indian",37203.4885496183
+1975,"LL","KOR","HOOKS",1,"LO",NA,NA,12806.8461538462
+1975,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",133408.490566038
+1975,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Western","Indian",64038.7596899225
+1975,"LL","TWN","HOOKS",3,"LO",NA,NA,53550
+1975,"TROL","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",453.432558139535
+1976,"BB","IND","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",122.583333333333
+1976,"BB","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",824.10502283105
+1976,"GILL","THA","DAYS",0,"LO","Indian Ocean, Eastern","Indian",2930
+1976,"GILL","THA","DAYS",0,"LO","Pacific, Western Central","Pacific",10729
+1976,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",369196.527777778
+1976,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Antarctic","Indian",4051.11111111111
+1976,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",150141.576923077
+1976,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",46881.46875
+1976,"LL","JPN","HOOKS",3,"LO",NA,NA,36202.2916666667
+1976,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Eastern","Indian",30580.5573770492
+1976,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Western","Indian",45144.8940677966
+1976,"LL","KOR","HOOKS",1,"LO","Pacific, Western Central","Pacific",11600
+1976,"LL","KOR","HOOKS",1,"LO",NA,NA,30603.5
+1976,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",116970.74829932
+1976,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Western","Indian",130920.338983051
+1976,"LL","TWN","HOOKS",3,"LO",NA,NA,40066.6666666667
+1976,"TROL","IND","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",11.25
+1976,"TROL","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",647.177777777778
+1977,"BB","IND","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",94.9
+1977,"BB","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",714.273148148148
+1977,"GILL","THA","DAYS",0,"LO","Pacific, Western Central","Pacific",26462
+1977,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",203999.157894737
+1977,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Antarctic","Indian",12150.6666666667
+1977,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",149416.932307692
+1977,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",28321.475177305
+1977,"LL","JPN","HOOKS",3,"LO",NA,NA,62614.9047619048
+1977,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Eastern","Indian",29611.8789808917
+1977,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Western","Indian",122011.570987654
+1977,"LL","KOR","HOOKS",1,"LO",NA,NA,12423.8888888889
+1977,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",113827.131782946
+1977,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Western","Indian",110718.023255814
+1977,"LL","TWN","HOOKS",3,"LO",NA,NA,30700
+1977,"TROL","IND","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",24.5
+1977,"TROL","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",729.995555555556
+1978,"BB","IND","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",107.818181818182
+1978,"BB","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",500.179723502304
+1978,"GILL","THA","DAYS",0,"LO","Indian Ocean, Eastern","Indian",3541.5
+1978,"GILL","THA","DAYS",0,"LO","Pacific, Western Central","Pacific",8540
+1978,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",332738.214285714
+1978,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",94194.8365122616
+1978,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",72078.9842931937
+1978,"LL","JPN","HOOKS",3,"LO",NA,NA,56642.171875
+1978,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Eastern","Indian",60909.3989361702
+1978,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Western","Indian",107751.617924528
+1978,"LL","KOR","HOOKS",1,"LO","Pacific, Western Central","Pacific",2900
+1978,"LL","KOR","HOOKS",1,"LO",NA,NA,39128.75
+1978,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",84053.8116591928
+1978,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Western","Indian",90140.414507772
+1978,"LL","TWN","HOOKS",3,"LO",NA,NA,126575
+1978,"TROL","IND","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",15.25
+1978,"TROL","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",800.809090909091
+1979,"BB","IND","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",92.4545454545455
+1979,"BBM","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",348.859223300971
+1979,"BBN","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",123.075
+1979,"GILL","IND","DAYS",3,"LO","Indian Ocean, Eastern","Indian",1862.83333333333
+1979,"GILL","THA","DAYS",0,"LO","Indian Ocean, Eastern","Indian",4215.5
+1979,"GILL","THA","DAYS",0,"LO","Pacific, Western Central","Pacific",8257
+1979,"HAND","IND","DAYS",3,"LO","Indian Ocean, Eastern","Indian",4261.25
+1979,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",335384.979166667
+1979,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Antarctic","Indian",2537.66666666667
+1979,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",110654.595015576
+1979,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",64898.2259887006
+1979,"LL","JPN","HOOKS",3,"LO",NA,NA,49971.3770491803
+1979,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Eastern","Indian",51518
+1979,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Western","Indian",86304.9840546697
+1979,"LL","KOR","HOOKS",1,"LO",NA,NA,6543.08695652174
+1979,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",78757.4394463668
+1979,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Western","Indian",92236.8983957219
+1979,"LL","TWN","HOOKS",3,"LO",NA,NA,81442.8571428571
+1979,"LL","TWN","HOOKS",3,"RNRI","Atlantic, Southeast","Atlantic",12800
+1979,"TROL","IND","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",15.5833333333333
+1979,"TROL","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",638.727272727273
+1980,"BB","IND","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",126.9
+1980,"BBM","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",366.848888888889
+1980,"BBN","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",97.551724137931
+1980,"GILL","IND","DAYS",3,"LO","Indian Ocean, Eastern","Indian",719.916666666667
+1980,"GILL","THA","DAYS",0,"LO","Indian Ocean, Eastern","Indian",9104
+1980,"GILL","THA","DAYS",0,"LO","Pacific, Western Central","Pacific",10974
+1980,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",451463.068181818
+1980,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Antarctic","Indian",4902
+1980,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",165175.190909091
+1980,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",77572.9230769231
+1980,"LL","JPN","HOOKS",3,"LO",NA,NA,56493.7297297297
+1980,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Eastern","Indian",58833.5147058823
+1980,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Western","Indian",96024.4209245742
+1980,"LL","KOR","HOOKS",1,"LO","Pacific, Western Central","Pacific",1680
+1980,"LL","KOR","HOOKS",1,"LO",NA,NA,29465.1724137931
+1980,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",92733.8419618529
+1980,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Western","Indian",64531.5245478036
+1980,"LL","TWN","HOOKS",3,"LO",NA,NA,38246.6666666667
+1980,"LL","TWN","HOOKS",3,"RNRI","Atlantic, Southeast","Atlantic",50411.1111111111
+1980,"LL","TWN","HOOKS",3,"RNRI",NA,NA,30800
+1980,"TROL","IND","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",9.25
+1980,"TROL","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",671.245098039216
+1981,"BB","IND","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",94
+1981,"BBM","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",375.47533632287
+1981,"BBN","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",86.575
+1981,"GILL","IND","DAYS",3,"LO","Indian Ocean, Eastern","Indian",786.5
+1981,"GILL","THA","DAYS",0,"LO","Indian Ocean, Eastern","Indian",934
+1981,"GILL","THA","DAYS",0,"LO","Pacific, Western Central","Pacific",25837
+1981,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",457097.219512195
+1981,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Antarctic","Indian",18795
+1981,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",105578.783561644
+1981,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",109541.2421875
+1981,"LL","JPN","HOOKS",3,"LO",NA,NA,62134.306122449
+1981,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Eastern","Indian",35454.0107526882
+1981,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Western","Indian",113507.226361032
+1981,"LL","KOR","HOOKS",1,"LO","Pacific, Western Central","Pacific",3290
+1981,"LL","KOR","HOOKS",1,"LO",NA,NA,14995
+1981,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",95482.206405694
+1981,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Western","Indian",86595.5017301038
+1981,"LL","TWN","HOOKS",3,"LO",NA,NA,10000
+1981,"LL","TWN","HOOKS",3,"RNRI","Atlantic, Southeast","Atlantic",67283.1111111111
+1981,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",14.1736111111111
+1981,"PS","FRA","FHOURS",3,"LO",NA,NA,11.5
+1981,"PS","FRA","HOURS",3,"LO","Atlantic, Southeast","Atlantic",21.5
+1981,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",15.7285714285714
+1981,"TROL","IND","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",20.75
+1981,"TROL","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",629.768115942029
+1982,"BB","IND","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",157.125
+1982,"BBM","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",403.65690376569
+1982,"BBN","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",80.288
+1982,"GILL","THA","DAYS",0,"LO","Pacific, Western Central","Pacific",1519.41666666667
+1982,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",594132.235294118
+1982,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Antarctic","Indian",2644
+1982,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",88245.9426934097
+1982,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",125126.686619718
+1982,"LL","JPN","HOOKS",3,"LO",NA,NA,41831
+1982,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Eastern","Indian",53672.2137931034
+1982,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Western","Indian",149037.506172839
+1982,"LL","KOR","HOOKS",1,"LO",NA,NA,12666.3333333333
+1982,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",129257.983193277
+1982,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Western","Indian",131860.054347826
+1982,"LL","TWN","HOOKS",3,"LO",NA,NA,24385.7142857143
+1982,"LL","TWN","HOOKS",3,"RNRI","Atlantic, Southeast","Atlantic",35649.8888888889
+1982,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",21.0713375796178
+1982,"PS","FRA","FHOURS",3,"LO",NA,NA,11.7
+1982,"PS","FRA","HOURS",3,"LO","Atlantic, Southeast","Atlantic",27.0857142857143
+1982,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",26.4486486486486
+1982,"PS","FRA","HOURS",3,"LO",NA,NA,30.34
+1982,"TROL","IND","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",62.5
+1982,"TROL","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",633.191387559809
+1983,"BB","IND","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",186.777777777778
+1983,"BBM","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",447.723849372385
+1983,"BBN","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",67.9255319148936
+1983,"ELL","SYC","HOOKS",3,"LO","Indian Ocean, Western","Indian",20583.3333333333
+1983,"GILL","THA","DAYS",0,"LO","Pacific, Western Central","Pacific",334.181818181818
+1983,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",425300.289473684
+1983,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Antarctic","Indian",6771
+1983,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",123941.603580563
+1983,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",215886.216814159
+1983,"LL","JPN","HOOKS",3,"LO",NA,NA,74412.8837209302
+1983,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Eastern","Indian",50253.7313432836
+1983,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Western","Indian",140624.227272727
+1983,"LL","KOR","HOOKS",1,"LO",NA,NA,10334.2222222222
+1983,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",179358.041958042
+1983,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Western","Indian",102221.00591716
+1983,"LL","TWN","HOOKS",3,"LO",NA,NA,52550
+1983,"LL","TWN","HOOKS",3,"RNRI","Atlantic, Southeast","Atlantic",66884.75
+1983,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",38.230549898167
+1983,"PS","FRA","FHOURS",3,"LO",NA,NA,13.92
+1983,"PS","FRA","HOURS",3,"LO","Atlantic, Southeast","Atlantic",28.0454545454545
+1983,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",24.2913043478261
+1983,"PS","FRA","HOURS",3,"LO",NA,NA,25.7
+1983,"PS","NEIPS","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",25.425
+1983,"PS","NEIPS","FHOURS",3,"RFRI",NA,NA,13
+1983,"PS","NEIPS","HOURS",3,"RFRI","Indian Ocean, Western","Indian",21.6
+1983,"TROL","IND","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",65.4166666666667
+1983,"TROL","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",447.990338164251
+1983,"TROL","MYS","TRIPS",0,"LO",NA,NA,129.636363636364
+1984,"BB","IND","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",628.7
+1984,"BBM","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",645.545833333333
+1984,"BBN","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",65.3039215686274
+1984,"ELL","SYC","HOOKS",3,"LO","Indian Ocean, Western","Indian",16744.1860465116
+1984,"GILL","THA","DAYS",0,"LO","Pacific, Western Central","Pacific",1434.75
+1984,"HAND","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",48.40625
+1984,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",583624.743589744
+1984,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Antarctic","Indian",17375
+1984,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",138280.128205128
+1984,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",147644.177272727
+1984,"LL","JPN","HOOKS",3,"LO",NA,NA,69268.8490566038
+1984,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Eastern","Indian",46616.9389671361
+1984,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Western","Indian",111867.598425197
+1984,"LL","KOR","HOOKS",1,"LO",NA,NA,17514.6
+1984,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",189245.925925926
+1984,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Western","Indian",125774.380165289
+1984,"LL","TWN","HOOKS",3,"LO",NA,NA,93066.6666666667
+1984,"LL","TWN","HOOKS",3,"RNRI","Atlantic, Southeast","Atlantic",53280
+1984,"PS","ESP","DAYS",3,"RNRI","Indian Ocean, Western","Indian",1.37
+1984,"PS","ESP","FDAYS",3,"RNRI","Indian Ocean, Western","Indian",3.36653386454183
+1984,"PS","ESP","FDAYS",3,"RNRI",NA,NA,1.25
+1984,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",18.5396226415094
+1984,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",52.1310696095076
+1984,"PS","FRA","FHOURS",3,"LO",NA,NA,19.3192307692308
+1984,"PS","FRA","HOURS",3,"LO","Atlantic, Southeast","Atlantic",39.4888888888889
+1984,"PS","FRA","HOURS",3,"LO","Indian Ocean, Eastern","Indian",22.6571428571429
+1984,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",28.8518987341772
+1984,"PS","FRA","HOURS",3,"LO",NA,NA,24.6933333333333
+1984,"PS","NEIPS","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",32.7912885662432
+1984,"PS","NEIPS","FHOURS",3,"RFRI",NA,NA,21.4166666666667
+1984,"PS","NEIPS","HOURS",3,"RFRI","Indian Ocean, Western","Indian",11.925
+1984,"TROL","IND","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",75
+1984,"TROL","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",500.592233009709
+1984,"TROL","MYS","TRIPS",0,"LO",NA,NA,100.833333333333
+1985,"BB","IND","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",712.777777777778
+1985,"BBM","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",673.483193277311
+1985,"BBN","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",53.5176470588235
+1985,"BS","IDN","TRIPS",0,"IOSP",NA,NA,245.416666666667
+1985,"ELL","SYC","HOOKS",3,"LO","Indian Ocean, Western","Indian",20285.7142857143
+1985,"GILL","IDN","TRIPS",0,"IOSP","Pacific, Western Central","Pacific",114
+1985,"GILL","IDN","TRIPS",0,"IOSP",NA,NA,628.666666666667
+1985,"GILL","LKA","DAYS",3,"LO","Indian Ocean, Eastern","Indian",5941.5
+1985,"GILL","THA","DAYS",0,"LO","Indian Ocean, Eastern","Indian",155.666666666667
+1985,"GILL","THA","DAYS",0,"LO","Pacific, Western Central","Pacific",1549.58333333333
+1985,"HAND","IDN","TRIPS",0,"IOSP",NA,NA,69.1
+1985,"HAND","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",42.3802816901408
+1985,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",474490.058823529
+1985,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",171335.009478673
+1985,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",164157.991452991
+1985,"LL","JPN","HOOKS",3,"LO",NA,NA,39717.375
+1985,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Eastern","Indian",36261.524691358
+1985,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Western","Indian",94988.1610486891
+1985,"LL","KOR","HOOKS",1,"LO",NA,NA,14699.1428571429
+1985,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",226637.714285714
+1985,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Western","Indian",104168.75
+1985,"LL","TWN","HOOKS",3,"LO",NA,NA,102900
+1985,"LL","TWN","HOOKS",3,"RNRI","Atlantic, Southeast","Atlantic",72132.3333333333
+1985,"LL","TWN","HOOKS",3,"RNRI",NA,NA,39568
+1985,"PS","ESP","DAYS",3,"RNRI","Indian Ocean, Western","Indian",1.05185185185185
+1985,"PS","ESP","FDAYS",3,"RNRI","Indian Ocean, Western","Indian",3.55851063829787
+1985,"PS","ESP","FDAYS",3,"RNRI",NA,NA,5.46153846153846
+1985,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",62.18575
+1985,"PS","FRA","FHOURS",3,"LO",NA,NA,41.1615384615385
+1985,"PS","FRA","HOURS",3,"LO","Atlantic, Southeast","Atlantic",25.9
+1985,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",31.94375
+1985,"PS","FRA","HOURS",3,"LO",NA,NA,25.9
+1985,"PS","NEIPS","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",28.7016274864376
+1985,"PS","NEIPS","FHOURS",3,"RFRI",NA,NA,35.4545454545455
+1985,"PS","NEIPS","HOURS",3,"RFRI","Indian Ocean, Western","Indian",26.4
+1985,"PS","NEIPS","HOURS",3,"RFRI",NA,NA,24
+1985,"PS","SUN","FDAYS",2,"RFRI","Indian Ocean, Western","Indian",5.9
+1985,"TROL","IND","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",53.5
+1985,"TROL","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",547.785
+1986,"BB","IND","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",487
+1986,"BBM","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",665.937238493724
+1986,"BBN","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",42.0789473684211
+1986,"BS","IDN","TRIPS",0,"IOSP",NA,NA,84.3636363636364
+1986,"GILL","IDN","TRIPS",0,"IOSP","Pacific, Western Central","Pacific",150.4
+1986,"GILL","IDN","TRIPS",0,"IOSP",NA,NA,503
+1986,"GILL","IRN","TRIPS",3,"LO","Indian Ocean, Western","Indian",745.416666666667
+1986,"GILL","LKA","DAYS",3,"IOSP","Indian Ocean, Eastern","Indian",11727.8333333333
+1986,"GILL","THA","DAYS",0,"LO","Indian Ocean, Eastern","Indian",180
+1986,"GILL","THA","DAYS",0,"LO","Pacific, Western Central","Pacific",2211.5
+1986,"GILL","TWN","NETS",3,"LO","Indian Ocean, Eastern","Indian",32085.7142857143
+1986,"HAND","IDN","TRIPS",0,"IOSP",NA,NA,48.125
+1986,"HAND","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",32.9491525423729
+1986,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",608824.892857143
+1986,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Antarctic","Indian",8166
+1986,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",163922.664215686
+1986,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",138238.586466165
+1986,"LL","JPN","HOOKS",3,"LO",NA,NA,68109.2432432432
+1986,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Eastern","Indian",39168.273381295
+1986,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Western","Indian",135015.252631579
+1986,"LL","KOR","HOOKS",1,"LO",NA,NA,23460.8571428571
+1986,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",193222.564102564
+1986,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Western","Indian",158240.924092409
+1986,"LL","TWN","HOOKS",3,"LO",NA,NA,60500
+1986,"LL","TWN","HOOKS",3,"RNRI","Atlantic, Southeast","Atlantic",7396
+1986,"PS","ESP","DAYS",3,"RNRI","Indian Ocean, Western","Indian",1.344
+1986,"PS","ESP","DAYS",3,"RNRI",NA,NA,0.666666666666667
+1986,"PS","ESP","FDAYS",3,"RNRI","Indian Ocean, Western","Indian",3.91234347048301
+1986,"PS","ESP","FDAYS",3,"RNRI",NA,NA,9.60869565217391
+1986,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",60.7905847373637
+1986,"PS","FRA","FHOURS",3,"LO",NA,NA,129.146478873239
+1986,"PS","FRA","HOURS",3,"LO","Atlantic, Southeast","Atlantic",25.9
+1986,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",31.2368421052632
+1986,"PS","FRA","HOURS",3,"LO",NA,NA,25.9
+1986,"PS","NEIPS","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",24.9709543568465
+1986,"PS","NEIPS","FHOURS",3,"RFRI",NA,NA,33.6206896551724
+1986,"PS","NEIPS","HOURS",3,"RFRI","Indian Ocean, Western","Indian",20.4571428571429
+1986,"PS","NEIPS","HOURS",3,"RFRI",NA,NA,24
+1986,"PS","SUN","FDAYS",2,"RFRI","Indian Ocean, Western","Indian",2.74367088607595
+1986,"PS","SUN","FDAYS",2,"RFRI",NA,NA,1
+1986,"PSS","IDN","TRIPS",0,"IOSP","Indian Ocean, Eastern","Indian",262.111111111111
+1986,"PSS","IDN","TRIPS",0,"IOSP","Pacific, Western Central","Pacific",154.75
+1986,"PSS","IDN","TRIPS",0,"IOSP",NA,NA,114.25
+1986,"TROL","IND","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",72
+1986,"TROL","LKA","DAYS",3,"IOSP","Indian Ocean, Eastern","Indian",3681.33333333333
+1986,"TROL","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",406.107142857143
+1987,"BB","IND","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",717.166666666667
+1987,"BBM","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",642.632911392405
+1987,"BBN","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",18.0441176470588
+1987,"BS","IDN","TRIPS",0,"IOSP",NA,NA,58.6363636363636
+1987,"GILL","IDN","TRIPS",0,"IOSP",NA,NA,443.272727272727
+1987,"GILL","LKA","TRIPS",3,"IOSP","Indian Ocean, Eastern","Indian",626.083333333333
+1987,"GILL","THA","DAYS",0,"LO","Indian Ocean, Eastern","Indian",311.166666666667
+1987,"GILL","THA","DAYS",0,"LO","Pacific, Western Central","Pacific",2604
+1987,"GILL","TWN","NETS",3,"LO","Indian Ocean, Eastern","Indian",157671.083333333
+1987,"GILL","TWN","NETS",3,"LO","Indian Ocean, Western","Indian",49943.4390243902
+1987,"GILL","TWN","NETS",3,"LO",NA,NA,4940
+1987,"HAND","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",40.0909090909091
+1987,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",523804.766666667
+1987,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Antarctic","Indian",5760
+1987,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",171452.91086351
+1987,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",113408.039215686
+1987,"LL","JPN","HOOKS",3,"LO",NA,NA,100026.756756757
+1987,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Eastern","Indian",35352.2213114754
+1987,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Western","Indian",130702.079166667
+1987,"LL","KOR","HOOKS",1,"LO",NA,NA,11137
+1987,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",172814.117647059
+1987,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Western","Indian",180917.988826816
+1987,"LL","TWN","HOOKS",3,"LO",NA,NA,41200
+1987,"PS","ESP","DAYS",3,"RNRI","Indian Ocean, Western","Indian",0.768
+1987,"PS","ESP","DAYS",3,"RNRI",NA,NA,0
+1987,"PS","ESP","FDAYS",3,"RNRI","Indian Ocean, Western","Indian",4.44615384615385
+1987,"PS","ESP","FDAYS",3,"RNRI",NA,NA,7.5625
+1987,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",64.1336689038031
+1987,"PS","FRA","FHOURS",3,"LO",NA,NA,125.24
+1987,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",33.762
+1987,"PS","FRA","HOURS",3,"LO",NA,NA,23.44
+1987,"PS","NEIPS","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",22.7385321100917
+1987,"PS","NEIPS","FHOURS",3,"RFRI",NA,NA,19.4705882352941
+1987,"PS","NEIPS","HOURS",3,"RFRI","Indian Ocean, Western","Indian",12.8
+1987,"PS","SUN","FDAYS",2,"RFRI","Indian Ocean, Eastern","Indian",1
+1987,"PS","SUN","FDAYS",2,"RFRI","Indian Ocean, Western","Indian",2.85928143712575
+1987,"PS","SUN","FDAYS",2,"RFRI",NA,NA,3.54545454545455
+1987,"TROL","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",385.38829787234
+1988,"BB","IND","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",778.8
+1988,"BBM","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",738.141630901287
+1988,"BBN","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",42.6236559139785
+1988,"BS","IDN","TRIPS",0,"IOSP",NA,NA,97.3
+1988,"FN","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",105.125
+1988,"GILL","IDN","TRIPS",0,"IOSP",NA,NA,433
+1988,"GILL","LKA","TRIPS",3,"IOSP","Indian Ocean, Eastern","Indian",1765
+1988,"GILL","PAK","FDAYS",3,"IOSP","Indian Ocean, Western","Indian",1949.91666666667
+1988,"GILL","THA","DAYS",0,"LO","Indian Ocean, Eastern","Indian",387.625
+1988,"GILL","THA","DAYS",0,"LO","Pacific, Western Central","Pacific",2509.58333333333
+1988,"GILL","TWN","NETS",3,"LO","Indian Ocean, Eastern","Indian",136974.058823529
+1988,"GILL","TWN","NETS",3,"LO","Indian Ocean, Western","Indian",11682.0816326531
+1988,"HAND","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",27.5238095238095
+1988,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",443180.612903226
+1988,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",128883.720720721
+1988,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",125718.918287938
+1988,"LL","JPN","HOOKS",3,"LO",NA,NA,126103.705882353
+1988,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",185808.854166667
+1988,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Western","Indian",232394.623655914
+1988,"LL","TWN","HOOKS",3,"LO",NA,NA,77271.4285714286
+1988,"LL","TWN","HOOKS",3,"RNRI","Atlantic, Southeast","Atlantic",146673.166666667
+1988,"LL","TWN","HOOKS",3,"RNRI",NA,NA,24940
+1988,"LLCO","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",44.71875
+1988,"PS","ESP","DAYS",3,"RNRI","Indian Ocean, Western","Indian",0.671875
+1988,"PS","ESP","DAYS",3,"RNRI",NA,NA,0.333333333333333
+1988,"PS","ESP","FDAYS",3,"RNRI","Indian Ocean, Western","Indian",4.68270676691729
+1988,"PS","ESP","FDAYS",3,"RNRI",NA,NA,6.68965517241379
+1988,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",70.7597905759162
+1988,"PS","FRA","FHOURS",3,"LO",NA,NA,23.7461538461538
+1988,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",30.8395061728395
+1988,"PS","FRA","HOURS",3,"LO",NA,NA,35.475
+1988,"PS","MUS","FHOURS",3,"LO","Indian Ocean, Western","Indian",18
+1988,"PS","NEIPS","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",26.1984435797665
+1988,"PS","NEIPS","FHOURS",3,"RFRI",NA,NA,35
+1988,"PS","NEIPS","HOURS",3,"RFRI","Indian Ocean, Western","Indian",21.6
+1988,"PS","NEIPS","HOURS",3,"RFRI",NA,NA,24
+1988,"PS","SUN","FDAYS",2,"RFRI","Indian Ocean, Eastern","Indian",1
+1988,"PS","SUN","FDAYS",2,"RFRI","Indian Ocean, Western","Indian",2.31734317343173
+1988,"TROL","IDN","TRIPS",0,"IOSP","Indian Ocean, Eastern","Indian",1185.91666666667
+1988,"TROLM","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",89.6929824561404
+1988,"TROLN","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",248.576530612245
+1989,"BB","IND","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",734.083333333333
+1989,"BBM","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",760.219730941704
+1989,"BBN","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",31.9577464788732
+1989,"BS","IDN","TRIPS",0,"IOSP",NA,NA,121.916666666667
+1989,"G/L","LKA","TRIPS",3,"RNRI","Indian Ocean, Eastern","Indian",2717.66666666667
+1989,"GILL","IDN","TRIPS",0,"IOSP",NA,NA,698.25
+1989,"GILL","LKA","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",3429.41666666667
+1989,"GILL","PAK","FDAYS",3,"IOSP","Indian Ocean, Western","Indian",2256.91666666667
+1989,"GILL","TWN","NETS",3,"LO","Indian Ocean, Eastern","Indian",95344.8863636364
+1989,"GILL","TWN","NETS",3,"LO","Indian Ocean, Western","Indian",29473.406779661
+1989,"GILL","TWN","NETS",3,"LO",NA,NA,285
+1989,"HAND","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",42.4915254237288
+1989,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",530422.321428571
+1989,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",113441.569023569
+1989,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",122182.119047619
+1989,"LL","JPN","HOOKS",3,"LO",NA,NA,260110.09375
+1989,"LL","TWN","HOOKS",1,"LO","Indian Ocean, Western","Indian",289000
+1989,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",270836.723163842
+1989,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Western","Indian",285897.288135593
+1989,"LL","TWN","HOOKS",3,"LO",NA,NA,138640
+1989,"LL","TWN","HOOKS",3,"RNRI","Atlantic, Southeast","Atlantic",130607.5
+1989,"LLCO","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",57.6296296296296
+1989,"PS","ESP","DAYS",3,"RNRI","Indian Ocean, Western","Indian",0.642857142857143
+1989,"PS","ESP","DAYS",3,"RNRI",NA,NA,1
+1989,"PS","ESP","FDAYS",3,"RNRI","Indian Ocean, Western","Indian",4.53954802259887
+1989,"PS","ESP","FDAYS",3,"RNRI",NA,NA,8.28205128205128
+1989,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",52.3408474576271
+1989,"PS","FRA","FHOURS",3,"LO",NA,NA,88.0829787234043
+1989,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",35.69
+1989,"PS","FRA","HOURS",3,"LO",NA,NA,35.26
+1989,"PS","JPN","DAYS",1,"LO","Indian Ocean, Western","Indian",1.70243902439024
+1989,"PS","MUS","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",14.4
+1989,"PS","MUS","FHOURS",3,"LO","Indian Ocean, Western","Indian",18.8108108108108
+1989,"PS","NEIPS","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",25.2484472049689
+1989,"PS","NEIPS","FHOURS",3,"RFRI",NA,NA,23.4
+1989,"PS","NEIPS","HOURS",3,"RFRI","Indian Ocean, Western","Indian",16.0615384615385
+1989,"PS","SUN","FDAYS",2,"RFRI","Indian Ocean, Eastern","Indian",1
+1989,"PS","SUN","FDAYS",2,"RFRI","Indian Ocean, Western","Indian",2.00593471810089
+1989,"PSS","IDN","TRIPS",0,"IOSP","Indian Ocean, Eastern","Indian",147.666666666667
+1989,"TROL","IDN","TRIPS",0,"IOSP","Indian Ocean, Eastern","Indian",1201.08333333333
+1989,"TROL","IND","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",52.75
+1989,"TROLM","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",107.792307692308
+1989,"TROLN","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",216.094674556213
+1989,"UNCL","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",58.9285714285714
+1990,"BB","IND","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",541.888888888889
+1990,"BB","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",848.148837209302
+1990,"FN","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",58.5555555555556
+1990,"FN","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",180.434444444444
+1990,"G/L","LKA","TRIPS",3,"RNRI","Indian Ocean, Eastern","Indian",2211.5
+1990,"GILL","LKA","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",2188.75
+1990,"GILL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",409.395
+1990,"GILL","PAK","FDAYS",3,"IOSP","Indian Ocean, Western","Indian",2282.75
+1990,"GILL","THA","DAYS",0,"LO","Indian Ocean, Eastern","Indian",573.666666666667
+1990,"GILL","THA","DAYS",0,"LO","Pacific, Western Central","Pacific",2072.91666666667
+1990,"GILL","TWN","NETS",3,"LO","Indian Ocean, Eastern","Indian",81862.2105263158
+1990,"GILL","TWN","NETS",3,"LO","Indian Ocean, Western","Indian",46576.1621621622
+1990,"HAND","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",287.198888888889
+1990,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",354721.535714286
+1990,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",69942.6102941177
+1990,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",66899.5
+1990,"LL","JPN","HOOKS",3,"LO",NA,NA,232567.375
+1990,"LL","TWN","HOOKS",1,"LO","Indian Ocean, Eastern","Indian",221413.319148936
+1990,"LL","TWN","HOOKS",1,"LO","Indian Ocean, Western","Indian",315010.726950355
+1990,"LL","TWN","HOOKS",1,"LO",NA,NA,446697.75
+1990,"LL","TWN","HOOKS",3,"RNRI","Atlantic, Southeast","Atlantic",132617.5
+1990,"LLCO","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",37
+1990,"PS","ESP","DAYS",3,"RNRI","Indian Ocean, Western","Indian",0.278260869565217
+1990,"PS","ESP","FDAYS",3,"RNRI","Indian Ocean, Western","Indian",4.06820276497696
+1990,"PS","ESP","FDAYS",3,"RNRI",NA,NA,9.3728813559322
+1990,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",59.2508385744235
+1990,"PS","FRA","FHOURS",3,"LO",NA,NA,72.606
+1990,"PS","FRA","HOURS",3,"LO","Atlantic, Southeast","Atlantic",31.72
+1990,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",26.75
+1990,"PS","FRA","HOURS",3,"LO",NA,NA,25.8
+1990,"PS","JPN","DAYS",1,"LO","Indian Ocean, Western","Indian",1.83532219570406
+1990,"PS","JPN","DAYS",1,"LO",NA,NA,2.75
+1990,"PS","MUS","FHOURS",3,"LO","Indian Ocean, Western","Indian",17.2816901408451
+1990,"PS","NEIPS","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",26.0477223427332
+1990,"PS","NEIPS","FHOURS",3,"RFRI",NA,NA,26.1935483870968
+1990,"PS","NEIPS","HOURS",3,"RFRI","Indian Ocean, Western","Indian",0
+1990,"PS","NEIPS","HOURS",3,"RFRI",NA,NA,0
+1990,"PS","SUN","FDAYS",2,"RFRI","Indian Ocean, Eastern","Indian",1
+1990,"PS","SUN","FDAYS",2,"RFRI","Indian Ocean, Western","Indian",2.39254385964912
+1990,"SPOR","ZAF","DAYS",0,"LO","Atlantic, Southeast","Atlantic",191.266666666667
+1990,"SPOR","ZAF","DAYS",0,"LO","Indian Ocean, Western","Indian",177.083333333333
+1990,"SPOR","ZAF","DAYS",0,"LO",NA,NA,199.971428571429
+1990,"TROL","IND","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",67.3333333333333
+1990,"TROL","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",310.150259067358
+1990,"TROL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",68.8
+1990,"UNCL","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",30.8275862068966
+1990,"UNCL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",43.1711111111111
+1991,"BB","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",771.387665198238
+1991,"BS","LKA","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",692.75
+1991,"FN","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",91.3571428571429
+1991,"FN","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",20.96
+1991,"G/L","LKA","TRIPS",3,"RNRI","Indian Ocean, Eastern","Indian",2152.75
+1991,"GILL","LKA","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",1794.58333333333
+1991,"GILL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",197.221818181818
+1991,"GILL","PAK","FDAYS",3,"LO","Indian Ocean, Western","Indian",1960
+1991,"GILL","TWN","NETS",3,"LO","Indian Ocean, Eastern","Indian",76577.7916666667
+1991,"GILL","TWN","NETS",3,"LO","Indian Ocean, Western","Indian",48448.5245901639
+1991,"HAND","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",497.065555555556
+1991,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",514427.444444444
+1991,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Antarctic","Indian",3056
+1991,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",77821.9
+1991,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",65894.8959107807
+1991,"LL","JPN","HOOKS",3,"LO",NA,NA,116553.756756757
+1991,"LL","TWN","HOOKS",3,"DD","Atlantic, Southeast","Atlantic",201514.714285714
+1991,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Eastern","Indian",533107.730434783
+1991,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Western","Indian",861769.894957983
+1991,"LL","TWN","HOOKS",3,"DD",NA,NA,218582
+1991,"LLCO","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",18.5
+1991,"LLEX","IND","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",181041.666666667
+1991,"LLEX","IND","HOOKS",3,"LO","Indian Ocean, Western","Indian",555685.714285714
+1991,"LLEX","IND","HOOKS",3,"LO",NA,NA,276000
+1991,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",12.1
+1991,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Western","Indian",47.0098777046096
+1991,"PS","ESP","FHOURS",3,"LO",NA,NA,64.8448275862069
+1991,"PS","ESP","HOURS",3,"LO","Indian Ocean, Western","Indian",19.2
+1991,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",48.7445115810675
+1991,"PS","FRA","FHOURS",3,"LO",NA,NA,78.5785714285714
+1991,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",110.583333333333
+1991,"PS","JPN","DAYS",1,"LO","Indian Ocean, Eastern","Indian",1.16666666666667
+1991,"PS","JPN","DAYS",1,"LO","Indian Ocean, Western","Indian",2.01732283464567
+1991,"PS","JPN","DAYS",1,"LO",NA,NA,3.2
+1991,"PS","MUS","FHOURS",3,"LO","Indian Ocean, Western","Indian",19.4476744186047
+1991,"PS","NEIPS","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",24.1775092936803
+1991,"PS","NEIPS","FHOURS",3,"RFRI",NA,NA,34.6705882352941
+1991,"PS","NEIPS","HOURS",3,"RFRI","Indian Ocean, Western","Indian",26.8
+1991,"PS","SUN","FDAYS",2,"RFRI","Indian Ocean, Eastern","Indian",1.66666666666667
+1991,"PS","SUN","FDAYS",2,"RFRI","Indian Ocean, Western","Indian",2.62311557788945
+1991,"SPOR","ZAF","DAYS",0,"LO","Atlantic, Southeast","Atlantic",197.571428571429
+1991,"SPOR","ZAF","DAYS",0,"LO","Indian Ocean, Western","Indian",157.916666666667
+1991,"SPOR","ZAF","DAYS",0,"LO",NA,NA,229.222222222222
+1991,"TRAP","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",0.17
+1991,"TROL","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",291.758793969849
+1991,"TROL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",29.702
+1991,"UNCL","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",45.3529411764706
+1991,"UNCL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",346.030909090909
+1992,"BB","AUS","HRSRH",3,"LO","Indian Ocean, Eastern","Indian",102.866666666667
+1992,"BB","AUS","HRSRH",3,"LO",NA,NA,30
+1992,"BB","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",756.995744680851
+1992,"CN","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",0.41
+1992,"ELL","AUS","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",20738.8888888889
+1992,"ELL","AUS","HOOKS",3,"LO",NA,NA,5350
+1992,"FN","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",78.4444444444444
+1992,"FN","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",61.67
+1992,"GILL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",471.0925
+1992,"HAND","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",44.741935483871
+1992,"HAND","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",318.227
+1992,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",635148.846153846
+1992,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Antarctic","Indian",10025
+1992,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",75040.4936170213
+1992,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",75570.3379790941
+1992,"LL","JPN","HOOKS",3,"LO",NA,NA,92880.5135135135
+1992,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Eastern","Indian",11278.7391304348
+1992,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Western","Indian",87593.6954314721
+1992,"LL","KOR","HOOKS",1,"LO",NA,NA,32171.75
+1992,"LL","TWN","HOOKS",3,"DD","Atlantic, Southeast","Atlantic",272918
+1992,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Eastern","Indian",740719.215189873
+1992,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Western","Indian",774975.206278027
+1992,"LL","TWN","HOOKS",3,"DD",NA,NA,558075
+1992,"LLCO","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",34.7777777777778
+1992,"PS","AUS","HRSRH",3,"LO","Indian Ocean, Eastern","Indian",120.333333333333
+1992,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Western","Indian",42.2704686118479
+1992,"PS","ESP","FHOURS",3,"LO",NA,NA,64.65
+1992,"PS","ESP","HOURS",3,"LO","Indian Ocean, Western","Indian",30.8181818181818
+1992,"PS","ESP","HOURS",3,"LO",NA,NA,24
+1992,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",50.685036119711
+1992,"PS","FRA","FHOURS",3,"LO",NA,NA,96.4031746031746
+1992,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",25.6842105263158
+1992,"PS","JPN","DAYS",1,"LO","Indian Ocean, Eastern","Indian",1.26315789473684
+1992,"PS","JPN","DAYS",1,"LO","Indian Ocean, Western","Indian",2.1296803652968
+1992,"PS","JPN","DAYS",1,"LO",NA,NA,2.46666666666667
+1992,"PS","MUS","FHOURS",3,"LO","Indian Ocean, Western","Indian",19.7463976945245
+1992,"PS","NEIPS","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",21.0352727272727
+1992,"PS","NEIPS","FHOURS",3,"RFRI",NA,NA,29.0028571428571
+1992,"PS","NEIPS","HOURS",3,"RFRI","Indian Ocean, Western","Indian",25.4444444444444
+1992,"PS","NEIPS","HOURS",3,"RFRI",NA,NA,24
+1992,"PS","NEISU","FDAYS",2,"RFRI","Indian Ocean, Western","Indian",2.45405405405405
+1992,"PS","NEISU","FDAYS",2,"RFRI",NA,NA,3.28571428571429
+1992,"SPOR","ZAF","DAYS",0,"LO","Atlantic, Southeast","Atlantic",282.571428571429
+1992,"SPOR","ZAF","DAYS",0,"LO","Indian Ocean, Western","Indian",134.75
+1992,"SPOR","ZAF","DAYS",0,"LO",NA,NA,219.944444444444
+1992,"TRAP","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",3.905
+1992,"TROL","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",294.528497409326
+1992,"TROL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",276.518333333333
+1992,"UNCL","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",26.5
+1992,"UNCL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",64.3963636363636
+1993,"BB","AUS","HRSRH",3,"LO","Indian Ocean, Eastern","Indian",65.3333333333333
+1993,"BB","AUS","HRSRH",3,"LO",NA,NA,38
+1993,"BB","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",811.521929824561
+1993,"BS","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",89.7
+1993,"CN","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",0.2
+1993,"ELL","AUS","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",72674.8965517241
+1993,"ELL","AUS","HOOKS",3,"LO",NA,NA,22048
+1993,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Western","Indian",43685.25
+1993,"FN","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",71
+1993,"FN","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",33.28
+1993,"GILL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",497.515833333333
+1993,"HAND","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",321.441818181818
+1993,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",512826.875
+1993,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Antarctic","Indian",13417
+1993,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",84319.623015873
+1993,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",73132.35
+1993,"LL","JPN","HOOKS",3,"LO",NA,NA,78772.6176470588
+1993,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Eastern","Indian",36601.05
+1993,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Western","Indian",90446.6816326531
+1993,"LL","KOR","HOOKS",1,"LO",NA,NA,34401.4285714286
+1993,"LL","TWN","HOOKS",3,"DD","Atlantic, Southeast","Atlantic",184713.5
+1993,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Eastern","Indian",298397.514285714
+1993,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Western","Indian",605743.298507463
+1993,"LL","TWN","HOOKS",3,"DD",NA,NA,329005.545454545
+1993,"LLCO","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",36.05
+1993,"PS","AUS","HRSRH",3,"LO","Indian Ocean, Eastern","Indian",43.9
+1993,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Western","Indian",46.4053734061931
+1993,"PS","ESP","FHOURS",3,"LO",NA,NA,68.3535714285714
+1993,"PS","ESP","HOURS",3,"LO","Indian Ocean, Western","Indian",23.0666666666667
+1993,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",49.5003929273084
+1993,"PS","FRA","FHOURS",3,"LO",NA,NA,90.3176470588235
+1993,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",26.0769230769231
+1993,"PS","JPN","DAYS",1,"LO","Indian Ocean, Eastern","Indian",1.44827586206897
+1993,"PS","JPN","DAYS",1,"LO","Indian Ocean, Western","Indian",2.38260869565217
+1993,"PS","JPN","DAYS",1,"LO",NA,NA,2.5
+1993,"PS","MUS","FHOURS",3,"LO","Indian Ocean, Western","Indian",17.2021276595745
+1993,"PS","NEIPS","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",33.8573529411765
+1993,"PS","NEIPS","FHOURS",3,"RFRI",NA,NA,36.3942857142857
+1993,"PS","NEIPS","HOURS",3,"RFRI","Indian Ocean, Western","Indian",31
+1993,"PS","NEISU","FDAYS",2,"RFRI","Indian Ocean, Eastern","Indian",1.2
+1993,"PS","NEISU","FDAYS",2,"RFRI","Indian Ocean, Western","Indian",2.57389162561576
+1993,"SPOR","ZAF","DAYS",0,"LO","Atlantic, Southeast","Atlantic",349
+1993,"SPOR","ZAF","DAYS",0,"LO","Indian Ocean, Western","Indian",171.666666666667
+1993,"SPOR","ZAF","DAYS",0,"LO",NA,NA,207
+1993,"TRAP","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",0.476666666666667
+1993,"TROL","AUS","LINES",3,"LO","Indian Ocean, Eastern","Indian",70
+1993,"TROL","MDV","TRIPS",3,"LO","Indian Ocean, Western","Indian",349.615384615385
+1993,"TROL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",146.2475
+1993,"UNCL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",4.02166666666667
+1994,"BB","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",3.82608695652174
+1994,"BB","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",1.33333333333333
+1994,"BB","AUS","DAYS",3,"LO",NA,NA,10.75
+1994,"CN","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",1.43
+1994,"ELL","AUS","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",14590.5555555556
+1994,"ELL","AUS","HOOKS",3,"LO",NA,NA,14936.6666666667
+1994,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Western","Indian",56355.375
+1994,"ELL","ESP","HOOKS",3,"RNRI",NA,NA,13174
+1994,"ELL","REU","HOOKS",3,"LO","Indian Ocean, Western","Indian",31062.2333333333
+1994,"ELL","REU","HOOKS",3,"LO",NA,NA,7437.3075
+1994,"FN","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",45.2616666666667
+1994,"G/L","LKA","TRIPS",0,"RNRI","Indian Ocean, Eastern","Indian",648.741935483871
+1994,"GILL","IRN","FDAYS",3,"LO","Indian Ocean, Western","Indian",21689.9583333333
+1994,"GILL","IRN","FDAYS",3,"LO",NA,NA,1034.3
+1994,"GILL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",270.566666666667
+1994,"HAND","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",536.698181818182
+1994,"HATR","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",2.41176470588235
+1994,"HATR","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",10.72
+1994,"HATR","AUS","DAYS",3,"LO",NA,NA,10.1428571428571
+1994,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",460520.038461538
+1994,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",118495.533088235
+1994,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",101219.768072289
+1994,"LL","JPN","HOOKS",3,"LO",NA,NA,93843.0487804878
+1994,"LL","KOR","HOOKS",1,"LO","Atlantic, Southeast","Atlantic",18383.4285714286
+1994,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Eastern","Indian",32021.1891891892
+1994,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Western","Indian",79867.5782312925
+1994,"LL","KOR","HOOKS",1,"LO",NA,NA,17954.9230769231
+1994,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",200075.525210084
+1994,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Western","Indian",305987.354085603
+1994,"LL","TWN","HOOKS",3,"LO",NA,NA,103867.653846154
+1994,"LL","TWN","HOOKS",3,"RNRI","Atlantic, Southeast","Atlantic",77642.875
+1994,"LLEX","IND","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",145200
+1994,"PS","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",5.07692307692308
+1994,"PS","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",2.75
+1994,"PS","AUS","DAYS",3,"LO",NA,NA,1
+1994,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Western","Indian",41.8581196581197
+1994,"PS","ESP","FHOURS",3,"LO",NA,NA,66.4246376811594
+1994,"PS","ESP","HOURS",3,"LO","Indian Ocean, Western","Indian",21.3076923076923
+1994,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",45.9193768257059
+1994,"PS","FRA","FHOURS",3,"LO",NA,NA,100.291860465116
+1994,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",22.65
+1994,"PS","FRA","HOURS",3,"LO",NA,NA,48
+1994,"PS","JPN","DAYS",1,"LO","Indian Ocean, Eastern","Indian",1.82456140350877
+1994,"PS","JPN","DAYS",1,"LO","Indian Ocean, Western","Indian",1.60365853658537
+1994,"PS","JPN","DAYS",1,"LO",NA,NA,2.79411764705882
+1994,"PS","MUS","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",15.4285714285714
+1994,"PS","MUS","FHOURS",3,"LO","Indian Ocean, Western","Indian",15.5402298850575
+1994,"PS","NEIPS","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",30.7705710102489
+1994,"PS","NEIPS","FHOURS",3,"RFRI",NA,NA,50.6765957446809
+1994,"PS","NEIPS","HOURS",3,"RFRI","Indian Ocean, Western","Indian",26
+1994,"PS","NEIPS","HOURS",3,"RFRI",NA,NA,24
+1994,"PS","NEISU","FDAYS",2,"RFRI","Indian Ocean, Western","Indian",2.31764705882353
+1994,"SPOR","ZAF","DAYS",0,"LO","Atlantic, Southeast","Atlantic",285.071428571429
+1994,"SPOR","ZAF","DAYS",0,"LO","Indian Ocean, Western","Indian",81.3333333333333
+1994,"SPOR","ZAF","DAYS",0,"LO",NA,NA,151.314285714286
+1994,"TRAP","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",1.18
+1994,"TROL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",197.068
+1994,"UNCL","LKA","TRIPS",0,"RNRI","Indian Ocean, Eastern","Indian",3663.55
+1994,"UNCL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",0.11
+1995,"BB","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",4.06666666666667
+1995,"BB","AUS","DAYS",3,"LO",NA,NA,8
+1995,"ELL","AUS","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",13836.9473684211
+1995,"ELL","AUS","HOOKS",3,"LO",NA,NA,21796.75
+1995,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Western","Indian",15000
+1995,"ELL","REU","HOOKS",3,"LO","Indian Ocean, Western","Indian",24547.2858490566
+1995,"ELL","REU","HOOKS",3,"LO",NA,NA,6890.36428571429
+1995,"ELL","SYC","HOOKS",3,"LO","Indian Ocean, Western","Indian",3497.77777777778
+1995,"FN","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",118.858181818182
+1995,"G/L","LKA","TRIPS",0,"RNRI","Indian Ocean, Eastern","Indian",607.846153846154
+1995,"GILL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",374.068333333333
+1995,"HAND","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",206.511666666667
+1995,"HATR","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",2.25
+1995,"HATR","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",6.95833333333333
+1995,"HATR","AUS","DAYS",3,"LO",NA,NA,3.17857142857143
+1995,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",340257.285714286
+1995,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",144070.456521739
+1995,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",97667.8966789668
+1995,"LL","JPN","HOOKS",3,"LO",NA,NA,81111.7837837838
+1995,"LL","KOR","HOOKS",1,"LO","Atlantic, Southeast","Atlantic",33020.6666666667
+1995,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Eastern","Indian",22838.7142857143
+1995,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Western","Indian",75643.5394736842
+1995,"LL","KOR","HOOKS",1,"LO",NA,NA,10265.6666666667
+1995,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",196797.969298246
+1995,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Western","Indian",371820.674329502
+1995,"LL","TWN","HOOKS",3,"LO",NA,NA,143701.727272727
+1995,"LL","TWN","HOOKS",3,"RNRI","Atlantic, Southeast","Atlantic",140880.846153846
+1995,"LLEX","IND","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",170870.588235294
+1995,"LLEX","IND","HOOKS",3,"LO","Indian Ocean, Western","Indian",292111.111111111
+1995,"LLEX","IND","HOOKS",3,"LO",NA,NA,383133.333333333
+1995,"PS","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",8.20833333333333
+1995,"PS","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",1
+1995,"PS","AUS","DAYS",3,"LO",NA,NA,1
+1995,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",83.52
+1995,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Western","Indian",47.0501647446458
+1995,"PS","ESP","FHOURS",3,"LO",NA,NA,60.877380952381
+1995,"PS","ESP","HOURS",3,"LO","Indian Ocean, Western","Indian",21.75
+1995,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",12.2
+1995,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",44.2982547993019
+1995,"PS","FRA","FHOURS",3,"LO",NA,NA,86.7421686746988
+1995,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",22.5
+1995,"PS","FRA","HOURS",3,"LO",NA,NA,24
+1995,"PS","JPN","DAYS",1,"LO","Indian Ocean, Eastern","Indian",2.01477832512315
+1995,"PS","JPN","DAYS",1,"LO","Indian Ocean, Western","Indian",1.1
+1995,"PS","JPN","DAYS",1,"LO","Pacific, Western Central","Pacific",1
+1995,"PS","JPN","DAYS",1,"LO",NA,NA,1.09090909090909
+1995,"PS","MUS","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",18
+1995,"PS","MUS","FHOURS",3,"LO","Indian Ocean, Western","Indian",16.695652173913
+1995,"PS","MUS","FHOURS",3,"LO",NA,NA,12
+1995,"PS","NEIPS","FHOURS",3,"RFRI","Indian Ocean, Eastern","Indian",34.32
+1995,"PS","NEIPS","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",29.3751079136691
+1995,"PS","NEIPS","FHOURS",3,"RFRI",NA,NA,20.8804347826087
+1995,"PS","NEIPS","HOURS",3,"RFRI","Indian Ocean, Western","Indian",27.5
+1995,"PS","NEISU","FDAYS",2,"RFRI","Indian Ocean, Western","Indian",1
+1995,"SPOR","ZAF","DAYS",0,"LO","Atlantic, Southeast","Atlantic",346.583333333333
+1995,"SPOR","ZAF","DAYS",0,"LO","Indian Ocean, Western","Indian",64
+1995,"SPOR","ZAF","DAYS",0,"LO",NA,NA,140
+1995,"TRAP","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",0.39
+1995,"TROL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",166.818888888889
+1995,"UNCL","LKA","TRIPS",0,"RNRI","Indian Ocean, Eastern","Indian",3486.68888888889
+1995,"UNCL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",39.316
+1996,"BB","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",6.38888888888889
+1996,"BB","AUS","DAYS",3,"LO",NA,NA,4.25
+1996,"ELL","AUS","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",9401.61290322581
+1996,"ELL","AUS","HOOKS",3,"LO",NA,NA,40658
+1996,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Western","Indian",36001.5
+1996,"ELL","REU","HOOKS",3,"LO","Indian Ocean, Western","Indian",42230.2859722222
+1996,"ELL","REU","HOOKS",3,"LO",NA,NA,12692.335
+1996,"ELL","SYC","HOOKS",3,"LO","Indian Ocean, Western","Indian",2504
+1996,"FN","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",164.675833333333
+1996,"G/L","LKA","TRIPS",0,"RNRI","Indian Ocean, Eastern","Indian",890.333333333333
+1996,"GILL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",457.819166666667
+1996,"GILL","THA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",727.375
+1996,"HAND","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",113.672727272727
+1996,"HATR","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",1.16666666666667
+1996,"HATR","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",5.23076923076923
+1996,"HATR","AUS","DAYS",3,"LO",NA,NA,1.95238095238095
+1996,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",299137.285714286
+1996,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",151088.064606742
+1996,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",115475.74005305
+1996,"LL","JPN","HOOKS",3,"LO",NA,NA,48313
+1996,"LL","KOR","HOOKS",1,"LO","Atlantic, Southeast","Atlantic",48125.2
+1996,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Eastern","Indian",38746.1489361702
+1996,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Western","Indian",68914.015936255
+1996,"LL","KOR","HOOKS",1,"LO",NA,NA,9631
+1996,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",251971.877118644
+1996,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Western","Indian",310986.620825147
+1996,"LL","TWN","HOOKS",3,"LO",NA,NA,120350.083333333
+1996,"LL","TWN","HOOKS",3,"RNRI","Atlantic, Southeast","Atlantic",81586.7777777778
+1996,"LLEX","IND","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",45511.1111111111
+1996,"LLEX","IND","HOOKS",3,"LO",NA,NA,12800
+1996,"PS","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",3.62068965517241
+1996,"PS","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",1
+1996,"PS","AUS","DAYS",3,"LO",NA,NA,1
+1996,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",13.6967741935484
+1996,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Western","Indian",40.6138620689655
+1996,"PS","ESP","FHOURS",3,"LO",NA,NA,73.8717391304348
+1996,"PS","ESP","HOURS",3,"LO","Indian Ocean, Western","Indian",24.875
+1996,"PS","ESP","HOURS",3,"LO",NA,NA,29.5
+1996,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",12.84375
+1996,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",38.5535980148883
+1996,"PS","FRA","FHOURS",3,"LO",NA,NA,115.344285714286
+1996,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",23.5625
+1996,"PS","JPN","DAYS",1,"LO","Indian Ocean, Eastern","Indian",1.7648401826484
+1996,"PS","JPN","DAYS",1,"LO","Indian Ocean, Western","Indian",1.75
+1996,"PS","MUS","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",16.9090909090909
+1996,"PS","MUS","FHOURS",3,"LO","Indian Ocean, Western","Indian",16.377358490566
+1996,"PS","MUS","FHOURS",3,"LO",NA,NA,18.6666666666667
+1996,"PS","NEIPS","FHOURS",3,"RFRI","Indian Ocean, Eastern","Indian",13.31
+1996,"PS","NEIPS","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",28.1149933065596
+1996,"PS","NEIPS","FHOURS",3,"RFRI",NA,NA,54.148717948718
+1996,"PS","NEIPS","HOURS",3,"RFRI","Indian Ocean, Western","Indian",19.6666666666667
+1996,"PSS","THA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",2011.45833333333
+1996,"TROL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",370.341666666667
+1996,"UNCL","LKA","TRIPS",0,"RNRI","Indian Ocean, Eastern","Indian",4078.31578947368
+1996,"UNCL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",81.5775
+1997,"BB","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",8.05
+1997,"BB","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",1.66666666666667
+1997,"BB","AUS","DAYS",3,"LO",NA,NA,1.33333333333333
+1997,"ELL","AUS","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",13142.55
+1997,"ELL","AUS","HOOKS",3,"LO",NA,NA,18406.0833333333
+1997,"ELL","REU","HOOKS",3,"LO","Indian Ocean, Western","Indian",35437.5729166667
+1997,"ELL","REU","HOOKS",3,"LO",NA,NA,9738.79
+1997,"ELL","SYC","HOOKS",3,"LO","Indian Ocean, Western","Indian",2596.66666666667
+1997,"FN","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",19.0425
+1997,"G/L","LKA","TRIPS",0,"RNRI","Indian Ocean, Eastern","Indian",889.541666666667
+1997,"GILL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",371.255
+1997,"GILL","THA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",654.708333333333
+1997,"HAND","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",139.301666666667
+1997,"HATR","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",2
+1997,"HATR","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",5.38461538461539
+1997,"HATR","AUS","DAYS",3,"LO",NA,NA,1.88
+1997,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",245108.384615385
+1997,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",156974.799401198
+1997,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",160062.842364532
+1997,"LL","JPN","HOOKS",3,"LO",NA,NA,59017.9736842105
+1997,"LL","KOR","HOOKS",1,"LO","Atlantic, Southeast","Atlantic",61260.6666666667
+1997,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Antarctic","Indian",9520
+1997,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Eastern","Indian",61051.4
+1997,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Western","Indian",99500.4551724138
+1997,"LL","KOR","HOOKS",1,"LO",NA,NA,8319
+1997,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",141894.633663366
+1997,"LL","TWN","HOOKS",3,"LO","Indian Ocean, Western","Indian",319527.95
+1997,"LL","TWN","HOOKS",3,"LO",NA,NA,176358.28
+1997,"LL","TWN","HOOKS",3,"RNRI","Atlantic, Southeast","Atlantic",41448.3333333333
+1997,"LL","TWN","HOOKS",3,"RNRI",NA,NA,7241
+1997,"LLEX","IND","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",33882.3529411765
+1997,"LLEX","IND","HOOKS",3,"LO",NA,NA,36800
+1997,"PS","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",4.89473684210526
+1997,"PS","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",6
+1997,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",21.12
+1997,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Western","Indian",41.9846994535519
+1997,"PS","ESP","FHOURS",3,"LO",NA,NA,72.5428571428571
+1997,"PS","ESP","HOURS",3,"LO","Indian Ocean, Western","Indian",19.4444444444444
+1997,"PS","ESP","HOURS",3,"LO","Pacific, Western Central","Pacific",15
+1997,"PS","ESP","HOURS",3,"LO",NA,NA,8
+1997,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",26.1735294117647
+1997,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",36.7972089314195
+1997,"PS","FRA","FHOURS",3,"LO",NA,NA,92.2101123595506
+1997,"PS","FRA","HOURS",3,"LO","Indian Ocean, Eastern","Indian",30
+1997,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",27.8888888888889
+1997,"PS","FRA","HOURS",3,"LO","Pacific, Western Central","Pacific",5
+1997,"PS","JPN","DAYS",1,"LO","Indian Ocean, Eastern","Indian",1.72897196261682
+1997,"PS","JPN","DAYS",1,"LO","Indian Ocean, Western","Indian",1.71052631578947
+1997,"PS","JPN","DAYS",1,"LO","Pacific, Western Central","Pacific",1.5
+1997,"PS","MUS","FHOURS",3,"LO","Indian Ocean, Western","Indian",18.5263157894737
+1997,"PS","MUS","FHOURS",3,"LO",NA,NA,27.2
+1997,"PS","NEIPS","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",13.7428571428571
+1997,"PS","NEIPS","FHOURS",3,"LO","Indian Ocean, Western","Indian",25.9191176470588
+1997,"PS","NEIPS","FHOURS",3,"LO",NA,NA,156.8
+1997,"PS","NEIPS","FHOURS",3,"RFRI","Indian Ocean, Eastern","Indian",14.5
+1997,"PS","NEIPS","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",32.123984891407
+1997,"PS","NEIPS","FHOURS",3,"RFRI",NA,NA,61.0166666666667
+1997,"PS","NEIPS","HOURS",3,"RFRI","Indian Ocean, Western","Indian",21.78
+1997,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",16.6454545454545
+1997,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Western","Indian",20.4115384615385
+1997,"PSS","THA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",2082
+1997,"TRAP","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",15.54
+1997,"TROL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",432.7975
+1997,"UNCL","LKA","TRIPS",0,"RNRI","Indian Ocean, Eastern","Indian",4109.28813559322
+1997,"UNCL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",5.72
+1998,"BB","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",6.6
+1998,"BB","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",3
+1998,"BB","AUS","DAYS",3,"LO",NA,NA,2.66666666666667
+1998,"BS","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",4.624
+1998,"ELL","AUS","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",21754.6595744681
+1998,"ELL","AUS","HOOKS",3,"LO",NA,NA,31397.04
+1998,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Western","Indian",106333.846153846
+1998,"ELL","REU","HOOKS",3,"LO","Indian Ocean, Western","Indian",62385.5393939394
+1998,"ELL","REU","HOOKS",3,"LO",NA,NA,35666.982
+1998,"ELL","SYC","HOOKS",3,"LO","Indian Ocean, Western","Indian",1836.32911392405
+1998,"ELL","ZAF","HOOKS",1,"LO","Atlantic, Southeast","Atlantic",10426.6363636364
+1998,"ELL","ZAF","HOOKS",1,"LO","Indian Ocean, Western","Indian",1555.5
+1998,"ELL","ZAF","HOOKS",1,"LO",NA,NA,570.333333333333
+1998,"FN","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",55.8366666666667
+1998,"G/L","LKA","TRIPS",0,"RNRI","Indian Ocean, Eastern","Indian",851.04
+1998,"GILL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",818.025
+1998,"GILL","THA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",524.875
+1998,"HAND","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",146.7525
+1998,"HATR","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",1.66666666666667
+1998,"HATR","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",4.77777777777778
+1998,"HATR","AUS","DAYS",3,"LO",NA,NA,2.46428571428571
+1998,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",326209.333333333
+1998,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Antarctic","Indian",7373.5
+1998,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",128176.830508475
+1998,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",134506.63394683
+1998,"LL","JPN","HOOKS",3,"LO",NA,NA,67271.5555555556
+1998,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Eastern","Indian",238535.446700508
+1998,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Western","Indian",438809.648702595
+1998,"LL","TWN","HOOKS",3,"DD",NA,NA,267799.714285714
+1998,"PS","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",5.95652173913043
+1998,"PS","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",4.11111111111111
+1998,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",30.5463343108504
+1998,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Western","Indian",35.8901627218935
+1998,"PS","ESP","FHOURS",3,"LO","Pacific, Western Central","Pacific",10.2333333333333
+1998,"PS","ESP","FHOURS",3,"LO",NA,NA,103.022352941176
+1998,"PS","ESP","HOURS",3,"LO","Indian Ocean, Eastern","Indian",24
+1998,"PS","ESP","HOURS",3,"LO","Indian Ocean, Western","Indian",15
+1998,"PS","ESP","HOURS",3,"LO","Pacific, Western Central","Pacific",18.375
+1998,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",22.5835140997831
+1998,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",31.3923142613151
+1998,"PS","FRA","FHOURS",3,"LO","Pacific, Western Central","Pacific",8.4
+1998,"PS","FRA","FHOURS",3,"LO",NA,NA,52.3934065934066
+1998,"PS","FRA","HOURS",3,"LO","Indian Ocean, Eastern","Indian",24
+1998,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",24.5555555555556
+1998,"PS","FRA","HOURS",3,"LO","Pacific, Western Central","Pacific",29.6
+1998,"PS","FRA","HOURS",3,"LO",NA,NA,9
+1998,"PS","JPN","DAYS",1,"LO","Indian Ocean, Eastern","Indian",1.60900473933649
+1998,"PS","JPN","DAYS",1,"LO","Indian Ocean, Western","Indian",1.10526315789474
+1998,"PS","JPN","DAYS",1,"LO","Pacific, Western Central","Pacific",1
+1998,"PS","MUS","FHOURS",3,"LO","Indian Ocean, Western","Indian",17.8217821782178
+1998,"PS","MUS","FHOURS",3,"LO",NA,NA,32.7272727272727
+1998,"PS","NEIPS","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",17.6953488372093
+1998,"PS","NEIPS","FHOURS",3,"LO","Indian Ocean, Western","Indian",26.3098360655738
+1998,"PS","NEIPS","FHOURS",3,"LO",NA,NA,33.14
+1998,"PS","NEIPS","FHOURS",3,"RFRI","Indian Ocean, Eastern","Indian",31.1577181208054
+1998,"PS","NEIPS","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",27.3609936575053
+1998,"PS","NEIPS","FHOURS",3,"RFRI","Pacific, Western Central","Pacific",2.7
+1998,"PS","NEIPS","FHOURS",3,"RFRI",NA,NA,48.2904761904762
+1998,"PS","NEIPS","HOURS",3,"LO","Indian Ocean, Western","Indian",24
+1998,"PS","NEIPS","HOURS",3,"LO","Pacific, Western Central","Pacific",20
+1998,"PS","NEIPS","HOURS",3,"LO",NA,NA,24
+1998,"PS","NEIPS","HOURS",3,"RFRI","Indian Ocean, Eastern","Indian",24
+1998,"PS","NEIPS","HOURS",3,"RFRI","Indian Ocean, Western","Indian",24
+1998,"PS","NEISU","FDAYS",3,"RFRISP","Indian Ocean, Eastern","Indian",2.46360153256705
+1998,"PS","NEISU","FDAYS",3,"RFRISP","Indian Ocean, Western","Indian",2.62800565770863
+1998,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",22.6149253731343
+1998,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Western","Indian",21.989446366782
+1998,"PS","SYC","FHOURS",3,"LO",NA,NA,43.3027027027027
+1998,"PSS","THA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",1723.125
+1998,"TRAP","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",0.416666666666667
+1998,"TROL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",232.563333333333
+1998,"UNCL","LKA","TRIPS",0,"RNRI","Indian Ocean, Eastern","Indian",2570.8
+1998,"UNCL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",16.5833333333333
+1999,"BB","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",2.71428571428571
+1999,"BB","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",2.625
+1999,"ELL","AUS","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",47671.9861111111
+1999,"ELL","AUS","HOOKS",3,"LO",NA,NA,19494.8387096774
+1999,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Western","Indian",232287.16
+1999,"ELL","REU","HOOKS",3,"LO","Indian Ocean, Western","Indian",63145.8737313433
+1999,"ELL","REU","HOOKS",3,"LO",NA,NA,40903.8641666667
+1999,"ELL","SYC","HOOKS",3,"LO","Indian Ocean, Western","Indian",1989.09090909091
+1999,"ELL","ZAF","HOOKS",1,"LO","Atlantic, Southeast","Atlantic",14125
+1999,"ELL","ZAF","HOOKS",1,"LO","Indian Ocean, Western","Indian",8955
+1999,"ELL","ZAF","HOOKS",1,"LO",NA,NA,16959.375
+1999,"FN","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",25.0818181818182
+1999,"G/L","LKA","TRIPS",0,"RNRI","Indian Ocean, Eastern","Indian",715.44262295082
+1999,"GILL","MYS","TRIPS",3,"LO","Pacific, Western Central","Pacific",5779.5
+1999,"GILL","MYS","TRIPS",3,"LO",NA,NA,9220.93023255814
+1999,"GILL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",545.041666666667
+1999,"GILL","THA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",412.125
+1999,"HAND","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",278.103636363636
+1999,"HATR","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",2.33333333333333
+1999,"HATR","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",2.93333333333333
+1999,"HATR","AUS","DAYS",3,"LO",NA,NA,2.5
+1999,"LL","CHN","HOOKS",1,"LO","Indian Ocean, Eastern","Indian",320543.076923077
+1999,"LL","CHN","HOOKS",1,"LO","Indian Ocean, Western","Indian",100600
+1999,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",315463.6
+1999,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",120123.975429975
+1999,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",122126.181571816
+1999,"LL","JPN","HOOKS",3,"LO",NA,NA,95403.0465116279
+1999,"LL","KOR","HOOKS",1,"LO","Atlantic, Southeast","Atlantic",84775.8333333333
+1999,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Antarctic","Indian",3105
+1999,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Eastern","Indian",39293.6063829787
+1999,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Western","Indian",30905.5161290323
+1999,"LL","KOR","HOOKS",1,"LO",NA,NA,3200
+1999,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Eastern","Indian",309542.635245902
+1999,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Western","Indian",370240.273178808
+1999,"LL","TWN","HOOKS",3,"DD",NA,NA,177482.75
+1999,"LLCO","MYS","TRIPS",3,"LO",NA,NA,1035
+1999,"PS","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",8.04545454545454
+1999,"PS","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",8.89473684210526
+1999,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",15.0921052631579
+1999,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Western","Indian",33.2032648125756
+1999,"PS","ESP","FHOURS",3,"LO","Pacific, Western Central","Pacific",3.6
+1999,"PS","ESP","FHOURS",3,"LO",NA,NA,100.009722222222
+1999,"PS","ESP","HOURS",3,"LO","Indian Ocean, Western","Indian",18.7857142857143
+1999,"PS","ESP","HOURS",3,"LO","Pacific, Western Central","Pacific",23
+1999,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",20.1054794520548
+1999,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",30.3839576547231
+1999,"PS","FRA","FHOURS",3,"LO","Pacific, Western Central","Pacific",11.7
+1999,"PS","FRA","FHOURS",3,"LO",NA,NA,93.2474358974359
+1999,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",20.4
+1999,"PS","FRA","HOURS",3,"LO","Pacific, Western Central","Pacific",22.75
+1999,"PS","JPN","DAYS",1,"LO","Indian Ocean, Eastern","Indian",1.57246376811594
+1999,"PS","JPN","DAYS",1,"LO","Indian Ocean, Western","Indian",1.44117647058824
+1999,"PS","MUS","FHOURS",3,"LO","Indian Ocean, Western","Indian",15.9416058394161
+1999,"PS","MUS","FHOURS",3,"LO",NA,NA,19.3846153846154
+1999,"PS","NEIPS","FHOURS",3,"LO","Indian Ocean, Western","Indian",30.1234899328859
+1999,"PS","NEIPS","FHOURS",3,"LO",NA,NA,110.8
+1999,"PS","NEIPS","FHOURS",3,"RFRI","Indian Ocean, Eastern","Indian",12.1
+1999,"PS","NEIPS","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",25.2972162740899
+1999,"PS","NEIPS","FHOURS",3,"RFRI",NA,NA,61.6160714285714
+1999,"PS","NEIPS","HOURS",3,"LO","Indian Ocean, Western","Indian",24
+1999,"PS","NEIPS","HOURS",3,"RFRI","Indian Ocean, Western","Indian",18.3333333333333
+1999,"PS","NEIPS","HOURS",3,"RFRI","Pacific, Western Central","Pacific",15
+1999,"PS","NEISU","FDAYS",3,"RFRISP","Indian Ocean, Eastern","Indian",2.51
+1999,"PS","NEISU","FDAYS",3,"RFRISP","Indian Ocean, Western","Indian",3.2453125
+1999,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Western","Indian",21.9105351170569
+1999,"PS","SYC","FHOURS",3,"LO",NA,NA,41.6274193548387
+1999,"PSS","MYS","TRIPS",3,"LO","Pacific, Western Central","Pacific",420.5
+1999,"PSS","MYS","TRIPS",3,"LO",NA,NA,312.435897435897
+1999,"PSS","THA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",1349.08333333333
+1999,"TRAP","MYS","TRIPS",3,"LO",NA,NA,180.666666666667
+1999,"TRAP","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",3.13
+1999,"TRAW","MYS","TRIPS",3,"LO","Pacific, Western Central","Pacific",928
+1999,"TRAW","MYS","TRIPS",3,"LO",NA,NA,9526.60416666667
+1999,"TROL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",210.015833333333
+1999,"UNCL","LKA","TRIPS",0,"RNRI","Indian Ocean, Eastern","Indian",3947.42857142857
+1999,"UNCL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",20.2966666666667
+2000,"BBPS","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",4.66666666666667
+2000,"BBPS","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",6.94736842105263
+2000,"ELL","AUS","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",54605.9259259259
+2000,"ELL","AUS","HOOKS",3,"LO",NA,NA,10243.1764705882
+2000,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Western","Indian",373981.416666667
+2000,"ELL","REU","HOOKS",3,"LO","Indian Ocean, Western","Indian",72062.5740740741
+2000,"ELL","REU","HOOKS",3,"LO",NA,NA,13426.116
+2000,"ELL","ZAF","HOOKS",1,"LO","Atlantic, Southeast","Atlantic",32775.6428571429
+2000,"ELL","ZAF","HOOKS",1,"LO","Indian Ocean, Western","Indian",3682.66666666667
+2000,"ELL","ZAF","HOOKS",1,"LO",NA,NA,14608.5
+2000,"G/L","LKA","TRIPS",0,"RNRI","Indian Ocean, Eastern","Indian",689.290322580645
+2000,"GIHA","OMN","TRIPS",3,"LO","Indian Ocean, Western","Indian",1951.55329545455
+2000,"GIHA","OMN","TRIPS",3,"LO",NA,NA,2186.54179640719
+2000,"GILL","THA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",428.291666666667
+2000,"HAND","SYC","FHOURS",2,"LO","Indian Ocean, Western","Indian",8032.725
+2000,"LL","CHN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",560893.548387097
+2000,"LL","CHN","HOOKS",3,"LO","Indian Ocean, Western","Indian",105134.418604651
+2000,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",278131.307692308
+2000,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",113200.903370787
+2000,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",102299.798525799
+2000,"LL","JPN","HOOKS",3,"LO",NA,NA,84996.6136363636
+2000,"LL","KOR","HOOKS",1,"LO","Atlantic, Southeast","Atlantic",20964
+2000,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Eastern","Indian",40742.6326530612
+2000,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Western","Indian",48402.1457333333
+2000,"LL","KOR","HOOKS",1,"LO",NA,NA,7080
+2000,"LL","OMN","FDAYS",2,"LO","Indian Ocean, Western","Indian",506.5
+2000,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",12086.9545454545
+2000,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Western","Indian",10005.6630434783
+2000,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Eastern","Indian",234994.187250996
+2000,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Western","Indian",347504.919175911
+2000,"LL","TWN","HOOKS",3,"DD",NA,NA,362738.769230769
+2000,"PS","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",16.3333333333333
+2000,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",12.95
+2000,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Western","Indian",30.3934755332497
+2000,"PS","ESP","FHOURS",3,"LO","Pacific, Western Central","Pacific",9
+2000,"PS","ESP","FHOURS",3,"LO",NA,NA,80.255223880597
+2000,"PS","ESP","HOURS",3,"LO","Indian Ocean, Eastern","Indian",24
+2000,"PS","ESP","HOURS",3,"LO","Indian Ocean, Western","Indian",25.1645569620253
+2000,"PS","ESP","HOURS",3,"LO",NA,NA,24
+2000,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",13.13125
+2000,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",33.6070665571076
+2000,"PS","FRA","FHOURS",3,"LO",NA,NA,71.453164556962
+2000,"PS","FRA","HOURS",3,"LO","Indian Ocean, Eastern","Indian",24
+2000,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",23.6060606060606
+2000,"PS","FRA","HOURS",3,"LO","Pacific, Western Central","Pacific",24
+2000,"PS","FRA","HOURS",3,"LO",NA,NA,24
+2000,"PS","JPN","FDAYS",3,"LO","Indian Ocean, Eastern","Indian",1.45263157894737
+2000,"PS","JPN","FDAYS",3,"LO","Indian Ocean, Western","Indian",1.25
+2000,"PS","MUS","FHOURS",3,"LO","Indian Ocean, Western","Indian",26.25
+2000,"PS","NEIPS","FHOURS",3,"LO","Indian Ocean, Western","Indian",27.3237410071942
+2000,"PS","NEIPS","FHOURS",3,"LO",NA,NA,79.5625
+2000,"PS","NEIPS","FHOURS",3,"RFRI","Indian Ocean, Eastern","Indian",12.1461538461538
+2000,"PS","NEIPS","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",24.6908340971586
+2000,"PS","NEIPS","FHOURS",3,"RFRI",NA,NA,52.0958333333333
+2000,"PS","NEIPS","HOURS",3,"LO","Indian Ocean, Western","Indian",24
+2000,"PS","NEIPS","HOURS",3,"RFRI","Indian Ocean, Western","Indian",24.5555555555556
+2000,"PS","NEIPS","HOURS",3,"RFRI",NA,NA,24
+2000,"PS","NEISU","FDAYS",3,"RFRISP","Indian Ocean, Eastern","Indian",3.17021276595745
+2000,"PS","NEISU","FDAYS",3,"RFRISP","Indian Ocean, Western","Indian",2.89423076923077
+2000,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Western","Indian",20.4792910447761
+2000,"PS","SYC","FHOURS",3,"LO",NA,NA,47.8723076923077
+2000,"PSS","THA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",1430.54166666667
+2000,"TROL","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",7.53846153846154
+2000,"TROL","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",2.85714285714286
+2000,"TROL","AUS","DAYS",3,"LO",NA,NA,2.5
+2000,"UNCL","LKA","TRIPS",0,"RNRI","Indian Ocean, Eastern","Indian",2819.11428571429
+2001,"ELL","AUS","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",55455.1181818182
+2001,"ELL","AUS","HOOKS",3,"LO",NA,NA,3548.14285714286
+2001,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Western","Indian",37561.2765957447
+2001,"ELL","ESP","HOOKS",3,"RNRI",NA,NA,5400
+2001,"ELL","GIN","FDAYS",0,"LO","Indian Ocean, Western","Indian",1.45833333333333
+2001,"ELL","MUS","HOOKS",0,"LO","Indian Ocean, Western","Indian",3380.35714285714
+2001,"ELL","REU","HOOKS",1,"RNRI","Indian Ocean, Western","Indian",75980.1478571429
+2001,"ELL","REU","HOOKS",1,"RNRI",NA,NA,24692.555
+2001,"ELL","SYC","HOOKS",0,"LO","Indian Ocean, Western","Indian",2142.86294416244
+2001,"ELL","ZAF","HOOKS",0,"LO","Atlantic, Southeast","Atlantic",9396.66666666667
+2001,"ELL","ZAF","HOOKS",0,"LO","Indian Ocean, Western","Indian",15440
+2001,"ELL","ZAF","HOOKS",0,"LO",NA,NA,4836
+2001,"ELL","ZAF","HOOKS",1,"LO","Indian Ocean, Western","Indian",1205
+2001,"FN","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",96.2933333333333
+2001,"G/L","LKA","TRIPS",0,"RNRI","Indian Ocean, Eastern","Indian",750.918032786885
+2001,"GILL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",1531.378
+2001,"GILL","THA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",520.041666666667
+2001,"HAND","AUS","DAYS",3,"LO",NA,NA,2.92857142857143
+2001,"HAND","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",1237.58333333333
+2001,"HAND","SYC","FHOURS",2,"LO","Indian Ocean, Western","Indian",7378.575
+2001,"LL","CHN","HOOKS",0,"LO","Indian Ocean, Eastern","Indian",364371.428571429
+2001,"LL","CHN","HOOKS",0,"LO","Indian Ocean, Western","Indian",111685.714285714
+2001,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",473863.266666667
+2001,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",124690.497641509
+2001,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",99824.7772277228
+2001,"LL","JPN","HOOKS",3,"LO",NA,NA,52302.4054054054
+2001,"LL","KOR","HOOKS",0,"LO","Atlantic, Southeast","Atlantic",1500
+2001,"LL","KOR","HOOKS",0,"LO","Indian Ocean, Eastern","Indian",70016.7826086956
+2001,"LL","KOR","HOOKS",0,"LO","Indian Ocean, Western","Indian",62916.2409638554
+2001,"LL","KOR","HOOKS",0,"LO",NA,NA,3241.66666666667
+2001,"LL","MUS","HOOKS",0,"LO","Indian Ocean, Western","Indian",2833.33333333333
+2001,"LL","OMN","FDAYS",2,"LO","Indian Ocean, Western","Indian",270.25
+2001,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",8928.37837837838
+2001,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Western","Indian",7995.58208955224
+2001,"LL","SYC","HOOKS",2,"LO",NA,NA,3200
+2001,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Eastern","Indian",156998.501872659
+2001,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Western","Indian",299630.005494506
+2001,"LL","TWN","HOOKS",3,"DD",NA,NA,220725.5
+2001,"PS","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",6.39130434782609
+2001,"PS","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",2.44444444444444
+2001,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",5.8
+2001,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Western","Indian",35.3677483443709
+2001,"PS","ESP","FHOURS",3,"LO",NA,NA,103.367741935484
+2001,"PS","ESP","HOURS",3,"LO","Indian Ocean, Western","Indian",25.4761904761905
+2001,"PS","ESP","HOURS",3,"LO",NA,NA,24
+2001,"PS","FRA","FHOURS",3,"LO","Atlantic, Southeast","Atlantic",13.2
+2001,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",37.3900091659028
+2001,"PS","FRA","FHOURS",3,"LO",NA,NA,62.6741379310345
+2001,"PS","FRA","HOURS",3,"LO","Atlantic, Southeast","Atlantic",24
+2001,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",26.8
+2001,"PS","FRA","HOURS",3,"LO",NA,NA,19.6
+2001,"PS","JPN","FDAYS",3,"LO","Indian Ocean, Eastern","Indian",1.44025157232704
+2001,"PS","JPN","FDAYS",3,"LO","Indian Ocean, Western","Indian",1.32
+2001,"PS","MYT","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",18.5770642201835
+2001,"PS","MYT","FHOURS",3,"RFRI",NA,NA,26.9615384615385
+2001,"PS","MYT","HOURS",3,"RFRI","Atlantic, Southeast","Atlantic",24
+2001,"PS","MYT","HOURS",3,"RFRI","Indian Ocean, Western","Indian",21
+2001,"PS","NEIPS","FHOURS",3,"LO","Indian Ocean, Western","Indian",25.4300546448087
+2001,"PS","NEIPS","FHOURS",3,"LO",NA,NA,33.875
+2001,"PS","NEIPS","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",24.3013803680982
+2001,"PS","NEIPS","FHOURS",3,"RFRI",NA,NA,40.0840909090909
+2001,"PS","NEIPS","HOURS",3,"LO","Indian Ocean, Western","Indian",104.75
+2001,"PS","NEIPS","HOURS",3,"RFRI","Indian Ocean, Western","Indian",31.7391304347826
+2001,"PS","NEIPS","HOURS",3,"RFRI",NA,NA,23
+2001,"PS","NEISU","FDAYS",3,"RFRISP","Indian Ocean, Eastern","Indian",1.87142857142857
+2001,"PS","NEISU","FDAYS",3,"RFRISP","Indian Ocean, Western","Indian",2.55242390078918
+2001,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Western","Indian",23.5689401888772
+2001,"PS","SYC","FHOURS",3,"LO",NA,NA,47.0911111111111
+2001,"PSS","THA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",1791.58333333333
+2001,"TRAP","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",26.67
+2001,"TROL","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",12.1333333333333
+2001,"TROL","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",2
+2001,"TROL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",354.544
+2001,"UNCL","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",1
+2001,"UNCL","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",1
+2001,"UNCL","AUS","DAYS",3,"LO",NA,NA,1
+2001,"UNCL","LKA","TRIPS",0,"RNRI","Indian Ocean, Eastern","Indian",4140.70588235294
+2002,"BS","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",17.31
+2002,"ELL","AUS","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",52637
+2002,"ELL","AUS","HOOKS",3,"LO",NA,NA,4122.33333333333
+2002,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Eastern","Indian",30834.2857142857
+2002,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Western","Indian",30372.3271028037
+2002,"ELL","GIN","FDAYS",0,"LO","Atlantic, Southeast","Atlantic",1
+2002,"ELL","GIN","FDAYS",0,"LO","Indian Ocean, Western","Indian",2.03466666666667
+2002,"ELL","MUS","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",8122.25
+2002,"ELL","MUS","HOOKS",2,"LO","Indian Ocean, Western","Indian",3456.72768292683
+2002,"ELL","REU","HOOKS",1,"RNRI","Indian Ocean, Western","Indian",71638.4258928571
+2002,"ELL","REU","HOOKS",1,"RNRI",NA,NA,23281.55
+2002,"ELL","SYC","HOOKS",3,"LO","Indian Ocean, Western","Indian",1779.32575757576
+2002,"ELL","ZAF","HOOKS",1,"LO","Atlantic, Southeast","Atlantic",9418.3
+2002,"ELL","ZAF","HOOKS",1,"LO","Indian Ocean, Western","Indian",24331.0322580645
+2002,"ELL","ZAF","HOOKS",1,"LO",NA,NA,31428.125
+2002,"FN","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",26.3845454545455
+2002,"G/L","LKA","TRIPS",1,"RNRI","Indian Ocean, Eastern","Indian",708.708333333333
+2002,"GILL","MYS","DAYS",0,"LO","Pacific, Western Central","Pacific",4691.25
+2002,"GILL","MYS","DAYS",0,"LO",NA,NA,3813.85416666667
+2002,"GILL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",643.485
+2002,"GILL","THA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",635.208333333333
+2002,"HAND","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",1.63636363636364
+2002,"HAND","AUS","DAYS",3,"LO",NA,NA,1.42857142857143
+2002,"HAND","GBRT","DAYS",3,"LO","Indian Ocean, Western","Indian",148.5
+2002,"HAND","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",300.039166666667
+2002,"HAND","SYC","FHOURS",2,"LO","Indian Ocean, Western","Indian",6391.15
+2002,"LL","CHN","HOOKS",0,"LO","Indian Ocean, Eastern","Indian",161429.411764706
+2002,"LL","CHN","HOOKS",0,"LO","Indian Ocean, Western","Indian",120838.461538462
+2002,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",359904.928571429
+2002,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",125050.567567568
+2002,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",119408.022421525
+2002,"LL","JPN","HOOKS",3,"LO",NA,NA,66554.7619047619
+2002,"LL","KOR","HOOKS",1,"LO","Atlantic, Southeast","Atlantic",69157.3333333333
+2002,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Antarctic","Indian",3200
+2002,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Eastern","Indian",34088.2195121951
+2002,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Western","Indian",57524.1276595745
+2002,"LL","KOR","HOOKS",1,"LO",NA,NA,3265
+2002,"LL","OMN","FDAYS",2,"LO","Indian Ocean, Western","Indian",248.571428571429
+2002,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Eastern","Indian",157740.264227642
+2002,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Western","Indian",304385.137880987
+2002,"LL","TWN","HOOKS",3,"DD",NA,NA,123879.676470588
+2002,"PS","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",9.52941176470588
+2002,"PS","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",1
+2002,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",12
+2002,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Western","Indian",35.6958164642375
+2002,"PS","ESP","FHOURS",3,"LO",NA,NA,46.2214285714286
+2002,"PS","ESP","HOURS",3,"LO","Indian Ocean, Western","Indian",31.2857142857143
+2002,"PS","ESP","HOURS",3,"LO",NA,NA,21
+2002,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",12.26
+2002,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",32.8184349134688
+2002,"PS","FRA","FHOURS",3,"LO",NA,NA,57.7806451612903
+2002,"PS","FRA","HOURS",3,"LO","Atlantic, Southeast","Atlantic",24
+2002,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",23.6301369863014
+2002,"PS","FRA","HOURS",3,"LO",NA,NA,22.4210526315789
+2002,"PS","JPN","FDAYS",3,"LO","Indian Ocean, Eastern","Indian",1.27350427350427
+2002,"PS","JPN","FDAYS",3,"LO","Indian Ocean, Western","Indian",1.26530612244898
+2002,"PS","MYT","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",21.3432835820896
+2002,"PS","NEIPS","FHOURS",3,"LO","Indian Ocean, Western","Indian",25.4559210526316
+2002,"PS","NEIPS","FHOURS",3,"LO",NA,NA,36.4142857142857
+2002,"PS","NEIPS","FHOURS",3,"RFRI","Indian Ocean, Eastern","Indian",12.3
+2002,"PS","NEIPS","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",21.6783149171271
+2002,"PS","NEIPS","FHOURS",3,"RFRI",NA,NA,37.4526315789474
+2002,"PS","NEIPS","HOURS",3,"RFRI","Indian Ocean, Western","Indian",46.9761904761905
+2002,"PS","NEISU","FDAYS",3,"RFRISP","Indian Ocean, Eastern","Indian",1.8952380952381
+2002,"PS","NEISU","FDAYS",3,"RFRISP","Indian Ocean, Western","Indian",2.85037037037037
+2002,"PS","NEISU","FDAYS",3,"RFRISP",NA,NA,1
+2002,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",12.3
+2002,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Western","Indian",22.4016766467066
+2002,"PS","SYC","FHOURS",3,"LO",NA,NA,50.6114285714286
+2002,"PSS","MYS","DAYS",0,"LO","Pacific, Western Central","Pacific",1819.33333333333
+2002,"PSS","MYS","DAYS",0,"LO",NA,NA,499.969696969697
+2002,"PSS","THA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",1659.625
+2002,"TRAP","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",0.406666666666667
+2002,"TRAW","MYS","DAYS",0,"LO","Pacific, Western Central","Pacific",4208.41666666667
+2002,"TRAW","MYS","DAYS",0,"LO",NA,NA,11514.8125
+2002,"TROL","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",8.13636363636364
+2002,"TROL","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",3.75
+2002,"TROL","MYS","DAYS",0,"LO",NA,NA,1121.61111111111
+2002,"TROL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",183.668181818182
+2002,"UNCL","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",1
+2002,"UNCL","AUS","DAYS",3,"LO",NA,NA,4.5
+2002,"UNCL","LKA","TRIPS",1,"RNRI","Indian Ocean, Eastern","Indian",4241.25
+2002,"UNCL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",0.36
+2003,"BS","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",1.51
+2003,"ELL","AUS","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",34766.5090909091
+2003,"ELL","AUS","HOOKS",3,"LO",NA,NA,8223
+2003,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Eastern","Indian",30972.972972973
+2003,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Western","Indian",41430.7692307692
+2003,"ELL","MUS","HOOKS",0,"LO","Indian Ocean, Western","Indian",4373.64285714286
+2003,"ELL","REU","HOOKS",1,"RNRI","Indian Ocean, Western","Indian",71638.4258928571
+2003,"ELL","REU","HOOKS",1,"RNRI",NA,NA,23281.55
+2003,"ELL","SYC","HOOKS",3,"LO","Indian Ocean, Western","Indian",1608.90625
+2003,"ELL","ZAF","HOOKS",0,"LO","Atlantic, Southeast","Atlantic",16593.5454545455
+2003,"ELL","ZAF","HOOKS",0,"LO","Indian Ocean, Western","Indian",26888.75
+2003,"ELL","ZAF","HOOKS",0,"LO",NA,NA,21317.7222222222
+2003,"FN","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",88.0083333333333
+2003,"G/L","LKA","TRIPS",1,"RNRI","Indian Ocean, Eastern","Indian",923.166666666667
+2003,"GILL","MYS","DAYS",0,"LO","Pacific, Western Central","Pacific",5670
+2003,"GILL","MYS","DAYS",0,"LO",NA,NA,7672.27083333333
+2003,"GILL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",812.231666666667
+2003,"GILL","THA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",930.25
+2003,"HAND","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",1
+2003,"HAND","AUS","DAYS",3,"LO",NA,NA,2.11111111111111
+2003,"HAND","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",216.3975
+2003,"HAND","SYC","FHOURS",2,"LO","Indian Ocean, Western","Indian",5359.45
+2003,"HAND","YEM","BOATS",0,"PD","Indian Ocean, Western","Indian",4516
+2003,"HATR","REU","BOATS",1,"LO","Indian Ocean, Western","Indian",277
+2003,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",126204.545454545
+2003,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Western","Indian",352159.9
+2003,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",326330
+2003,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",94053.9259259259
+2003,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",143410.47632312
+2003,"LL","JPN","HOOKS",3,"LO",NA,NA,81078.9166666667
+2003,"LL","KOR","HOOKS",1,"LO","Atlantic, Southeast","Atlantic",24090
+2003,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Eastern","Indian",31881.5416666667
+2003,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Western","Indian",63973.9504950495
+2003,"LL","KOR","HOOKS",1,"LO",NA,NA,28587.5
+2003,"LL","MUS","HOOKS",0,"LO","Indian Ocean, Eastern","Indian",8721.58823529412
+2003,"LL","MUS","HOOKS",0,"LO","Indian Ocean, Western","Indian",10802.6818181818
+2003,"LL","OMN","FDAYS",2,"LO","Indian Ocean, Western","Indian",308.888888888889
+2003,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Antarctic","Indian",3650
+2003,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",24314.6507936508
+2003,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Western","Indian",34263.8440366972
+2003,"LL","SYC","HOOKS",2,"LO",NA,NA,12233.3333333333
+2003,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Eastern","Indian",194680.702508961
+2003,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Western","Indian",251242.190993789
+2003,"LL","TWN","HOOKS",3,"DD",NA,NA,65843.5714285714
+2003,"LLEX","ESP","HOOKS",3,"RNRI","Indian Ocean, Eastern","Indian",13522.7272727273
+2003,"PS","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",9.38461538461539
+2003,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Western","Indian",34.3134961439589
+2003,"PS","ESP","FHOURS",3,"LO",NA,NA,12.3166666666667
+2003,"PS","ESP","HOURS",3,"LO","Indian Ocean, Western","Indian",24.1034482758621
+2003,"PS","ESP","HOURS",3,"LO",NA,NA,18.2
+2003,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",38.2883164673413
+2003,"PS","FRA","FHOURS",3,"LO",NA,NA,17.2142857142857
+2003,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",23.8311688311688
+2003,"PS","FRA","HOURS",3,"LO",NA,NA,19.75
+2003,"PS","JPN","FDAYS",3,"LO","Indian Ocean, Eastern","Indian",1.37037037037037
+2003,"PS","JPN","FDAYS",3,"LO","Indian Ocean, Western","Indian",1.35
+2003,"PS","NEIPS","FHOURS",3,"LO","Indian Ocean, Western","Indian",18.825786163522
+2003,"PS","NEIPS","FHOURS",3,"LO",NA,NA,11.8
+2003,"PS","NEIPS","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",21.82625250501
+2003,"PS","NEIPS","FHOURS",3,"RFRI",NA,NA,15.5166666666667
+2003,"PS","NEIPS","HOURS",3,"LO","Indian Ocean, Western","Indian",22.6
+2003,"PS","NEIPS","HOURS",3,"RFRI","Atlantic, Southeast","Atlantic",12
+2003,"PS","NEIPS","HOURS",3,"RFRI","Indian Ocean, Western","Indian",24.3928571428571
+2003,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Western","Indian",26.8190763052209
+2003,"PS","SYC","FHOURS",3,"LO",NA,NA,14.8
+2003,"PSS","MYS","DAYS",0,"LO","Pacific, Western Central","Pacific",1807.41666666667
+2003,"PSS","MYS","DAYS",0,"LO",NA,NA,414.791666666667
+2003,"PSS","THA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",1840.25
+2003,"TRAP","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",1.295
+2003,"TRAW","MYS","DAYS",0,"LO","Pacific, Western Central","Pacific",4148.16666666667
+2003,"TRAW","MYS","DAYS",0,"LO",NA,NA,12412.2916666667
+2003,"TROL","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",1
+2003,"TROL","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",1.6
+2003,"TROL","AUS","DAYS",3,"LO",NA,NA,3.25
+2003,"TROL","MYS","DAYS",0,"LO",NA,NA,2839.89583333333
+2003,"TROL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",35.1858333333333
+2003,"UNCL","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",1
+2003,"UNCL","AUS","DAYS",3,"LO",NA,NA,2.25
+2003,"UNCL","LKA","TRIPS",1,"RNRI","Indian Ocean, Eastern","Indian",2566.33333333333
+2003,"UNCL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",1.06666666666667
+2004,"BB","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",595.818548387097
+2004,"CN","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",1.45
+2004,"ELL","AUS","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",19975.1710526316
+2004,"ELL","AUS","HOOKS",3,"LO",NA,NA,3140
+2004,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Eastern","Indian",36617.5753424658
+2004,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Western","Indian",40153.0163934426
+2004,"ELL","MUS","HOOKS",0,"LO","Indian Ocean, Western","Indian",4089.18867924528
+2004,"ELL","REU","HOOKS",1,"LO","Indian Ocean, Western","Indian",45642.8571428571
+2004,"ELL","REU","HOOKS",1,"LO",NA,NA,14833.3333333333
+2004,"ELL","SYC","HOOKS",3,"LO","Indian Ocean, Western","Indian",6462.35294117647
+2004,"ELL","ZAF","HOOKS",0,"LO","Atlantic, Southeast","Atlantic",1250
+2004,"ELL","ZAF","HOOKS",0,"LO","Indian Ocean, Western","Indian",10796.2962962963
+2004,"ELL","ZAF","HOOKS",0,"LO",NA,NA,7762.5
+2004,"FN","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",128.688888888889
+2004,"FN","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",66.7345454545455
+2004,"G/L","LKA","TRIPS",0,"RNRI","Indian Ocean, Eastern","Indian",983.1875
+2004,"GILL","MYS","DAYS",0,"LO","Pacific, Western Central","Pacific",21210.0833333333
+2004,"GILL","MYS","DAYS",0,"LO",NA,NA,101096.354166667
+2004,"GILL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",888.115833333333
+2004,"GILL","THA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",331.4375
+2004,"HAND","AUS","DAYS",3,"LO",NA,NA,1.55555555555556
+2004,"HAND","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",69.3880597014925
+2004,"HAND","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",331.718333333333
+2004,"HAND","SYC","FHOURS",2,"LO","Indian Ocean, Western","Indian",5619.925
+2004,"HAND","YEM","BOATS",0,"PD","Indian Ocean, Western","Indian",42512
+2004,"HAND","YEM","BOATS",0,"PD",NA,NA,12335
+2004,"HATR","REU","BOATS",1,"LO","Indian Ocean, Western","Indian",249
+2004,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",215591.28
+2004,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Western","Indian",190531.120481928
+2004,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",450423.75
+2004,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Antarctic","Indian",70767.6
+2004,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",84520.2644628099
+2004,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",161215.712560386
+2004,"LL","JPN","HOOKS",3,"LO",NA,NA,87336.3157894737
+2004,"LL","KOR","HOOKS",1,"LO","Atlantic, Southeast","Atlantic",75501.0555555556
+2004,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Eastern","Indian",9212.14285714286
+2004,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Western","Indian",75339.9
+2004,"LL","KOR","HOOKS",1,"LO",NA,NA,31471.0555555556
+2004,"LL","MUS","HOOKS",0,"LO","Indian Ocean, Eastern","Indian",13457.36
+2004,"LL","MUS","HOOKS",0,"LO","Indian Ocean, Western","Indian",9863.20833333333
+2004,"LL","OMN","FDAYS",2,"LO","Indian Ocean, Western","Indian",776.2
+2004,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",51467.8305263158
+2004,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Western","Indian",52239.3938636364
+2004,"LL","SYC","HOOKS",2,"LO",NA,NA,18012.5
+2004,"LL","TWN","HOOKS",3,"DD","Atlantic, Southeast","Atlantic",18306.6666666667
+2004,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Eastern","Indian",189981.464788732
+2004,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Western","Indian",261325.508695652
+2004,"LL","TWN","HOOKS",3,"DD",NA,NA,74274.4411764706
+2004,"LLCO","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",391.621621621622
+2004,"PS","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",12.3
+2004,"PS","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",2
+2004,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",14.74
+2004,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Western","Indian",39.3892757660167
+2004,"PS","ESP","FHOURS",3,"LO",NA,NA,16.2125
+2004,"PS","ESP","HOURS",3,"LO","Indian Ocean, Western","Indian",23.3207547169811
+2004,"PS","ESP","HOURS",3,"LO",NA,NA,18.3529411764706
+2004,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",39.3328473413379
+2004,"PS","FRA","FHOURS",3,"LO",NA,NA,12.7769230769231
+2004,"PS","FRA","HOURS",3,"LO","Atlantic, Southeast","Atlantic",24
+2004,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",22.8653846153846
+2004,"PS","FRA","HOURS",3,"LO",NA,NA,25.8125
+2004,"PS","JPN","FDAYS",3,"LO","Indian Ocean, Eastern","Indian",1.42045454545455
+2004,"PS","JPN","FDAYS",3,"LO","Indian Ocean, Western","Indian",1
+2004,"PS","NEIPS","FHOURS",3,"LO","Indian Ocean, Western","Indian",17.0852941176471
+2004,"PS","NEIPS","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",24.4709677419355
+2004,"PS","NEIPS","FHOURS",3,"RFRI",NA,NA,11.8
+2004,"PS","NEIPS","HOURS",3,"LO","Indian Ocean, Western","Indian",20
+2004,"PS","NEIPS","HOURS",3,"RFRI","Indian Ocean, Western","Indian",23
+2004,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",14.9384615384615
+2004,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Western","Indian",31.2863591756624
+2004,"PS","SYC","FHOURS",3,"LO",NA,NA,11.8
+2004,"PSS","MYS","DAYS",0,"LO","Pacific, Western Central","Pacific",2310.08333333333
+2004,"PSS","MYS","DAYS",0,"LO",NA,NA,597.484848484848
+2004,"PSS","THA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",1631.125
+2004,"SLL","ZAF","HOOKS",0,"LO","Atlantic, Southeast","Atlantic",18206.3636363636
+2004,"SLL","ZAF","HOOKS",0,"LO",NA,NA,7786.36363636364
+2004,"SPOR","ZAF","FDAYS",0,"LO","Atlantic, Southeast","Atlantic",44.4757281553398
+2004,"SPOR","ZAF","FDAYS",0,"LO","Indian Ocean, Western","Indian",6.84375
+2004,"TRAP","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",1.4225
+2004,"TRAW","MYS","DAYS",0,"LO","Pacific, Western Central","Pacific",5361.08333333333
+2004,"TRAW","MYS","DAYS",0,"LO",NA,NA,13925.6666666667
+2004,"TROL","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",4
+2004,"TROL","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",283.970443349754
+2004,"TROL","MYS","DAYS",0,"LO",NA,NA,7120.94444444444
+2004,"TROL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",110.64
+2004,"UNCL","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",1
+2004,"UNCL","LKA","TRIPS",0,"RNRI","Indian Ocean, Eastern","Indian",2423.71830985915
+2004,"UNCL","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",73
+2004,"UNCL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",72.77
+2005,"BB","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",532.460317460317
+2005,"ELL","AUS","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",15066.42
+2005,"ELL","AUS","HOOKS",3,"LO",NA,NA,1106.66666666667
+2005,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Eastern","Indian",59782.5789473684
+2005,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Western","Indian",53135.3611111111
+2005,"ELL","MUS","HOOKS",0,"LO","Indian Ocean, Western","Indian",3069.40869565217
+2005,"ELL","MUS","HOOKS",1,"LOAR","Indian Ocean, Western","Indian",5542.5
+2005,"ELL","MYT","FDAYS",0,"LO","Indian Ocean, Western","Indian",18
+2005,"ELL","PRT","FDAYS",0,"LO","Indian Ocean, Eastern","Indian",23.6666666666667
+2005,"ELL","PRT","FDAYS",0,"LO","Indian Ocean, Western","Indian",22.4642857142857
+2005,"ELL","REU","HOOKS",1,"RNRI","Indian Ocean, Western","Indian",46890.625
+2005,"ELL","REU","HOOKS",1,"RNRI",NA,NA,41714.2857142857
+2005,"ELL","SEN","DAYS",1,"LOAR","Indian Ocean, Eastern","Indian",39.4444444444444
+2005,"ELL","SYC","HOOKS",0,"LO","Indian Ocean, Western","Indian",2177.833
+2005,"ELL","ZAF","HOOKS",0,"LO","Atlantic, Southeast","Atlantic",7450
+2005,"ELL","ZAF","HOOKS",0,"LO","Indian Ocean, Western","Indian",10345.8823529412
+2005,"ELL","ZAF","HOOKS",0,"LO",NA,NA,7375
+2005,"FN","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",149.081081081081
+2005,"FN","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",36.02
+2005,"G/L","LKA","TRIPS",0,"LOIOSP","Indian Ocean, Eastern","Indian",424.525423728814
+2005,"GILL","MYS","DAYS",0,"LO","Pacific, Western Central","Pacific",5685.91666666667
+2005,"GILL","MYS","DAYS",0,"LO",NA,NA,5950.39583333333
+2005,"GILL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",397.738333333333
+2005,"GILL","THA","TRIPS",2,"LO","Indian Ocean, Eastern","Indian",215.238095238095
+2005,"HAND","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",1
+2005,"HAND","AUS","DAYS",3,"LO",NA,NA,1
+2005,"HAND","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",234.865079365079
+2005,"HAND","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",312.8225
+2005,"HAND","SYC","FHOURS",2,"LO","Indian Ocean, Western","Indian",6425.9
+2005,"HAND","YEM","BOATS",0,"IOTC",NA,NA,15418.75
+2005,"HAND","YEM","BOATS",0,"PD","Indian Ocean, Western","Indian",53140
+2005,"HATR","REU","BOATS",1,"RNRI","Indian Ocean, Western","Indian",208
+2005,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",225113.333333333
+2005,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Western","Indian",187502.434482759
+2005,"LL","CHN","HOOKS",2,"LO",NA,NA,66000
+2005,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",702296.105263158
+2005,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Antarctic","Indian",76479.6
+2005,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",99367.6927083333
+2005,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",179341.557777778
+2005,"LL","JPN","HOOKS",3,"LO",NA,NA,141904.307692308
+2005,"LL","KOR","HOOKS",1,"LO","Atlantic, Southeast","Atlantic",51851
+2005,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Eastern","Indian",16440
+2005,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Western","Indian",53912.5897435897
+2005,"LL","KOR","HOOKS",1,"LO",NA,NA,34503
+2005,"LL","MUS","HOOKS",0,"LO","Indian Ocean, Eastern","Indian",15302
+2005,"LL","MUS","HOOKS",0,"LO","Indian Ocean, Western","Indian",18756.6428571429
+2005,"LL","MUS","HOOKS",1,"LOEF","Indian Ocean, Western","Indian",5840.27
+2005,"LL","OMN","FDAYS",2,"LO","Indian Ocean, Western","Indian",1005.8
+2005,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",39354.2413793103
+2005,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Western","Indian",65215.5138888889
+2005,"LL","SYC","HOOKS",2,"LO",NA,NA,62933.6666666667
+2005,"LL","TWN","HOOKS",3,"DD","Atlantic, Southeast","Atlantic",43302.6363636364
+2005,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Eastern","Indian",106467.899497487
+2005,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Western","Indian",276588.757404795
+2005,"LL","TWN","HOOKS",3,"DD",NA,NA,145693.236842105
+2005,"LLCO","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",265.829268292683
+2005,"LLEX","ESP","HOOKS",3,"RNRI","Indian Ocean, Eastern","Indian",10873.6363636364
+2005,"LLEX","ESP","HOOKS",3,"RNRI","Indian Ocean, Western","Indian",9355.85714285714
+2005,"LLEX","IND","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",3917.28571428571
+2005,"LLEX","IND","HOOKS",2,"LO","Indian Ocean, Western","Indian",2600
+2005,"LLEX","IND","HOOKS",2,"LO",NA,NA,2548.85714285714
+2005,"PS","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",8.23809523809524
+2005,"PS","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",2.66666666666667
+2005,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Western","Indian",40.0314930991217
+2005,"PS","ESP","FHOURS",3,"LO",NA,NA,120.012244897959
+2005,"PS","ESP","HOURS",3,"LO","Indian Ocean, Western","Indian",24.3
+2005,"PS","ESP","HOURS",3,"LO",NA,NA,22
+2005,"PS","FRA","FHOURS",3,"LO","Atlantic, Southeast","Atlantic",15.8666666666667
+2005,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",37.046804835924
+2005,"PS","FRA","FHOURS",3,"LO",NA,NA,60.2452830188679
+2005,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",25.8387096774194
+2005,"PS","FRA","HOURS",3,"LO",NA,NA,18.6666666666667
+2005,"PS","JPN","FDAYS",3,"LO","Indian Ocean, Eastern","Indian",1.22340425531915
+2005,"PS","JPN","FDAYS",3,"LO","Indian Ocean, Western","Indian",1.63636363636364
+2005,"PS","NEIPS","FHOURS",3,"LO","Indian Ocean, Western","Indian",15.5513227513228
+2005,"PS","NEIPS","FHOURS",3,"LO",NA,NA,19.9857142857143
+2005,"PS","NEIPS","HOURS",3,"LO","Indian Ocean, Western","Indian",15.1428571428571
+2005,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Western","Indian",31.0543715846995
+2005,"PS","SYC","FHOURS",3,"LO",NA,NA,83.2611111111111
+2005,"PSS","MYS","DAYS",0,"LO","Pacific, Western Central","Pacific",2591.58333333333
+2005,"PSS","MYS","DAYS",0,"LO",NA,NA,437.895833333333
+2005,"PSS","THA","TRIPS",2,"LO","Indian Ocean, Eastern","Indian",2172.83333333333
+2005,"SLL","ZAF","HOOKS",0,"LO","Atlantic, Southeast","Atlantic",17887.3653846154
+2005,"SLL","ZAF","HOOKS",0,"LO","Indian Ocean, Western","Indian",1000
+2005,"SLL","ZAF","HOOKS",0,"LO",NA,NA,6817.85714285714
+2005,"SPOR","ZAF","FDAYS",0,"LO","Atlantic, Southeast","Atlantic",2.33333333333333
+2005,"SPOR","ZAF","FDAYS",0,"LO","Indian Ocean, Western","Indian",4.77777777777778
+2005,"TRAP","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",0.67
+2005,"TRAW","MYS","DAYS",0,"LO","Pacific, Western Central","Pacific",4154.91666666667
+2005,"TRAW","MYS","DAYS",0,"LO",NA,NA,8052.125
+2005,"TROL","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",1
+2005,"TROL","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",1.9
+2005,"TROL","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",222.421052631579
+2005,"TROL","MYS","DAYS",0,"LO",NA,NA,3526.52083333333
+2005,"TROL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",59.4654545454545
+2005,"UNCL","AUS","DAYS",3,"LO",NA,NA,1
+2005,"UNCL","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",52.2258064516129
+2006,"BB","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",501.186507936508
+2006,"BS","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",113.56
+2006,"ELL","AUS","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",15801.5111111111
+2006,"ELL","AUS","HOOKS",3,"LO",NA,NA,2400
+2006,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Eastern","Indian",22255.3965517241
+2006,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Western","Indian",52557.94
+2006,"ELL","MUS","HOOKS",2,"LO","Indian Ocean, Western","Indian",5074.80582524272
+2006,"ELL","MUS","HOOKS",2,"LO",NA,NA,700
+2006,"ELL","PRT","FDAYS",0,"LO","Atlantic, Southeast","Atlantic",9.5
+2006,"ELL","PRT","FDAYS",0,"LO","Indian Ocean, Eastern","Indian",25
+2006,"ELL","PRT","FDAYS",0,"LO","Indian Ocean, Western","Indian",28.5833333333333
+2006,"ELL","PRT","FDAYS",0,"LO",NA,NA,18.2222222222222
+2006,"ELL","REU","HOOKS",1,"RNRI","Indian Ocean, Western","Indian",36637.6811594203
+2006,"ELL","REU","HOOKS",1,"RNRI",NA,NA,30812.5
+2006,"ELL","SYC","HOOKS",0,"LO","Indian Ocean, Western","Indian",1878.12009708738
+2006,"ELL","ZAF","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",6883.33333333333
+2006,"ELL","ZAF","HOOKS",3,"LO","Indian Ocean, Western","Indian",9942.5
+2006,"ELL","ZAF","HOOKS",3,"LO",NA,NA,13002.5
+2006,"FLL","CHN","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",105276.923076923
+2006,"FLL","CHN","HOOKS",2,"LO","Indian Ocean, Western","Indian",126314.888888889
+2006,"FN","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",90.75
+2006,"FN","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",298.1
+2006,"G/L","LKA","TRIPS",0,"LOIOSP","Indian Ocean, Eastern","Indian",563.75
+2006,"GILL","MYS","DAYS",0,"LO","Pacific, Western Central","Pacific",6426
+2006,"GILL","MYS","DAYS",0,"LO",NA,NA,7597.02083333333
+2006,"GILL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",193.443333333333
+2006,"GILL","THA","TRIPS",2,"LO","Indian Ocean, Eastern","Indian",139.631578947368
+2006,"HAND","AUS","DAYS",3,"LO",NA,NA,1
+2006,"HAND","GBRT","DAYS",0,"LO","Indian Ocean, Western","Indian",134.5
+2006,"HAND","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",246.736196319018
+2006,"HAND","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",2180.632
+2006,"HAND","SYC","FHOURS",2,"LO","Indian Ocean, Western","Indian",6621
+2006,"HAND","YEM","BOATS",0,"IOTC",NA,NA,17392.66
+2006,"HAND","YEM","BOATS",0,"PD","Indian Ocean, Western","Indian",59943
+2006,"HATR","REU","BOATS",1,"RNRI","Indian Ocean, Western","Indian",254
+2006,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",118349.615384615
+2006,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Western","Indian",221358.154411765
+2006,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",366769.136363636
+2006,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",99401.124497992
+2006,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",180548.719222462
+2006,"LL","JPN","HOOKS",3,"LO",NA,NA,72278.2962962963
+2006,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Western","Indian",36558.1084337349
+2006,"LL","KOR","HOOKS",1,"LO",NA,NA,11244
+2006,"LL","MUS","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",14917
+2006,"LL","MUS","HOOKS",2,"LO","Indian Ocean, Western","Indian",11106.9032258065
+2006,"LL","OMN","FDAYS",2,"LO","Indian Ocean, Western","Indian",497.9
+2006,"LL","SYC","HOOKS",2,"LO","Atlantic, Southeast","Atlantic",38543.2857142857
+2006,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",44343.9782608696
+2006,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Western","Indian",55769.1818181818
+2006,"LL","SYC","HOOKS",2,"LO",NA,NA,60713.8333333333
+2006,"LL","TWN","HOOKS",3,"DD","Atlantic, Southeast","Atlantic",281087.133333333
+2006,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Eastern","Indian",129465.792682927
+2006,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Western","Indian",250732.068791946
+2006,"LL","TWN","HOOKS",3,"DD",NA,NA,60539.275862069
+2006,"LLCO","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",261.548387096774
+2006,"LLEX","IND","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",4565.8
+2006,"LLEX","IND","HOOKS",2,"LO","Indian Ocean, Western","Indian",3359.04347826087
+2006,"LLEX","IND","HOOKS",2,"LO",NA,NA,2359.7
+2006,"PS","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",9.4
+2006,"PS","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",2.85714285714286
+2006,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Western","Indian",40.4943406300053
+2006,"PS","ESP","FHOURS",3,"LO",NA,NA,68.124
+2006,"PS","ESP","HOURS",3,"LO","Atlantic, Southeast","Atlantic",12
+2006,"PS","ESP","HOURS",3,"LO","Indian Ocean, Western","Indian",23.0238095238095
+2006,"PS","ESP","HOURS",3,"LO",NA,NA,21.6
+2006,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",19.1428571428571
+2006,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",37.5656336088154
+2006,"PS","FRA","FHOURS",3,"LO",NA,NA,64.4913043478261
+2006,"PS","FRA","HOURS",3,"LO","Atlantic, Southeast","Atlantic",24
+2006,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",24.2857142857143
+2006,"PS","FRA","HOURS",3,"LO",NA,NA,10
+2006,"PS","JPN","FDAYS",3,"LO","Indian Ocean, Eastern","Indian",1.59574468085106
+2006,"PS","JPN","FDAYS",3,"LO","Indian Ocean, Western","Indian",1
+2006,"PS","MYT","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",14.4869047619048
+2006,"PS","MYT","HOURS",3,"RFRI","Indian Ocean, Western","Indian",21.1111111111111
+2006,"PS","MYT","HOURS",3,"RFRI",NA,NA,13
+2006,"PS","NEIPS","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",17.1863636363636
+2006,"PS","NEIPS","FHOURS",3,"LO","Indian Ocean, Western","Indian",16.3068292682927
+2006,"PS","NEIPS","FHOURS",3,"LO",NA,NA,10.5
+2006,"PS","NEIPS","HOURS",3,"LO","Indian Ocean, Western","Indian",18.8181818181818
+2006,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Western","Indian",26.4584967320261
+2006,"PS","SYC","FHOURS",3,"LO",NA,NA,47.8055555555556
+2006,"PS","THA","FDAYS",0,"LO","Indian Ocean, Eastern","Indian",1.19117647058824
+2006,"PS","THA","FDAYS",0,"LO","Indian Ocean, Western","Indian",1.98789712556732
+2006,"PS","THA","FDAYS",0,"LO","Pacific, Western Central","Pacific",1
+2006,"PS","THA","FDAYS",0,"LO",NA,NA,1
+2006,"PSS","MYS","DAYS",0,"LO","Pacific, Western Central","Pacific",2745.58333333333
+2006,"PSS","MYS","DAYS",0,"LO",NA,NA,519.75
+2006,"PSS","THA","TRIPS",2,"LO","Indian Ocean, Eastern","Indian",2069.125
+2006,"SLL","ZAF","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",18746.1538461538
+2006,"SLL","ZAF","HOOKS",3,"LO","Indian Ocean, Western","Indian",1000
+2006,"SLL","ZAF","HOOKS",3,"LO",NA,NA,7435.71428571429
+2006,"SPOR","ZAF","DAYS",3,"LO","Atlantic, Southeast","Atlantic",17.3333333333333
+2006,"SPOR","ZAF","DAYS",3,"LO","Indian Ocean, Western","Indian",4.64705882352941
+2006,"TRAW","MYS","DAYS",0,"LO","Pacific, Western Central","Pacific",4870
+2006,"TRAW","MYS","DAYS",0,"LO",NA,NA,10527.6666666667
+2006,"TROL","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",1
+2006,"TROL","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",154.409395973154
+2006,"TROL","MYS","DAYS",0,"LO",NA,NA,2853.85416666667
+2006,"TROL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",223.38
+2006,"UNCL","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",1
+2006,"UNCL","AUS","DAYS",3,"LO",NA,NA,1
+2006,"UNCL","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",48.5294117647059
+2007,"BB","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",473.992063492063
+2007,"ELL","AUS","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",13385.8363636364
+2007,"ELL","AUS","HOOKS",3,"LO",NA,NA,1490
+2007,"ELL","ESP","HOOKS",3,"RNRI","Atlantic, Southeast","Atlantic",3609
+2007,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Eastern","Indian",93530.75
+2007,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Western","Indian",65672.7674418605
+2007,"ELL","MUS","HOOKS",2,"LO","Indian Ocean, Western","Indian",4416.45
+2007,"ELL","PRT","FDAYS",0,"LO","Atlantic, Southeast","Atlantic",5
+2007,"ELL","PRT","FDAYS",0,"LO","Indian Ocean, Eastern","Indian",26.5833333333333
+2007,"ELL","PRT","FDAYS",0,"LO","Indian Ocean, Western","Indian",23.96
+2007,"ELL","PRT","FDAYS",0,"LO",NA,NA,8.33333333333333
+2007,"ELL","REU","HOOKS",1,"RNRI","Indian Ocean, Western","Indian",45929.5774647887
+2007,"ELL","REU","HOOKS",1,"RNRI",NA,NA,56222.2222222222
+2007,"ELL","SYC","HOOKS",0,"LO","Indian Ocean, Western","Indian",2827.57352941176
+2007,"ELL","ZAF","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",4663.68
+2007,"ELL","ZAF","HOOKS",3,"LO","Indian Ocean, Western","Indian",3049.15254237288
+2007,"FLL","CHN","HOOKS",2,"LO","Indian Ocean, Western","Indian",202566.666666667
+2007,"FN","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",65.4545454545455
+2007,"GILL","MYS","DAYS",0,"LO","Pacific, Western Central","Pacific",7560
+2007,"GILL","MYS","DAYS",0,"LO",NA,NA,8354.85416666667
+2007,"GILL","THA","TRIPS",2,"LO","Indian Ocean, Eastern","Indian",204.263157894737
+2007,"HAND","GBRT","DAYS",0,"LO","Indian Ocean, Western","Indian",66.9166666666667
+2007,"HAND","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",232.201298701299
+2007,"HAND","SYC","FHOURS",2,"LO","Indian Ocean, Western","Indian",5428.25
+2007,"HAND","YEM","BOATS",0,"IOTC",NA,NA,12022.79
+2007,"HAND","YEM","BOATS",0,"PD","Indian Ocean, Western","Indian",41436
+2007,"HATR","REU","BOATS",1,"RNRI","Indian Ocean, Western","Indian",256
+2007,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",169886.352941176
+2007,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Western","Indian",274227.077777778
+2007,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",186372.315789474
+2007,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",108961.238434164
+2007,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",170155.721757322
+2007,"LL","JPN","HOOKS",3,"LO",NA,NA,94395.9565217391
+2007,"LL","KOR","HOOKS",1,"LO","Atlantic, Southeast","Atlantic",37706.5625
+2007,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Eastern","Indian",12174
+2007,"LL","KOR","HOOKS",1,"LO","Indian Ocean, Western","Indian",52464.8396226415
+2007,"LL","KOR","HOOKS",1,"LO",NA,NA,30015.5
+2007,"LL","MUS","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",16194
+2007,"LL","MUS","HOOKS",2,"LO","Indian Ocean, Western","Indian",11366.7037037037
+2007,"LL","MUS","HOOKS",2,"LO",NA,NA,35350
+2007,"LL","OMN","FDAYS",2,"LO","Indian Ocean, Western","Indian",589.428571428571
+2007,"LL","SYC","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",17230.4566666667
+2007,"LL","SYC","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",39893.4472151899
+2007,"LL","SYC","HOOKS",3,"LO","Indian Ocean, Western","Indian",55671.1737174721
+2007,"LL","SYC","HOOKS",3,"LO",NA,NA,32509.82
+2007,"LL","THA","SETS",1,"LOAR","Indian Ocean, Eastern","Indian",6.59888888888889
+2007,"LL","THA","SETS",1,"LOAR","Indian Ocean, Western","Indian",5.32866666666667
+2007,"LL","THA","SETS",1,"LOAR","Pacific, Western Central","Pacific",0.05
+2007,"LL","TWN","HOOKS",3,"DD","Atlantic, Southeast","Atlantic",200223.52
+2007,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Eastern","Indian",163262.49122807
+2007,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Western","Indian",230952.091588785
+2007,"LL","TWN","HOOKS",3,"DD",NA,NA,83668.7826086956
+2007,"LLCO","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",289.717948717949
+2007,"LLEX","IND","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",4092.03333333333
+2007,"LLEX","IND","HOOKS",2,"LO","Indian Ocean, Western","Indian",3157.72
+2007,"LLEX","IND","HOOKS",2,"LO",NA,NA,2788.33333333333
+2007,"PS","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",9.66666666666667
+2007,"PS","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",3.09090909090909
+2007,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",12.2
+2007,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Western","Indian",34.9152081109925
+2007,"PS","ESP","FHOURS",3,"LO",NA,NA,103.903921568627
+2007,"PS","ESP","HOURS",3,"LO","Atlantic, Southeast","Atlantic",13
+2007,"PS","ESP","HOURS",3,"LO","Indian Ocean, Western","Indian",22.4814814814815
+2007,"PS","ESP","HOURS",3,"LO",NA,NA,24
+2007,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",10.82
+2007,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",40.7240892193309
+2007,"PS","FRA","FHOURS",3,"LO",NA,NA,90.6760869565217
+2007,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",25.7142857142857
+2007,"PS","JPN","FDAYS",3,"LO","Indian Ocean, Eastern","Indian",1.41628959276018
+2007,"PS","JPN","FDAYS",3,"LO","Indian Ocean, Western","Indian",1.2
+2007,"PS","MYT","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",17.631067961165
+2007,"PS","MYT","FHOURS",3,"RFRI",NA,NA,13.8076923076923
+2007,"PS","MYT","HOURS",3,"RFRI","Indian Ocean, Western","Indian",22.8666666666667
+2007,"PS","MYT","HOURS",3,"RFRI",NA,NA,12
+2007,"PS","NEIPS","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",12.3
+2007,"PS","NEIPS","FHOURS",3,"LO","Indian Ocean, Western","Indian",15.4731958762887
+2007,"PS","NEIPS","FHOURS",3,"LO",NA,NA,15.2263157894737
+2007,"PS","NEIPS","HOURS",3,"LO","Indian Ocean, Western","Indian",18
+2007,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",12.0714285714286
+2007,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Western","Indian",25.0508909479686
+2007,"PS","SYC","FHOURS",3,"LO",NA,NA,61.3790697674419
+2007,"PSS","MYS","DAYS",0,"LO","Pacific, Western Central","Pacific",2905.16666666667
+2007,"PSS","MYS","DAYS",0,"LO",NA,NA,473.833333333333
+2007,"PSS","THA","TRIPS",2,"LO","Indian Ocean, Eastern","Indian",1569.83333333333
+2007,"SLL","ZAF","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",5829.75438596491
+2007,"SLL","ZAF","HOOKS",3,"LO","Indian Ocean, Western","Indian",100
+2007,"SLL","ZAF","HOOKS",3,"LO",NA,NA,1800
+2007,"SPOR","ZAF","DAYS",3,"LO","Indian Ocean, Western","Indian",4.05
+2007,"TRAW","MYS","DAYS",0,"LO","Pacific, Western Central","Pacific",5622.5
+2007,"TRAW","MYS","DAYS",0,"LO",NA,NA,12055.9375
+2007,"TROL","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",190.923611111111
+2007,"TROL","MYS","DAYS",0,"LO",NA,NA,3001.60416666667
+2007,"UNCL","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",1
+2007,"UNCL","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",1
+2007,"UNCL","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",61.55
+2008,"BB","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",477.980158730159
+2008,"ELL","AUS","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",13297.7058823529
+2008,"ELL","AUS","HOOKS",3,"LO",NA,NA,1679.66666666667
+2008,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Eastern","Indian",54538.7857142857
+2008,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Western","Indian",59960.4179104478
+2008,"ELL","ESP","HOOKS",3,"RNRI",NA,NA,52186.5
+2008,"ELL","MUS","HOOKS",2,"LO","Indian Ocean, Western","Indian",3413.08196721311
+2008,"ELL","MUS","HOOKS",2,"LO",NA,NA,2000
+2008,"ELL","PRT","HOOKS",0,"LO","Atlantic, Southeast","Atlantic",12500
+2008,"ELL","PRT","HOOKS",0,"LO","Indian Ocean, Eastern","Indian",8088.88888888889
+2008,"ELL","PRT","HOOKS",0,"LO","Indian Ocean, Western","Indian",10587.1428571429
+2008,"ELL","REU","HOOKS",3,"LO","Indian Ocean, Western","Indian",38733.8778461538
+2008,"ELL","REU","HOOKS",3,"LO",NA,NA,32133.2389473684
+2008,"ELL","SYC","HOOKS",2,"LO","Indian Ocean, Western","Indian",1848.28832298137
+2008,"ELL","ZAF","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",1650
+2008,"ELL","ZAF","HOOKS",3,"LO","Indian Ocean, Western","Indian",4945.13888888889
+2008,"FLL","CHN","HOOKS",2,"LO","Indian Ocean, Western","Indian",178676.363636364
+2008,"FN","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",56.8
+2008,"GILL","MYS","DAYS",2,"LO","Pacific, Western Central","Pacific",6515
+2008,"GILL","MYS","DAYS",2,"LO",NA,NA,8097.58333333333
+2008,"GILL","THA","TRIPS",2,"LO","Indian Ocean, Eastern","Indian",202.291666666667
+2008,"HAND","GBRT","DAYS",0,"LO","Indian Ocean, Western","Indian",118.666666666667
+2008,"HAND","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",146.11797752809
+2008,"HAND","SYC","FHOURS",2,"LO","Indian Ocean, Western","Indian",6362.725
+2008,"LL","CHN","HOOKS",2,"LO","Atlantic, Southeast","Atlantic",95000
+2008,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",129144.615384615
+2008,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Western","Indian",249486.37037037
+2008,"LL","CHN","HOOKS",2,"LO",NA,NA,77474.3333333333
+2008,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",131471.086956522
+2008,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",113898.361111111
+2008,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",115913.652272727
+2008,"LL","JPN","HOOKS",3,"LO",NA,NA,84156.5625
+2008,"LL","KOR","HOOKS",2,"LO","Atlantic, Southeast","Atlantic",42157.125
+2008,"LL","KOR","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",46076.2432432432
+2008,"LL","KOR","HOOKS",2,"LO","Indian Ocean, Western","Indian",28060.2105263158
+2008,"LL","KOR","HOOKS",2,"LO",NA,NA,39984.6666666667
+2008,"LL","MUS","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",9342.33333333333
+2008,"LL","MUS","HOOKS",2,"LO","Indian Ocean, Western","Indian",13676.59375
+2008,"LL","OMN","FDAYS",2,"LO","Indian Ocean, Western","Indian",10.8917197452229
+2008,"LL","OMN","FDAYS",2,"LO",NA,NA,1.58333333333333
+2008,"LL","SYC","HOOKS",2,"LO","Atlantic, Southeast","Atlantic",5727.7425
+2008,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",6857.43859375
+2008,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Western","Indian",9043.77860962567
+2008,"LL","SYC","HOOKS",2,"LO",NA,NA,3100
+2008,"LL","THA","SETS",3,"LO","Indian Ocean, Western","Indian",7.44642857142857
+2008,"LL","TWN","HOOKS",3,"DD","Atlantic, Southeast","Atlantic",302541.791666667
+2008,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Eastern","Indian",157386.561728395
+2008,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Western","Indian",172986.012987013
+2008,"LL","TWN","HOOKS",3,"DD",NA,NA,127055.315789474
+2008,"LLCO","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",277.045454545455
+2008,"LLEX","IND","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",4138.04347826087
+2008,"LLEX","IND","HOOKS",2,"LO","Indian Ocean, Western","Indian",2677.46153846154
+2008,"LLEX","IND","HOOKS",2,"LO",NA,NA,1032.5
+2008,"PS","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",90.3166666666667
+2008,"PS","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",11
+2008,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",16.2833333333333
+2008,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Western","Indian",32.883282674772
+2008,"PS","ESP","FHOURS",3,"LO",NA,NA,52.531746031746
+2008,"PS","ESP","HOURS",3,"LO","Atlantic, Southeast","Atlantic",12
+2008,"PS","ESP","HOURS",3,"LO","Indian Ocean, Western","Indian",29.5172413793103
+2008,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",36.2169386169386
+2008,"PS","FRA","FHOURS",3,"LO",NA,NA,41.9
+2008,"PS","FRA","HOURS",3,"LO","Atlantic, Southeast","Atlantic",24
+2008,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",23.5333333333333
+2008,"PS","FRA","HOURS",3,"LO",NA,NA,16.25
+2008,"PS","JPN","FDAYS",3,"LO","Indian Ocean, Eastern","Indian",1.4384236453202
+2008,"PS","JPN","FDAYS",3,"LO","Indian Ocean, Western","Indian",1
+2008,"PS","MYT","FHOURS",3,"RFRI","Indian Ocean, Eastern","Indian",12.2
+2008,"PS","MYT","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",17.5689373297003
+2008,"PS","MYT","FHOURS",3,"RFRI",NA,NA,22.6592592592593
+2008,"PS","MYT","HOURS",3,"RFRI","Indian Ocean, Western","Indian",23.5
+2008,"PS","MYT","HOURS",3,"RFRI",NA,NA,24
+2008,"PS","NEIPS","FHOURS",3,"LO","Indian Ocean, Western","Indian",15.4411483253589
+2008,"PS","NEIPS","FHOURS",3,"LO",NA,NA,20.125
+2008,"PS","NEIPS","HOURS",3,"LO","Indian Ocean, Western","Indian",17.8888888888889
+2008,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",10.5125
+2008,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Western","Indian",25.2241407528642
+2008,"PS","SYC","FHOURS",3,"LO",NA,NA,36.8375
+2008,"PSS","MYS","DAYS",2,"LO","Pacific, Western Central","Pacific",3084.66666666667
+2008,"PSS","MYS","DAYS",2,"LO",NA,NA,487
+2008,"PSS","THA","TRIPS",2,"LO","Indian Ocean, Eastern","Indian",1344.83333333333
+2008,"SLL","ZAF","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",5598.75
+2008,"SLL","ZAF","HOOKS",3,"LO","Indian Ocean, Western","Indian",1300
+2008,"SPOR","ZAF","DAYS",3,"LO","Atlantic, Southeast","Atlantic",2.2
+2008,"SPOR","ZAF","DAYS",3,"LO","Indian Ocean, Western","Indian",3.8125
+2008,"TRAW","MYS","DAYS",2,"LO","Pacific, Western Central","Pacific",5556.91666666667
+2008,"TRAW","MYS","DAYS",2,"LO",NA,NA,10615.0208333333
+2008,"TROL","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",237.627586206897
+2008,"TROL","MYS","DAYS",2,"LO",NA,NA,3425.79166666667
+2008,"UNCL","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",74.375
+2009,"BB","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",493.912698412698
+2009,"BB","ZAF","DAYS",3,"LO","Atlantic, Southeast","Atlantic",4
+2009,"ELL","AUS","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",14667.7222222222
+2009,"ELL","AUS","HOOKS",3,"LO",NA,NA,1106
+2009,"ELL","ESP","HOOKS",3,"RNRI","Atlantic, Southeast","Atlantic",26400
+2009,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Eastern","Indian",31154.6666666667
+2009,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Western","Indian",47532.8857142857
+2009,"ELL","PRT","HOOKS",0,"LO","Indian Ocean, Eastern","Indian",3200
+2009,"ELL","PRT","HOOKS",0,"LO","Indian Ocean, Western","Indian",8818.70967741935
+2009,"ELL","PRT","HOOKS",0,"LO",NA,NA,5178
+2009,"ELL","REU","HOOKS",3,"LO","Indian Ocean, Western","Indian",10149.9615168539
+2009,"ELL","REU","HOOKS",3,"LO",NA,NA,6039.02
+2009,"ELL","SYC","HOOKS",2,"LO","Indian Ocean, Western","Indian",2949.38932098765
+2009,"ELL","ZAF","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",3104.31034482759
+2009,"ELL","ZAF","HOOKS",3,"LO","Indian Ocean, Western","Indian",4352.54237288136
+2009,"ELL","ZAF","HOOKS",3,"LO",NA,NA,1300
+2009,"FLL","CHN","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",310490
+2009,"FN","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",82.25
+2009,"GILL","MYS","DAYS",2,"LO","Pacific, Western Central","Pacific",10863
+2009,"GILL","MYS","DAYS",2,"LO",NA,NA,4790.86875
+2009,"HAND","GBRT","DAYS",0,"LO","Indian Ocean, Western","Indian",1934.91666666667
+2009,"HAND","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",204.90780141844
+2009,"HAND","SYC","FHOURS",2,"LO","Indian Ocean, Western","Indian",6815.675
+2009,"LL","CHN","HOOKS",2,"LO","Atlantic, Southeast","Atlantic",96977.7777777778
+2009,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",156488.888888889
+2009,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Western","Indian",147077.804878049
+2009,"LL","CHN","HOOKS",2,"LO",NA,NA,75000
+2009,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",130576.133333333
+2009,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",116938.952702703
+2009,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",81361.6081871345
+2009,"LL","JPN","HOOKS",3,"LO",NA,NA,28880.5263157895
+2009,"LL","KOR","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",43070.5820895522
+2009,"LL","KOR","HOOKS",2,"LO","Indian Ocean, Western","Indian",40004.1978021978
+2009,"LL","KOR","HOOKS",2,"LO",NA,NA,32497.8
+2009,"LL","MUS","HOOKS",2,"LO","Indian Ocean, Western","Indian",8067.6
+2009,"LL","OMN","FDAYS",2,"LO","Indian Ocean, Western","Indian",36.8305084745763
+2009,"LL","OMN","FDAYS",2,"LO",NA,NA,5.5
+2009,"LL","SYC","HOOKS",2,"LO","Atlantic, Southeast","Atlantic",22722.4970588235
+2009,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",11305.8012631579
+2009,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Western","Indian",12470.7250520833
+2009,"LL","SYC","HOOKS",2,"LO",NA,NA,4622.86
+2009,"LL","TWN","HOOKS",3,"DD","Atlantic, Southeast","Atlantic",537521.931034483
+2009,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Eastern","Indian",281715.15625
+2009,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Western","Indian",218882.28960396
+2009,"LL","TWN","HOOKS",3,"DD",NA,NA,50889.8461538462
+2009,"LLCO","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",436.857142857143
+2009,"LLEX","IND","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",4018.63636363636
+2009,"LLEX","IND","HOOKS",2,"LO","Indian Ocean, Western","Indian",2228.6
+2009,"LLEX","IND","HOOKS",2,"LO",NA,NA,2590
+2009,"PS","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",111.586206896552
+2009,"PS","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",17.9816666666667
+2009,"PS","AUS","DAYS",3,"LO",NA,NA,6.5
+2009,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",18.6761904761905
+2009,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Western","Indian",24.2898717948718
+2009,"PS","ESP","FHOURS",3,"LO",NA,NA,88.6263157894737
+2009,"PS","ESP","HOURS",3,"LO","Indian Ocean, Western","Indian",22.7948717948718
+2009,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",16.5040816326531
+2009,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",28.8232300884956
+2009,"PS","FRA","FHOURS",3,"LO",NA,NA,66.3390243902439
+2009,"PS","FRA","HOURS",3,"LO","Atlantic, Southeast","Atlantic",36
+2009,"PS","FRA","HOURS",3,"LO","Indian Ocean, Eastern","Indian",24
+2009,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",31.3404255319149
+2009,"PS","FRA","HOURS",3,"LO",NA,NA,24
+2009,"PS","JPN","FDAYS",3,"LO","Indian Ocean, Eastern","Indian",1.29556650246305
+2009,"PS","MYT","FHOURS",3,"RFRI","Indian Ocean, Eastern","Indian",15.4714285714286
+2009,"PS","MYT","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",16.7612804878049
+2009,"PS","MYT","FHOURS",3,"RFRI",NA,NA,27.9192307692308
+2009,"PS","MYT","HOURS",3,"RFRI","Indian Ocean, Western","Indian",16.5882352941176
+2009,"PS","NEIPS","FHOURS",3,"LO","Indian Ocean, Western","Indian",14.1298245614035
+2009,"PS","NEIPS","FHOURS",3,"LO",NA,NA,18.3034482758621
+2009,"PS","NEIPS","HOURS",3,"LO","Indian Ocean, Western","Indian",14.4166666666667
+2009,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",12.8533333333333
+2009,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Western","Indian",22.0291304347826
+2009,"PS","SYC","FHOURS",3,"LO",NA,NA,61.9864406779661
+2009,"PS","THA","SETS",1,"LO","Indian Ocean, Eastern","Indian",1
+2009,"PS","THA","SETS",1,"LO","Indian Ocean, Western","Indian",1.1
+2009,"PS","THA","SETS",3,"LO","Indian Ocean, Eastern","Indian",3.92857142857143
+2009,"PS","THA","SETS",3,"LO","Indian Ocean, Western","Indian",2.7037037037037
+2009,"PSS","MYS","DAYS",2,"LO","Pacific, Western Central","Pacific",3620.66666666667
+2009,"PSS","MYS","DAYS",2,"LO",NA,NA,535.705
+2009,"SLL","ZAF","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",3487.75510204082
+2009,"SPOR","ZAF","DAYS",3,"LO","Atlantic, Southeast","Atlantic",23.7297297297297
+2009,"SPOR","ZAF","DAYS",3,"LO","Indian Ocean, Western","Indian",2
+2009,"TRAW","MYS","DAYS",2,"LO","Pacific, Western Central","Pacific",5013.33333333333
+2009,"TRAW","MYS","DAYS",2,"LO",NA,NA,9458.170625
+2009,"TROL","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",245.320754716981
+2009,"TROL","MYS","DAYS",2,"LO",NA,NA,5173.93222222222
+2009,"UNCL","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",14
+2009,"UNCL","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",57.0666666666667
+2010,"BB","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",453.242063492063
+2010,"ELL","AUS","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",22115
+2010,"ELL","AUS","HOOKS",3,"LO",NA,NA,3241
+2010,"ELL","ESP","HOOKS",3,"RNRI","Atlantic, Southeast","Atlantic",45600
+2010,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Eastern","Indian",80000
+2010,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Western","Indian",82545.8571428571
+2010,"ELL","MUS","HOOKS",2,"LO","Indian Ocean, Western","Indian",3900
+2010,"ELL","PRT","HOOKS",0,"LO","Atlantic, Southeast","Atlantic",1190
+2010,"ELL","PRT","HOOKS",0,"LO","Indian Ocean, Eastern","Indian",6537.5
+2010,"ELL","PRT","HOOKS",0,"LO","Indian Ocean, Western","Indian",14310.2295081967
+2010,"ELL","PRT","HOOKS",0,"LO",NA,NA,4544
+2010,"ELL","REU","HOOKS",3,"LO","Indian Ocean, Western","Indian",8141.47755411255
+2010,"ELL","REU","HOOKS",3,"LO",NA,NA,3364.875
+2010,"ELL","SYC","HOOKS",2,"LO","Indian Ocean, Western","Indian",3348.53748344371
+2010,"ELL","SYC","HOOKS",2,"LO",NA,NA,703.53
+2010,"FLL","CHN","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",281551.666666667
+2010,"FLL","TWN","HOOKS",3,"DD","Indian Ocean, Eastern","Indian",151220.426008969
+2010,"FLL","TWN","HOOKS",3,"DD","Indian Ocean, Western","Indian",128300.35426009
+2010,"FLL","TWN","HOOKS",3,"DD",NA,NA,49876
+2010,"GILL","MYS","DAYS",2,"LO","Pacific, Western Central","Pacific",9680.65545454545
+2010,"GILL","MYS","DAYS",2,"LO",NA,NA,12309.98
+2010,"HAND","GBRT","DAYS",0,"LO","Indian Ocean, Western","Indian",468
+2010,"HAND","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",90.4843049327354
+2010,"HAND","SYC","FHOURS",2,"LO","Indian Ocean, Western","Indian",6673.16666666667
+2010,"LL","CHN","HOOKS",2,"LO","Atlantic, Southeast","Atlantic",140200
+2010,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",130275.853658537
+2010,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Western","Indian",130449.21875
+2010,"LL","CHN","HOOKS",2,"LO",NA,NA,170571.428571429
+2010,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",81809.32
+2010,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",90717.2211981567
+2010,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",66553.8691588785
+2010,"LL","JPN","HOOKS",3,"LO",NA,NA,39242
+2010,"LL","KOR","HOOKS",2,"LO","Atlantic, Southeast","Atlantic",57558.5555555556
+2010,"LL","KOR","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",44066.4
+2010,"LL","KOR","HOOKS",2,"LO","Indian Ocean, Western","Indian",36384.7111111111
+2010,"LL","KOR","HOOKS",2,"LO",NA,NA,36559.5
+2010,"LL","MUS","HOOKS",2,"LO","Indian Ocean, Western","Indian",8342.52
+2010,"LL","SYC","HOOKS",2,"LO","Atlantic, Southeast","Atlantic",34653
+2010,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",7681.54971428571
+2010,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Western","Indian",11588.8775471698
+2010,"LL","TWN","HOOKS",3,"DD","Atlantic, Southeast","Atlantic",353176.578947368
+2010,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Eastern","Indian",196633.203539823
+2010,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Western","Indian",167626.523659306
+2010,"LL","TWN","HOOKS",3,"DD",NA,NA,48657.2222222222
+2010,"LLEX","IND","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",6146.66666666667
+2010,"LLEX","IND","HOOKS",2,"LO","Indian Ocean, Western","Indian",2436.54545454545
+2010,"LLEX","IND","HOOKS",2,"LO",NA,NA,3105
+2010,"PS","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",10.1818181818182
+2010,"PS","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",2.66666666666667
+2010,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",12.2
+2010,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Western","Indian",25.6980649188514
+2010,"PS","ESP","FHOURS",3,"LO",NA,NA,79.6779661016949
+2010,"PS","ESP","HOURS",3,"LO","Indian Ocean, Western","Indian",19.7647058823529
+2010,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",14.7466666666667
+2010,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",26.6886234357224
+2010,"PS","FRA","FHOURS",3,"LO",NA,NA,40.4191489361702
+2010,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",26.7058823529412
+2010,"PS","JPN","FDAYS",3,"LO","Indian Ocean, Eastern","Indian",1.27397260273973
+2010,"PS","JPN","FDAYS",3,"LO","Indian Ocean, Western","Indian",1
+2010,"PS","MYT","FHOURS",3,"RFRI","Indian Ocean, Eastern","Indian",14.0285714285714
+2010,"PS","MYT","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",18.9977142857143
+2010,"PS","MYT","FHOURS",3,"RFRI",NA,NA,23.671875
+2010,"PS","MYT","HOURS",3,"RFRI","Indian Ocean, Western","Indian",24.1818181818182
+2010,"PS","MYT","HOURS",3,"RFRI",NA,NA,24
+2010,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",12.73125
+2010,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Western","Indian",20.1355591311344
+2010,"PS","SYC","FHOURS",3,"LO",NA,NA,48.0272727272727
+2010,"PSS","MYS","DAYS",2,"LO","Pacific, Western Central","Pacific",3286.59666666667
+2010,"PSS","MYS","DAYS",2,"LO",NA,NA,973.37085106383
+2010,"TRAW","MYS","DAYS",2,"LO","Pacific, Western Central","Pacific",5671.0275
+2010,"TRAW","MYS","DAYS",2,"LO",NA,NA,11664.1408333333
+2010,"TROL","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",195.15923566879
+2010,"TROL","MYS","DAYS",2,"LO",NA,NA,12636.6185416667
+2010,"UNCL","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",30.6428571428571
+2011,"BB","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",344.821138211382
+2011,"BS","OMN","BOATS",1,"PD",NA,NA,73.7222222222222
+2011,"ELL","AUS","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",17134.8571428571
+2011,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Eastern","Indian",132160
+2011,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Western","Indian",72527.12
+2011,"ELL","MUS","HOOKS",2,"LO","Indian Ocean, Western","Indian",4279.3220338983
+2011,"ELL","PRT","HOOKS",0,"LO","Indian Ocean, Eastern","Indian",8476.47058823529
+2011,"ELL","PRT","HOOKS",0,"LO","Indian Ocean, Western","Indian",11007.2463768116
+2011,"ELL","REU","HOOKS",3,"LO","Indian Ocean, Western","Indian",16786.924784689
+2011,"ELL","REU","HOOKS",3,"LO",NA,NA,13725.3484210526
+2011,"ELL","SYC","HOOKS",2,"LO","Indian Ocean, Western","Indian",2784.03846153846
+2011,"ELL","ZAF","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",5112.19512195122
+2011,"ELL","ZAF","HOOKS",3,"LO","Indian Ocean, Western","Indian",4819.1
+2011,"ELL","ZAF","HOOKS",3,"LO",NA,NA,1283.33333333333
+2011,"FLL","CHN","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",213058.333333333
+2011,"FLL","TWN","HOOKS",3,"DD","Atlantic, Southeast","Atlantic",40300
+2011,"FLL","TWN","HOOKS",3,"DD","Indian Ocean, Eastern","Indian",84333.4115523466
+2011,"FLL","TWN","HOOKS",3,"DD","Indian Ocean, Western","Indian",268433.055555556
+2011,"FLL","TWN","HOOKS",3,"DD",NA,NA,81728.4
+2011,"GILL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",788.583333333333
+2011,"GILL","OMN","BOATS",1,"PD",NA,NA,643.5
+2011,"HAND","AUS","DAYS",3,"LO",NA,NA,1
+2011,"HAND","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",189.487288135593
+2011,"HAND","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",363.5
+2011,"HAND","OMN","BOATS",1,"PD",NA,NA,618
+2011,"HATR","REU","HOOKS",3,"LO","Indian Ocean, Western","Indian",20426.2958333333
+2011,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",81200
+2011,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Western","Indian",98798.3333333333
+2011,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",110052.111111111
+2011,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Antarctic","Indian",12232
+2011,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",93169.5460992908
+2011,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",177639.941176471
+2011,"LL","JPN","HOOKS",3,"LO",NA,NA,28434.4782608696
+2011,"LL","KOR","HOOKS",2,"LO","Atlantic, Southeast","Atlantic",105877.75
+2011,"LL","KOR","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",87080.0816326531
+2011,"LL","KOR","HOOKS",2,"LO","Indian Ocean, Western","Indian",44285.5333333333
+2011,"LL","KOR","HOOKS",2,"LO",NA,NA,3525.5
+2011,"LL","SYC","HOOKS",2,"LO","Atlantic, Southeast","Atlantic",30041.332
+2011,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",9378.59215053763
+2011,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Western","Indian",15141.1621276596
+2011,"LL","THA","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",4666.66666666667
+2011,"LL","THA","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",5740
+2011,"LL","THA","HOOKS",3,"LO","Indian Ocean, Western","Indian",6077.51937984496
+2011,"LL","TWN","HOOKS",3,"DD","Atlantic, Southeast","Atlantic",417577.454545455
+2011,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Eastern","Indian",214074.979166667
+2011,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Western","Indian",186396.239819005
+2011,"LL","TWN","HOOKS",3,"DD",NA,NA,81374.8333333333
+2011,"LLCO","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",23.5
+2011,"LLEX","IND","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",6591.36363636364
+2011,"LLEX","IND","HOOKS",2,"LO","Indian Ocean, Western","Indian",3417.85714285714
+2011,"LLEX","IND","HOOKS",2,"LO",NA,NA,2415
+2011,"PS","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",6.26086956521739
+2011,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",9.1
+2011,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Western","Indian",26.4223945409429
+2011,"PS","ESP","FHOURS",3,"LO",NA,NA,63.9946428571429
+2011,"PS","ESP","HOURS",3,"LO","Indian Ocean, Western","Indian",23.4545454545455
+2011,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",16.8
+2011,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",27.3567535545024
+2011,"PS","FRA","FHOURS",3,"LO",NA,NA,46.2555555555556
+2011,"PS","FRA","HOURS",3,"LO","Indian Ocean, Eastern","Indian",24
+2011,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",23.0625
+2011,"PS","JPN","SETS",3,"LO","Indian Ocean, Eastern","Indian",1.26923076923077
+2011,"PS","JPN","SETS",3,"LO","Indian Ocean, Western","Indian",3
+2011,"PS","MYT","FHOURS",3,"RFRI","Indian Ocean, Eastern","Indian",22.9625
+2011,"PS","MYT","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",20.2686335403727
+2011,"PS","MYT","FHOURS",3,"RFRI",NA,NA,40.31875
+2011,"PS","MYT","HOURS",3,"RFRI","Indian Ocean, Western","Indian",27.7333333333333
+2011,"PS","MYT","HOURS",3,"RFRI",NA,NA,24
+2011,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",9.56
+2011,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Western","Indian",22.4466086956522
+2011,"PS","SYC","FHOURS",3,"LO",NA,NA,46.9520833333333
+2011,"SLL","ZAF","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",4959.64912280702
+2011,"SPOR","ZAF","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",5.16666666666667
+2011,"SPOR","ZAF","HOOKS",3,"LO","Indian Ocean, Western","Indian",6.5
+2011,"TRAP","OMN","BOATS",1,"PD",NA,NA,221.683333333333
+2011,"TROL","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",1.38461538461538
+2011,"TROL","AUS","DAYS",3,"LO","Pacific, Southwest","Pacific",1
+2011,"TROL","AUS","DAYS",3,"LO",NA,NA,2
+2011,"TROL","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",115.231213872832
+2011,"UNCL","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",46.4285714285714
+2012,"BB","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",329.1875
+2012,"BS","OMN","BOATS",1,"PD",NA,NA,50.4722222222222
+2012,"ELL","AUS","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",17108.1538461538
+2012,"ELL","AUS","HOOKS",3,"LO",NA,NA,2590
+2012,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Eastern","Indian",134200
+2012,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Western","Indian",76942.1186440678
+2012,"ELL","MUS","HOOKS",2,"LO","Indian Ocean, Western","Indian",2848.4375
+2012,"ELL","REU","HOOKS",3,"LO","Indian Ocean, Western","Indian",6554.20914512922
+2012,"ELL","REU","HOOKS",3,"LO",NA,NA,2737.35038461538
+2012,"ELL","SYC","HOOKS",2,"LO","Indian Ocean, Western","Indian",2731.12396694215
+2012,"ELL","ZAF","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",4383.02816901408
+2012,"ELL","ZAF","HOOKS",3,"LO","Indian Ocean, Western","Indian",5811.91666666667
+2012,"FLL","CHN","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",235710
+2012,"FLL","CHN","HOOKS",2,"LO","Indian Ocean, Western","Indian",126533.333333333
+2012,"FLL","CHN","HOOKS",2,"LO",NA,NA,70200
+2012,"FLL","TWN","HOOKS",3,"DD","Atlantic, Southeast","Atlantic",13500
+2012,"FLL","TWN","HOOKS",3,"DD","Indian Ocean, Eastern","Indian",50256.3849056604
+2012,"FLL","TWN","HOOKS",3,"DD","Indian Ocean, Western","Indian",139577.514925373
+2012,"FLL","TWN","HOOKS",3,"DD",NA,NA,71244.45
+2012,"GILL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",688.583333333333
+2012,"GILL","OMN","BOATS",1,"PD",NA,NA,607.916666666667
+2012,"HAND","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",221.688034188034
+2012,"HAND","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",370.166666666667
+2012,"HAND","OMN","BOATS",1,"PD",NA,NA,610.433333333333
+2012,"HATR","REU","HOOKS",3,"LO","Indian Ocean, Western","Indian",16310.8333333333
+2012,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",203733.333333333
+2012,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Western","Indian",139550
+2012,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",93046.2380952381
+2012,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",104621.796052632
+2012,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",101262.344262295
+2012,"LL","JPN","HOOKS",3,"LO",NA,NA,83362.5333333333
+2012,"LL","KOR","HOOKS",2,"LO","Atlantic, Southeast","Atlantic",51630.3333333333
+2012,"LL","KOR","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",72095.8333333333
+2012,"LL","KOR","HOOKS",2,"LO","Indian Ocean, Western","Indian",47122.1578947368
+2012,"LL","KOR","HOOKS",2,"LO",NA,NA,13178
+2012,"LL","MDV","HOOKS",0,"LO","Indian Ocean, Eastern","Indian",2870.66666666667
+2012,"LL","MDV","HOOKS",0,"LO","Indian Ocean, Western","Indian",1688.87804878049
+2012,"LL","SYC","HOOKS",2,"LO","Atlantic, Southeast","Atlantic",3600
+2012,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",6623.75
+2012,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Western","Indian",11649.9699090909
+2012,"LL","SYC","HOOKS",2,"LO",NA,NA,3000
+2012,"LL","THA","FDAYS",3,"LO","Indian Ocean, Eastern","Indian",1.75
+2012,"LL","THA","FDAYS",3,"LO","Indian Ocean, Western","Indian",2
+2012,"LL","TWN","HOOKS",3,"DD","Atlantic, Southeast","Atlantic",225525.608695652
+2012,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Eastern","Indian",84644.4285714286
+2012,"LL","TWN","HOOKS",3,"DD","Indian Ocean, Western","Indian",216662.045317221
+2012,"LL","TWN","HOOKS",3,"DD",NA,NA,44651.8
+2012,"LLCO","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",3.81818181818182
+2012,"LLEX","IND","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",5426.81818181818
+2012,"LLEX","IND","HOOKS",2,"LO","Indian Ocean, Western","Indian",6574.4
+2012,"LLEX","IND","HOOKS",2,"LO",NA,NA,4935
+2012,"PS","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",10.2
+2012,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Western","Indian",27.5674846625767
+2012,"PS","ESP","FHOURS",3,"LO",NA,NA,49.3383333333333
+2012,"PS","ESP","HOURS",3,"LO","Atlantic, Southeast","Atlantic",24
+2012,"PS","ESP","HOURS",3,"LO","Indian Ocean, Western","Indian",23.2142857142857
+2012,"PS","ESP","HOURS",3,"LO",NA,NA,24
+2012,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",27.9118537200504
+2012,"PS","FRA","FHOURS",3,"LO",NA,NA,42.8357142857143
+2012,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",25.5869565217391
+2012,"PS","JPN","SETS",3,"LO","Indian Ocean, Eastern","Indian",1.109375
+2012,"PS","JPN","SETS",3,"LO","Indian Ocean, Western","Indian",1
+2012,"PS","KOR","SETS",2,"LO","Indian Ocean, Eastern","Indian",1.16666666666667
+2012,"PS","KOR","SETS",2,"LO","Indian Ocean, Western","Indian",1.2803738317757
+2012,"PS","MYT","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",22.9237741456166
+2012,"PS","MYT","FHOURS",3,"RFRI",NA,NA,29.5677419354839
+2012,"PS","MYT","HOURS",3,"RFRI","Indian Ocean, Western","Indian",30.3022727272727
+2012,"PS","MYT","HOURS",3,"RFRI",NA,NA,21
+2012,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Western","Indian",21.9835959221501
+2012,"PS","SYC","FHOURS",3,"LO",NA,NA,40.0382978723404
+2012,"SLL","ZAF","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",4785.71428571429
+2012,"SPOR","ZAF","FDAYS",3,"LO","Atlantic, Southeast","Atlantic",5.16666666666667
+2012,"TRAP","OMN","BOATS",1,"PD",NA,NA,224.830508474576
+2012,"TROL","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",100.827160493827
+2012,"UNCL","MDV","TRIPS",0,"LO","Indian Ocean, Western","Indian",34.2692307692308
+2013,"BB","MDV","FDAYS",0,"LO","Indian Ocean, Eastern","Indian",6.84146341463415
+2013,"BB","MDV","FDAYS",0,"LO","Indian Ocean, Western","Indian",95.8179669030733
+2013,"BB","MDV","FDAYS",0,"LO",NA,NA,6.375
+2013,"BS","OMN","BOATS",1,"PD",NA,NA,53.9166666666667
+2013,"ELL","AUS","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",19623.064516129
+2013,"ELL","AUS","HOOKS",3,"LO",NA,NA,1680
+2013,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Western","Indian",77572.625
+2013,"ELL","ESP","HOOKS",3,"RNRI",NA,NA,28506
+2013,"ELL","MDG","HOOKS",0,"LO","Indian Ocean, Western","Indian",41900
+2013,"ELL","MDG","HOOKS",0,"LO",NA,NA,114555
+2013,"ELL","MUS","HOOKS",2,"LO","Indian Ocean, Western","Indian",3203.40425531915
+2013,"ELL","PRT","FDAYS",0,"LO","Indian Ocean, Eastern","Indian",7.28571428571429
+2013,"ELL","PRT","FDAYS",0,"LO","Indian Ocean, Western","Indian",24.5809523809524
+2013,"ELL","PRT","FDAYS",0,"LO",NA,NA,1
+2013,"ELL","REU","HOOKS",3,"LO","Indian Ocean, Western","Indian",8961.32465631929
+2013,"ELL","REU","HOOKS",3,"LO",NA,NA,258.64
+2013,"ELL","SYC","HOOKS",2,"LO","Indian Ocean, Western","Indian",2927.72058823529
+2013,"ELL","ZAF","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",4747.22222222222
+2013,"ELL","ZAF","HOOKS",3,"LO","Indian Ocean, Western","Indian",5027.29452054795
+2013,"FLL","CHN","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",172357.5
+2013,"FLL","MYS","HOOKS",2,"LO","Indian Ocean, Western","Indian",42800
+2013,"FLL","MYS","HOOKS",2,"LO",NA,NA,52333.3333333333
+2013,"FLL","TWN","HOOKS",2,"DD","Indian Ocean, Eastern","Indian",59934.3691588785
+2013,"FLL","TWN","HOOKS",2,"DD","Indian Ocean, Western","Indian",177608.097222222
+2013,"FLL","TWN","HOOKS",2,"DD",NA,NA,127402.352941176
+2013,"GILL","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",594.833333333333
+2013,"GILL","OMN","BOATS",1,"PD",NA,NA,646.316666666667
+2013,"HAND","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",1
+2013,"HAND","AUS","DAYS",3,"LO",NA,NA,2.25
+2013,"HAND","MDV","FDAYS",0,"LO","Indian Ocean, Eastern","Indian",10.1395348837209
+2013,"HAND","MDV","FDAYS",0,"LO","Indian Ocean, Western","Indian",55.9922480620155
+2013,"HAND","MDV","FDAYS",0,"LO",NA,NA,5.08
+2013,"HAND","OMN","BOATS",1,"PD","Indian Ocean, Western","Indian",373.5
+2013,"HAND","OMN","BOATS",1,"PD",NA,NA,662.066666666667
+2013,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",75960
+2013,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Western","Indian",190412.815533981
+2013,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",32765.9230769231
+2013,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",135065.253846154
+2013,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",77750.935483871
+2013,"LL","JPN","HOOKS",3,"LO",NA,NA,78923.2631578947
+2013,"LL","KOR","HOOKS",2,"LO","Atlantic, Southeast","Atlantic",7194
+2013,"LL","KOR","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",61919.26
+2013,"LL","KOR","HOOKS",2,"LO","Indian Ocean, Western","Indian",44011.7551020408
+2013,"LL","KOR","HOOKS",2,"LO",NA,NA,49206.6666666667
+2013,"LL","MDV","HOOKS",0,"LO","Indian Ocean, Eastern","Indian",4411.75
+2013,"LL","MDV","HOOKS",0,"LO","Indian Ocean, Western","Indian",5108.71739130435
+2013,"LL","SYC","HOOKS",2,"LO","Atlantic, Southeast","Atlantic",13293.0125
+2013,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",3982.85714285714
+2013,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Western","Indian",12772.4837777778
+2013,"LL","SYC","HOOKS",2,"LO",NA,NA,3750
+2013,"LL","THA","FDAYS",3,"LO","Indian Ocean, Eastern","Indian",1.2
+2013,"LL","THA","FDAYS",3,"LO","Indian Ocean, Western","Indian",2.63636363636364
+2013,"LL","TWN","HOOKS",2,"DD","Atlantic, Southeast","Atlantic",231462.6
+2013,"LL","TWN","HOOKS",2,"DD","Indian Ocean, Eastern","Indian",87782.5
+2013,"LL","TWN","HOOKS",2,"DD","Indian Ocean, Western","Indian",200561.341269841
+2013,"LL","TWN","HOOKS",2,"DD",NA,NA,58854.5
+2013,"LLCO","MDV","FDAYS",0,"LO","Indian Ocean, Eastern","Indian",2.75757575757576
+2013,"LLCO","MDV","FDAYS",0,"LO","Indian Ocean, Western","Indian",9.79166666666667
+2013,"LLEX","IND","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",3801.35
+2013,"LLEX","IND","HOOKS",2,"LO","Indian Ocean, Western","Indian",2700.18518518519
+2013,"LLEX","IND","HOOKS",2,"LO",NA,NA,1511.42857142857
+2013,"PS","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",10.4210526315789
+2013,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",12.655
+2013,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Western","Indian",26.7897651006711
+2013,"PS","ESP","FHOURS",3,"LO",NA,NA,43.6896551724138
+2013,"PS","ESP","HOURS",3,"LO","Indian Ocean, Western","Indian",4
+2013,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",24.2013195098963
+2013,"PS","FRA","FHOURS",3,"LO",NA,NA,47.6947368421053
+2013,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",23.6129032258065
+2013,"PS","JPN","SETS",3,"LO","Indian Ocean, Eastern","Indian",1.3
+2013,"PS","JPN","SETS",3,"LO","Indian Ocean, Western","Indian",1
+2013,"PS","KOR","SETS",2,"LO","Indian Ocean, Eastern","Indian",1.48387096774194
+2013,"PS","KOR","SETS",2,"LO","Indian Ocean, Western","Indian",1.54727793696275
+2013,"PS","MYT","FHOURS",3,"RFRI","Indian Ocean, Western","Indian",19.3269035532995
+2013,"PS","MYT","FHOURS",3,"RFRI",NA,NA,39.8264705882353
+2013,"PS","MYT","HOURS",3,"RFRI","Indian Ocean, Western","Indian",27.4137931034483
+2013,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",12.0333333333333
+2013,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Western","Indian",19.6171980676328
+2013,"PS","SYC","FHOURS",3,"LO",NA,NA,31.1363636363636
+2013,"SLL","ZAF","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",2950
+2013,"SLL","ZAF","HOOKS",3,"LO","Indian Ocean, Western","Indian",1300
+2013,"SPOR","ZAF","FDAYS",3,"LO","Atlantic, Southeast","Atlantic",1
+2013,"SPOR","ZAF","FDAYS",3,"LO","Indian Ocean, Western","Indian",1.2
+2013,"SPOR","ZAF","FDAYS",3,"LO",NA,NA,1
+2013,"TRAP","OMN","BOATS",1,"PD",NA,NA,270
+2013,"TROL","MDV","FDAYS",0,"LO","Indian Ocean, Eastern","Indian",1.875
+2013,"TROL","MDV","FDAYS",0,"LO","Indian Ocean, Western","Indian",20.353982300885
+2013,"TROL","MDV","FDAYS",0,"LO",NA,NA,1
+2014,"BB","MDV","FDAYS",0,"LO","Indian Ocean, Eastern","Indian",5.8
+2014,"BB","MDV","FDAYS",0,"LO","Indian Ocean, Western","Indian",68.8077922077922
+2014,"BB","MDV","FDAYS",0,"LO",NA,NA,4.12244897959184
+2014,"ELL","AUS","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",18590.7083333333
+2014,"ELL","AUS","HOOKS",3,"LO",NA,NA,3210
+2014,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Eastern","Indian",122414
+2014,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Western","Indian",65087.4864864865
+2014,"ELL","ESP","HOOKS",3,"RNRI",NA,NA,67200
+2014,"ELL","GBR","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",1100
+2014,"ELL","GBR","HOOKS",2,"LO","Indian Ocean, Western","Indian",1100
+2014,"ELL","MDG","HOOKS",0,"LO","Indian Ocean, Western","Indian",6353.71428571429
+2014,"ELL","MDG","HOOKS",0,"LO",NA,NA,122460
+2014,"ELL","MUS","HOOKS",2,"LO","Indian Ocean, Western","Indian",2563.90243902439
+2014,"ELL","PRT","HOOKS",0,"LO","Indian Ocean, Eastern","Indian",8121.27941176471
+2014,"ELL","PRT","HOOKS",0,"LO","Indian Ocean, Western","Indian",9351.16831683168
+2014,"ELL","REU","HOOKS",3,"LO","Indian Ocean, Western","Indian",6806.5628
+2014,"ELL","SYC","HOOKS",2,"LO","Indian Ocean, Western","Indian",1675.74647887324
+2014,"ELL","ZAF","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",3613.31914893617
+2014,"ELL","ZAF","HOOKS",3,"LO","Indian Ocean, Western","Indian",4827.79268292683
+2014,"FLL","CHN","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",91811.1111111111
+2014,"FLL","CHN","HOOKS",2,"LO","Indian Ocean, Western","Indian",120687.5
+2014,"FLL","CHN","HOOKS",2,"LO",NA,NA,227500
+2014,"FLL","LKA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",273.703703703704
+2014,"FLL","LKA","TRIPS",0,"LO","Indian Ocean, Western","Indian",174
+2014,"FLL","MYS","HOOKS",2,"LO","Indian Ocean, Western","Indian",67804.5454545455
+2014,"FLL","MYS","HOOKS",2,"LO",NA,NA,123000
+2014,"FLL","TWN","HOOKS",2,"DD","Atlantic, Southeast","Atlantic",16333.3333333333
+2014,"FLL","TWN","HOOKS",2,"DD","Indian Ocean, Eastern","Indian",48004.6794871795
+2014,"FLL","TWN","HOOKS",2,"DD","Indian Ocean, Western","Indian",179567.273615635
+2014,"FLL","TWN","HOOKS",2,"DD",NA,NA,102980.428571429
+2014,"FLL","TWN","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",3900
+2014,"FLL","TWN","HOOKS",2,"LO","Indian Ocean, Western","Indian",2743.33333333333
+2014,"GILL","LKA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",2031.58333333333
+2014,"GIOF","LKA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",126.153005464481
+2014,"GIOF","LKA","TRIPS",0,"LO","Indian Ocean, Western","Indian",94
+2014,"HAND","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",1.5
+2014,"HAND","AUS","DAYS",3,"LO",NA,NA,1
+2014,"HAND","LKA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",254.541666666667
+2014,"HAND","MDV","FDAYS",0,"LO","Indian Ocean, Eastern","Indian",9.70289855072464
+2014,"HAND","MDV","FDAYS",0,"LO","Indian Ocean, Western","Indian",45.6270491803279
+2014,"HAND","MDV","FDAYS",0,"LO",NA,NA,14.7575757575758
+2014,"HLOF","LKA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",33.5555555555556
+2014,"HLOF","LKA","TRIPS",0,"LO","Indian Ocean, Western","Indian",22
+2014,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",51040
+2014,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Western","Indian",183012.682926829
+2014,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",21093.4444444444
+2014,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",162119.007751938
+2014,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",86095.8971962617
+2014,"LL","JPN","HOOKS",3,"LO",NA,NA,91581.9375
+2014,"LL","KOR","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",59574.5555555556
+2014,"LL","KOR","HOOKS",2,"LO","Indian Ocean, Western","Indian",73982.7692307692
+2014,"LL","KOR","HOOKS",2,"LO",NA,NA,88064.5454545455
+2014,"LL","LKA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",281.296296296296
+2014,"LL","LKA","TRIPS",0,"LO","Indian Ocean, Western","Indian",245.5
+2014,"LL","PHL","FDAYS",2,"LO","Indian Ocean, Eastern","Indian",28
+2014,"LL","PHL","FDAYS",2,"LO","Indian Ocean, Western","Indian",27.1578947368421
+2014,"LL","SYC","HOOKS",2,"LO","Atlantic, Southeast","Atlantic",68684.1244444444
+2014,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",21049.4604166667
+2014,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Western","Indian",90245.1807174888
+2014,"LL","THA","FDAYS",3,"LO","Indian Ocean, Eastern","Indian",1
+2014,"LL","THA","FDAYS",3,"LO","Indian Ocean, Western","Indian",2.5
+2014,"LL","THA","FDAYS",3,"LO",NA,NA,1
+2014,"LL","TWN","HOOKS",2,"DD","Atlantic, Southeast","Atlantic",105674.214285714
+2014,"LL","TWN","HOOKS",2,"DD","Indian Ocean, Eastern","Indian",134606.505617978
+2014,"LL","TWN","HOOKS",2,"DD","Indian Ocean, Western","Indian",190192.051428571
+2014,"LL","TWN","HOOKS",2,"DD",NA,NA,16350.375
+2014,"LLCO","LKA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",338.130434782609
+2014,"LLCO","MDV","HOOKS",0,"LO","Indian Ocean, Eastern","Indian",17584.547826087
+2014,"LLCO","MDV","HOOKS",0,"LO","Indian Ocean, Western","Indian",18075.1047619048
+2014,"LLCO","MDV","HOOKS",0,"LO",NA,NA,14400
+2014,"LLEX","IND","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",4532.92307692308
+2014,"LLEX","IND","HOOKS",2,"LO","Indian Ocean, Western","Indian",2419.65
+2014,"LLEX","IND","HOOKS",2,"LO",NA,NA,4368
+2014,"PS","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",10.8
+2014,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Western","Indian",32.2023474178404
+2014,"PS","ESP","FHOURS",3,"LO",NA,NA,12.6647058823529
+2014,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",33.4270895522388
+2014,"PS","FRA","FHOURS",3,"LO",NA,NA,20.35
+2014,"PS","JPN","SETS",3,"LO","Indian Ocean, Eastern","Indian",1.2
+2014,"PS","JPN","SETS",3,"LO","Indian Ocean, Western","Indian",1
+2014,"PS","KOR","SETS",2,"LO","Indian Ocean, Western","Indian",1.9585635359116
+2014,"PS","MUS","SETS",2,"LO","Indian Ocean, Western","Indian",2.18613138686131
+2014,"PS","MUS","SETS",2,"LO",NA,NA,1
+2014,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Western","Indian",22.2362831858407
+2014,"PS","SYC","FHOURS",3,"LO",NA,NA,14.2384615384615
+2014,"RIN","LKA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",736.304347826087
+2014,"RNOF","LKA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",104.725490196078
+2014,"RNOF","LKA","TRIPS",0,"LO","Indian Ocean, Western","Indian",4
+2014,"SPOR","ZAF","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",2
+2014,"TROL","LKA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",30
+2014,"TROL","MDV","FDAYS",0,"LO","Indian Ocean, Eastern","Indian",2.33333333333333
+2014,"TROL","MDV","FDAYS",0,"LO","Indian Ocean, Western","Indian",6.95454545454545
+2015,"BB","LKA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",78
+2015,"BB","MDV","FDAYS",0,"LO","Indian Ocean, Eastern","Indian",4.35483870967742
+2015,"BB","MDV","FDAYS",0,"LO","Indian Ocean, Western","Indian",71.5141955835962
+2015,"BB","MDV","FDAYS",0,"LO",NA,NA,5.14285714285714
+2015,"ELL","AUS","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",24775.5882352941
+2015,"ELL","AUS","HOOKS",3,"LO",NA,NA,4415
+2015,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Eastern","Indian",149741
+2015,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Western","Indian",68435.2045454545
+2015,"ELL","GBR","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",7700
+2015,"ELL","GBR","HOOKS",2,"LO","Indian Ocean, Western","Indian",3680.76923076923
+2015,"ELL","MDG","HOOKS",0,"LO","Indian Ocean, Western","Indian",7145.90909090909
+2015,"ELL","MDG","HOOKS",0,"LO",NA,NA,124125
+2015,"ELL","MOZ","HOOKS",2,"LO","Indian Ocean, Western","Indian",10669.0454545455
+2015,"ELL","MOZ","HOOKS",2,"LO",NA,NA,4083.5
+2015,"ELL","MUS","HOOKS",2,"LO","Indian Ocean, Western","Indian",3435.9649122807
+2015,"ELL","PRT","HOOKS",0,"LO","Indian Ocean, Eastern","Indian",9225.75757575758
+2015,"ELL","PRT","HOOKS",0,"LO","Indian Ocean, Western","Indian",10388.1578947368
+2015,"ELL","REU","HOOKS",3,"LO","Indian Ocean, Western","Indian",6717.34726235741
+2015,"ELL","REU","HOOKS",3,"LO",NA,NA,216.4
+2015,"ELL","SYC","HOOKS",2,"LO","Indian Ocean, Western","Indian",1630.9846031746
+2015,"ELL","ZAF","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",6406.625
+2015,"ELL","ZAF","HOOKS",3,"LO","Indian Ocean, Western","Indian",4021.13636363636
+2015,"FLL","CHN","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",20144.675
+2015,"FLL","CHN","HOOKS",2,"LO","Indian Ocean, Western","Indian",36046.547826087
+2015,"FLL","CHN","HOOKS",2,"LO",NA,NA,32496.7142857143
+2015,"FLL","LKA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",24.7606837606838
+2015,"FLL","LKA","TRIPS",0,"LO","Indian Ocean, Western","Indian",27.25
+2015,"FLL","MYS","HOOKS",2,"LO","Indian Ocean, Western","Indian",93300
+2015,"FLL","MYS","HOOKS",2,"LO",NA,NA,202000
+2015,"FLL","TWN","HOOKS",2,"DD","Indian Ocean, Eastern","Indian",46738.7518248175
+2015,"FLL","TWN","HOOKS",2,"DD","Indian Ocean, Western","Indian",158668.062043796
+2015,"FLL","TWN","HOOKS",2,"DD",NA,NA,130000.666666667
+2015,"GILL","LKA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",1066
+2015,"GIOF","LKA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",5.89887640449438
+2015,"GIOF","LKA","TRIPS",0,"LO","Indian Ocean, Western","Indian",6.13375796178344
+2015,"HABBTR","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",1.25
+2015,"HABBTR","AUS","DAYS",3,"LO",NA,NA,1.5
+2015,"HAND","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",1.25
+2015,"HAND","AUS","DAYS",3,"LO",NA,NA,1.5
+2015,"HAND","LKA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",223
+2015,"HAND","MDV","FDAYS",0,"LO","Indian Ocean, Eastern","Indian",9.70634920634921
+2015,"HAND","MDV","FDAYS",0,"LO","Indian Ocean, Western","Indian",47.6190476190476
+2015,"HAND","MDV","FDAYS",0,"LO",NA,NA,15.8076923076923
+2015,"HLOF","LKA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",6.4
+2015,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",32753.8695652174
+2015,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Western","Indian",117524.056818182
+2015,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",34944.9
+2015,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",141415.71942446
+2015,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",75039.8969072165
+2015,"LL","JPN","HOOKS",3,"LO",NA,NA,94294.2142857143
+2015,"LL","KOR","HOOKS",2,"LO","Atlantic, Southeast","Atlantic",11568
+2015,"LL","KOR","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",53400.6956521739
+2015,"LL","KOR","HOOKS",2,"LO","Indian Ocean, Western","Indian",64062.0459770115
+2015,"LL","KOR","HOOKS",2,"LO",NA,NA,40637
+2015,"LL","LKA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",39.6458333333333
+2015,"LL","LKA","TRIPS",0,"LO","Indian Ocean, Western","Indian",28.4363636363636
+2015,"LL","LKA","TRIPS",0,"LO",NA,NA,5.25
+2015,"LL","MDV","HOOKS",0,"LO","Indian Ocean, Western","Indian",10247.6712328767
+2015,"LL","SYC","HOOKS",2,"LO","Atlantic, Southeast","Atlantic",45227.808
+2015,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",25267.998
+2015,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Western","Indian",107354.746567164
+2015,"LL","THA","FDAYS",3,"LO","Indian Ocean, Eastern","Indian",3.45833333333333
+2015,"LL","THA","FDAYS",3,"LO","Indian Ocean, Western","Indian",2.7906976744186
+2015,"LL","TWN","HOOKS",2,"DD","Atlantic, Southeast","Atlantic",153748.8
+2015,"LL","TWN","HOOKS",2,"DD","Indian Ocean, Eastern","Indian",108431.831858407
+2015,"LL","TWN","HOOKS",2,"DD","Indian Ocean, Western","Indian",143544.459330144
+2015,"LL","TWN","HOOKS",2,"DD",NA,NA,30934.4615384615
+2015,"LLCO","LKA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",455.782608695652
+2015,"LLCO","MDV","HOOKS",0,"LO","Indian Ocean, Eastern","Indian",3553.84615384615
+2015,"LLCO","MDV","HOOKS",0,"LO","Indian Ocean, Western","Indian",4273.64335664336
+2015,"LLCO","MDV","HOOKS",0,"LO",NA,NA,800
+2015,"LLEX","IND","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",6929.61538461538
+2015,"LLEX","IND","HOOKS",2,"LO","Indian Ocean, Western","Indian",5879.5625
+2015,"LLEX","IND","HOOKS",2,"LO",NA,NA,6300
+2015,"PS","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",13
+2015,"PS","AUS","DAYS",3,"LO",NA,NA,1
+2015,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Western","Indian",29.0208004851425
+2015,"PS","ESP","FHOURS",3,"LO",NA,NA,34.5491525423729
+2015,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",31.680325203252
+2015,"PS","FRA","FHOURS",3,"LO",NA,NA,69.096875
+2015,"PS","ITA","FHOURS",3,"LO","Indian Ocean, Western","Indian",16.8485981308411
+2015,"PS","ITA","FHOURS",3,"LO",NA,NA,13.7666666666667
+2015,"PS","ITA","HOURS",3,"LO","Indian Ocean, Western","Indian",15.8571428571429
+2015,"PS","JPN","SETS",3,"LO","Indian Ocean, Eastern","Indian",1.47777777777778
+2015,"PS","JPN","SETS",3,"LO","Indian Ocean, Western","Indian",1.61538461538462
+2015,"PS","KOR","SETS",2,"LO","Indian Ocean, Western","Indian",1.9492600422833
+2015,"PS","MUS","SETS",2,"LO","Indian Ocean, Western","Indian",2.07172995780591
+2015,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",12.06
+2015,"PS","SYC","FHOURS",3,"LO","Indian Ocean, Western","Indian",27.4569285714286
+2015,"PS","SYC","FHOURS",3,"LO","Pacific, Western Central","Pacific",12.2
+2015,"PS","SYC","FHOURS",3,"LO",NA,NA,16.5102564102564
+2015,"RIN","LKA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",696.789473684211
+2015,"RNOF","LKA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",8.56312625250501
+2015,"RNOF","LKA","TRIPS",0,"LO","Indian Ocean, Western","Indian",4.39130434782609
+2015,"SPOR","ZAF","FDAYS",3,"LO","Atlantic, Southeast","Atlantic",1.5
+2015,"TROL","LKA","TRIPS",0,"LO","Indian Ocean, Eastern","Indian",129.5
+2015,"TROL","MDV","FDAYS",0,"LO","Indian Ocean, Western","Indian",42.6086956521739
+2016,"BB","LKA","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",68.8
+2016,"BB","MDV","FDAYS",0,"LO","Indian Ocean, Eastern","Indian",3.5
+2016,"BB","MDV","FDAYS",0,"LO","Indian Ocean, Western","Indian",88.1467889908257
+2016,"BB","MDV","FDAYS",0,"LO",NA,NA,4.34375
+2016,"ELL","AUS","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",17576.7
+2016,"ELL","AUS","HOOKS",3,"LO",NA,NA,8639.33333333333
+2016,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Eastern","Indian",106759.444444444
+2016,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Western","Indian",89268.2631578947
+2016,"ELL","ESP","HOOKS",3,"RNRI",NA,NA,74400
+2016,"ELL","GBR","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",7000
+2016,"ELL","GBR","HOOKS",2,"LO","Indian Ocean, Western","Indian",6953.57142857143
+2016,"ELL","MDG","HOOKS",0,"LO","Indian Ocean, Western","Indian",11497.0909090909
+2016,"ELL","MDG","HOOKS",0,"LO",NA,NA,111810
+2016,"ELL","MOZ","HOOKS",2,"LO","Indian Ocean, Western","Indian",15391.3333333333
+2016,"ELL","MOZ","HOOKS",2,"LO",NA,NA,15200
+2016,"ELL","MUS","HOOKS",2,"LO","Indian Ocean, Western","Indian",3675.71666666667
+2016,"ELL","PRT","HOOKS",0,"LO","Indian Ocean, Eastern","Indian",6578.37837837838
+2016,"ELL","PRT","HOOKS",0,"LO","Indian Ocean, Western","Indian",13116.9724770642
+2016,"ELL","REU","HOOKS",3,"LO","Indian Ocean, Western","Indian",6221.13151515152
+2016,"ELL","REU","HOOKS",3,"LO",NA,NA,1841.72375
+2016,"ELL","SYC","HOOKS",2,"LO","Indian Ocean, Western","Indian",5526.86098654709
+2016,"ELL","ZAF","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",9771.92857142857
+2016,"ELL","ZAF","HOOKS",3,"LO","Indian Ocean, Western","Indian",2887.08333333333
+2016,"FLL","CHN","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",103117.909090909
+2016,"FLL","CHN","HOOKS",2,"LO","Indian Ocean, Western","Indian",118914.470588235
+2016,"FLL","LKA","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",29
+2016,"FLL","LKA","TRIPS",3,"LO","Indian Ocean, Western","Indian",18.4545454545455
+2016,"FLL","LKA","TRIPS",3,"LO",NA,NA,3
+2016,"FLL","MUS","HOOKS",2,"LO","Indian Ocean, Western","Indian",11550.9130434783
+2016,"FLL","MUS","HOOKS",2,"LO",NA,NA,8123
+2016,"FLL","MYS","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",9225
+2016,"FLL","MYS","HOOKS",2,"LO","Indian Ocean, Western","Indian",58937.2549019608
+2016,"FLL","MYS","HOOKS",2,"LO",NA,NA,120600
+2016,"FLL","TWN","HOOKS",2,"DD","Indian Ocean, Eastern","Indian",48786.4563106796
+2016,"FLL","TWN","HOOKS",2,"DD","Indian Ocean, Western","Indian",161450.251851852
+2016,"FLL","TWN","HOOKS",2,"DD",NA,NA,214396.888888889
+2016,"GILL","COM","TRIPS",0,"LO","Indian Ocean, Western","Indian",9696.61583333333
+2016,"GILL","LKA","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",683.347826086957
+2016,"GIOF","LKA","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",6.6
+2016,"GIOF","LKA","TRIPS",3,"LO","Indian Ocean, Western","Indian",4.51162790697674
+2016,"HABBTR","AUS","DAYS",3,"LO","Indian Ocean, Eastern","Indian",1.22222222222222
+2016,"HABBTR","AUS","DAYS",3,"LO",NA,NA,1.66666666666667
+2016,"HAND","COM","TRIPS",0,"LO","Indian Ocean, Western","Indian",14301.7291666667
+2016,"HAND","LKA","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",359.952380952381
+2016,"HAND","MDV","FDAYS",0,"LO","Indian Ocean, Eastern","Indian",10.2692307692308
+2016,"HAND","MDV","FDAYS",0,"LO","Indian Ocean, Western","Indian",62.8458244111349
+2016,"HAND","MDV","FDAYS",0,"LO",NA,NA,17.1372549019608
+2016,"HLOF","LKA","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",3.30769230769231
+2016,"HLOF","LKA","TRIPS",3,"LO","Indian Ocean, Western","Indian",3
+2016,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",44312.8571428571
+2016,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Western","Indian",217968.785714286
+2016,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",21629.8888888889
+2016,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",144699.830769231
+2016,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",97723.1315789474
+2016,"LL","JPN","HOOKS",3,"LO",NA,NA,57022.4
+2016,"LL","KOR","HOOKS",2,"LO","Atlantic, Southeast","Atlantic",12596.6666666667
+2016,"LL","KOR","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",67020.25
+2016,"LL","KOR","HOOKS",2,"LO","Indian Ocean, Western","Indian",49666.4056603774
+2016,"LL","KOR","HOOKS",2,"LO",NA,NA,31724.875
+2016,"LL","MDV","HOOKS",0,"LO","Indian Ocean, Eastern","Indian",4059.29411764706
+2016,"LL","MDV","HOOKS",0,"LO","Indian Ocean, Western","Indian",8988.95402298851
+2016,"LL","SYC","HOOKS",2,"LO","Atlantic, Southeast","Atlantic",125638.484117647
+2016,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",35274.5653333333
+2016,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Western","Indian",107536.791170213
+2016,"LL","TWN","HOOKS",2,"DD","Atlantic, Southeast","Atlantic",304180.75
+2016,"LL","TWN","HOOKS",2,"DD","Indian Ocean, Eastern","Indian",98455.4711538462
+2016,"LL","TWN","HOOKS",2,"DD","Indian Ocean, Western","Indian",199402.79009434
+2016,"LL","TWN","HOOKS",2,"DD",NA,NA,38173.3333333333
+2016,"LL","TWN","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",2400
+2016,"LL","TWN","HOOKS",2,"LO","Indian Ocean, Western","Indian",3800
+2016,"LLCO","LKA","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",631.583333333333
+2016,"LLCO","MDV","HOOKS",0,"LO","Indian Ocean, Eastern","Indian",6388.85606060606
+2016,"LLCO","MDV","HOOKS",0,"LO","Indian Ocean, Western","Indian",7766.19895287958
+2016,"LLCO","MDV","HOOKS",0,"LO",NA,NA,1680
+2016,"PS","AUS","FDAYS",3,"LO","Indian Ocean, Eastern","Indian",6.90909090909091
+2016,"PS","AUS","FDAYS",3,"LO",NA,NA,2.66666666666667
+2016,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Western","Indian",23.7775351770985
+2016,"PS","ESP","FHOURS",3,"LO",NA,NA,41.6411764705882
+2016,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",27.7241935483871
+2016,"PS","FRA","FHOURS",3,"LO",NA,NA,65.75
+2016,"PS","JPN","SETS",3,"LO","Indian Ocean, Eastern","Indian",1.46739130434783
+2016,"PS","JPN","SETS",3,"LO","Indian Ocean, Western","Indian",1.375
+2016,"PS","KOR","SETS",2,"LO","Indian Ocean, Western","Indian",2.13732394366197
+2016,"PS","KOR","SETS",2,"LO",NA,NA,1.5
+2016,"PS","MUS","SETS",2,"LO","Indian Ocean, Eastern","Indian",1
+2016,"PS","MUS","SETS",2,"LO","Indian Ocean, Western","Indian",2.15492957746479
+2016,"PS","MUS","SETS",2,"LO",NA,NA,1
+2016,"PS","SYC","FDAYS",2,"LO","Indian Ocean, Eastern","Indian",1.34333333333333
+2016,"PS","SYC","FDAYS",2,"LO","Indian Ocean, Western","Indian",2.12524864864865
+2016,"PS","SYC","FDAYS",2,"LO",NA,NA,3.51261904761905
+2016,"PS","THA","FDAYS",3,"LO","Indian Ocean, Western","Indian",3
+2016,"PSS","THA","FDAYS",2,"LO","Indian Ocean, Eastern","Indian",4749.08333333333
+2016,"RIN","LKA","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",324.45
+2016,"RNOF","LKA","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",5.71356783919598
+2016,"RNOF","LKA","TRIPS",3,"LO","Indian Ocean, Western","Indian",2.9
+2016,"SPOR","MOZ","MD",2,"LO",NA,NA,118.166666666667
+2016,"SPOR","ZAF","FDAYS",3,"LO","Atlantic, Southeast","Atlantic",6.25
+2016,"TRAW","THA","FHOURS",2,"LO","Indian Ocean, Eastern","Indian",177015.25
+2016,"TROL","COM","TRIPS",0,"LO","Indian Ocean, Western","Indian",10478.4316666667
+2016,"TROL","LKA","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",161.606060606061
+2016,"TROL","MDV","FDAYS",0,"LO","Indian Ocean, Eastern","Indian",4.5
+2016,"TROL","MDV","FDAYS",0,"LO","Indian Ocean, Western","Indian",18.0408163265306
+2017,"BB","MDV","FDAYS",0,"LO","Indian Ocean, Eastern","Indian",6
+2017,"BB","MDV","FDAYS",0,"LO","Indian Ocean, Western","Indian",75.3567073170732
+2017,"BB","MDV","FDAYS",0,"LO",NA,NA,3.96551724137931
+2017,"BB","ZAF","FHOURS",3,"LO","Atlantic, Southeast","Atlantic",12
+2017,"BS","LKA","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",1102.66666666667
+2017,"ELL","AUS","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",13458.935483871
+2017,"ELL","AUS","HOOKS",3,"LO",NA,NA,6398.27777777778
+2017,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Eastern","Indian",91433.3333333333
+2017,"ELL","ESP","HOOKS",3,"RNRI","Indian Ocean, Western","Indian",82629.475
+2017,"ELL","FRA","TRIPS",3,"LO","Indian Ocean, Western","Indian",8.09090909090909
+2017,"ELL","GBR","HOOKS",2,"LO","Indian Ocean, Western","Indian",10876.0869565217
+2017,"ELL","MDG","HOOKS",0,"LO","Indian Ocean, Western","Indian",7869.16666666667
+2017,"ELL","MDG","HOOKS",0,"LO",NA,NA,101167.5
+2017,"ELL","MOZ","HOOKS",2,"LO","Indian Ocean, Western","Indian",26580.8
+2017,"ELL","MUS","HOOKS",2,"LO","Indian Ocean, Western","Indian",32839.4482758621
+2017,"ELL","PRT","HOOKS",0,"LO","Indian Ocean, Eastern","Indian",6710
+2017,"ELL","PRT","HOOKS",0,"LO","Indian Ocean, Western","Indian",17693.1818181818
+2017,"ELL","REU","HOOKS",3,"LO","Indian Ocean, Western","Indian",6037.04318897638
+2017,"ELL","REU","HOOKS",3,"LO",NA,NA,379.59
+2017,"ELL","SYC","HOOKS",2,"LO","Indian Ocean, Western","Indian",7152.62717770035
+2017,"ELL","ZAF","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",8600.36781609195
+2017,"ELL","ZAF","HOOKS",3,"LO","Indian Ocean, Western","Indian",11650.6086956522
+2017,"FLL","CHN","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",163150
+2017,"FLL","CHN","HOOKS",2,"LO","Indian Ocean, Western","Indian",144684.2
+2017,"FLL","CHN","HOOKS",2,"LO",NA,NA,102300
+2017,"FLL","LKA","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",63.359649122807
+2017,"FLL","LKA","TRIPS",3,"LO","Indian Ocean, Western","Indian",34.2295081967213
+2017,"FLL","MUS","HOOKS",2,"LO","Indian Ocean, Western","Indian",15771
+2017,"FLL","MUS","HOOKS",2,"LO",NA,NA,19210.125
+2017,"FLL","MYS","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",29336.6666666667
+2017,"FLL","MYS","HOOKS",2,"LO","Indian Ocean, Western","Indian",65809.023255814
+2017,"FLL","MYS","HOOKS",2,"LO",NA,NA,160500
+2017,"FLL","TWN","HOOKS",2,"DD","Indian Ocean, Eastern","Indian",60662.1666666667
+2017,"FLL","TWN","HOOKS",2,"DD","Indian Ocean, Western","Indian",145108.213438735
+2017,"FLL","TWN","HOOKS",2,"DD",NA,NA,246662.25
+2017,"GILL","COM","TRIPS",0,"LO","Indian Ocean, Western","Indian",7631.10166666667
+2017,"GILL","LKA","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",2328.33333333333
+2017,"GIOF","LKA","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",5.46835443037975
+2017,"GIOF","LKA","TRIPS",3,"LO","Indian Ocean, Western","Indian",3.31952662721893
+2017,"HABBTR","AUS","FDAYS",3,"LO","Indian Ocean, Eastern","Indian",1.57142857142857
+2017,"HABBTR","AUS","FDAYS",3,"LO","Pacific, Southwest","Pacific",1
+2017,"HABBTR","AUS","FDAYS",3,"LO",NA,NA,1.5
+2017,"HAND","COM","TRIPS",0,"LO","Indian Ocean, Western","Indian",13728.5833333333
+2017,"HAND","GBRT","DAYS",0,"LO","Indian Ocean, Western","Indian",426.916666666667
+2017,"HAND","LKA","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",468.47619047619
+2017,"HAND","MDV","FDAYS",0,"LO","Indian Ocean, Eastern","Indian",7.79487179487179
+2017,"HAND","MDV","FDAYS",0,"LO","Indian Ocean, Western","Indian",43.2691552062868
+2017,"HAND","MDV","FDAYS",0,"LO",NA,NA,25.6481481481481
+2017,"HATR","MUS","MD",2,"LO","Indian Ocean, Western","Indian",1400.08333333333
+2017,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",81132.5
+2017,"LL","CHN","HOOKS",2,"LO","Indian Ocean, Western","Indian",174954.223076923
+2017,"LL","CHN","HOOKS",2,"LO",NA,NA,57120
+2017,"LL","JPN","HOOKS",3,"LO","Atlantic, Southeast","Atlantic",17956.8888888889
+2017,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Eastern","Indian",167864.177966102
+2017,"LL","JPN","HOOKS",3,"LO","Indian Ocean, Western","Indian",104595.26
+2017,"LL","JPN","HOOKS",3,"LO",NA,NA,127391.7
+2017,"LL","KOR","HOOKS",2,"LO","Atlantic, Southeast","Atlantic",27269
+2017,"LL","KOR","HOOKS",2,"LO","Indian Ocean, Western","Indian",63294.9220779221
+2017,"LL","KOR","HOOKS",2,"LO",NA,NA,170515.555555556
+2017,"LL","MDV","HOOKS",0,"LO","Indian Ocean, Eastern","Indian",4000
+2017,"LL","MDV","HOOKS",0,"LO","Indian Ocean, Western","Indian",6607.73553719008
+2017,"LL","SYC","HOOKS",2,"LO","Atlantic, Southeast","Atlantic",118218.097692308
+2017,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Eastern","Indian",52556.4228571429
+2017,"LL","SYC","HOOKS",2,"LO","Indian Ocean, Western","Indian",86713.2227058823
+2017,"LL","SYC","HOOKS",2,"LO",NA,NA,3900
+2017,"LL","TWN","HOOKS",2,"DD","Atlantic, Southeast","Atlantic",335998.45
+2017,"LL","TWN","HOOKS",2,"DD","Indian Ocean, Eastern","Indian",101232.294642857
+2017,"LL","TWN","HOOKS",2,"DD","Indian Ocean, Western","Indian",198713.671568627
+2017,"LL","TWN","HOOKS",2,"DD",NA,NA,30544.7777777778
+2017,"LLCO","LKA","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",1477.375
+2017,"LLCO","MDV","HOOKS",0,"LO","Indian Ocean, Eastern","Indian",4056
+2017,"LLCO","MDV","HOOKS",0,"LO","Indian Ocean, Western","Indian",8660.41104294478
+2017,"LLCO","MDV","HOOKS",0,"LO",NA,NA,775
+2017,"LLCO","REU","HOOKS",3,"LO","Indian Ocean, Western","Indian",61080
+2017,"PS","AUS","FDAYS",3,"LO","Indian Ocean, Eastern","Indian",7.11111111111111
+2017,"PS","AUS","FDAYS",3,"LO",NA,NA,5
+2017,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",15.4833333333333
+2017,"PS","ESP","FHOURS",3,"LO","Indian Ocean, Western","Indian",24.8363061353574
+2017,"PS","ESP","FHOURS",3,"LO",NA,NA,32.5948051948052
+2017,"PS","ESP","HOURS",3,"LO","Indian Ocean, Western","Indian",13.4
+2017,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Eastern","Indian",16.8170212765957
+2017,"PS","FRA","FHOURS",3,"LO","Indian Ocean, Western","Indian",24.6746801346801
+2017,"PS","FRA","FHOURS",3,"LO",NA,NA,22.8833333333333
+2017,"PS","FRA","HOURS",3,"LO","Indian Ocean, Western","Indian",25.96
+2017,"PS","FRA","HOURS",3,"LO",NA,NA,24
+2017,"PS","JPN","SETS",3,"LO","Indian Ocean, Eastern","Indian",1.33884297520661
+2017,"PS","JPN","SETS",3,"LO","Indian Ocean, Western","Indian",1.25
+2017,"PS","JPN","SETS",3,"LO",NA,NA,1
+2017,"PS","KOR","SETS",2,"LO","Indian Ocean, Eastern","Indian",1.33333333333333
+2017,"PS","KOR","SETS",2,"LO","Indian Ocean, Western","Indian",1.84224598930481
+2017,"PS","MUS","SETS",2,"LO","Indian Ocean, Eastern","Indian",1.58620689655172
+2017,"PS","MUS","SETS",2,"LO","Indian Ocean, Western","Indian",2.07491856677524
+2017,"PS","MUS","SETS",2,"LO",NA,NA,5
+2017,"PS","PHL","DAYS",2,"LO","Indian Ocean, Eastern","Indian",1.625
+2017,"PS","SYC","FDAYS",2,"LO","Indian Ocean, Eastern","Indian",1.07375
+2017,"PS","SYC","FDAYS",2,"LO","Indian Ocean, Western","Indian",2.00069338422392
+2017,"PS","SYC","FDAYS",2,"LO",NA,NA,1.97981481481481
+2017,"PS","THA","FDAYS",3,"LO","Indian Ocean, Western","Indian",3.66666666666667
+2017,"PSS","THA","FDAYS",2,"LO","Indian Ocean, Eastern","Indian",3815.25
+2017,"RIN","LKA","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",1662.61111111111
+2017,"RNOF","LKA","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",3.67202141900937
+2017,"RNOF","LKA","TRIPS",3,"LO","Indian Ocean, Western","Indian",2.33333333333333
+2017,"TRAW","THA","FHOURS",2,"LO","Indian Ocean, Eastern","Indian",179818.5
+2017,"TROL","COM","TRIPS",0,"LO","Indian Ocean, Western","Indian",11151.5
+2017,"TROL","LKA","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",266.5
+2017,"TROL","MDV","FDAYS",0,"LO","Indian Ocean, Eastern","Indian",1.6
+2017,"TROL","MDV","FDAYS",0,"LO","Indian Ocean, Western","Indian",8.08333333333333
+2017,"TROLM","LKA","TRIPS",3,"LO","Indian Ocean, Eastern","Indian",1
