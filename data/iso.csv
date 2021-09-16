@@ -1,0 +1,207 @@
+Country,Region_FAO,ISO,Region
+'China, Hong Kong Special Administrative Region',UN only,Eastern and South-Eastern Asia
+'Côte d''Ivoire',RAF,CIV,Sub-Saharan Africa
+'Democratic People''s Republic of Korea',RAP,PRK,Eastern and South-Eastern Asia
+'Lao People''s Democratic Republic',RAP,LAO,Eastern and South-Eastern Asia
+Afghanistan,RAP,AFG,Central and Southern Asia
+Albania,REU,ALB,Europe and Northern America
+Algeria,RNE,DZA,Northern Africa and Western Asia
+Angola,RAF,AGO,Sub-Saharan Africa
+Anguilla,UN only,AIA,Latin America and the Caribbean
+Antigua Barbuda,RLC,ATG,Latin America and the Caribbean
+Argentina,RLC,ARG,Latin America and the Caribbean
+Armenia,REU,ARM,Northern Africa and Western Asia
+Australia,DEV,AUS,Oceania
+Austria,DEV,AUT,Europe and Northern America
+Azerbaijan,REU,AZE,Northern Africa and Western Asia
+Bahamas,RLC,BHS,Latin America and the Caribbean
+Bahrain,RNE,BHR,Northern Africa and Western Asia
+Bangladesh,RAP,BGD,Central and Southern Asia
+Barbados,RLC,BRB,Latin America and the Caribbean
+Belarus,REU,BLR,Europe and Northern America
+Belgium,DEV,BEL,Europe and Northern America
+Belize,RLC,BLZ,Latin America and the Caribbean
+Benin,RAF,BEN,Sub-Saharan Africa
+Bhutan,RAP,BTN,Central and Southern Asia
+Bolivia (Plurinational State of),RLC,BOL,Latin America and the Caribbean
+Bonaire Saba Statia,UN only,BES,Latin America and the Caribbean
+Bosnia and Herzegovina,REU,BIH,Europe and Northern America
+Botswana,RAF,BWA,Sub-Saharan Africa
+Brazil,RLC,BRA,Latin America and the Caribbean
+Brunei Darussalam,DEV,BRN,Eastern and South-Eastern Asia
+Bulgaria,REU,BGR,Europe and Northern America
+Burkina Faso,RAF,BFA,Sub-Saharan Africa
+Burundi,RAF,BDI,Sub-Saharan Africa
+Cabo Verde,RAF,CPV,Sub-Saharan Africa
+Cambodia,RAP,KHM,Eastern and South-Eastern Asia
+Cameroon,RAF,CMR,Sub-Saharan Africa
+Canada,DEV,CAN,Europe and Northern America
+Cayman Islands,UN only,CYM,Latin America and the Caribbean
+Central African Republic,RAF,CAF,Sub-Saharan Africa
+Chad,RAF,TCD,Sub-Saharan Africa
+Chile,RLC,CHL,Latin America and the Caribbean
+China,RAP,CHN,Eastern and South-Eastern Asia
+Colombia,RLC,COL,Latin America and the Caribbean
+Comoros,RAF,COM,Sub-Saharan Africa
+Congo,RAF,COG,Sub-Saharan Africa
+Cook Islands,RAP,COK,Oceania
+Costa Rica,RLC,CRI,Latin America and the Caribbean
+Croatia,REU,HRV,Europe and Northern America
+Cuba,RLC,CUB,Latin America and the Caribbean
+Cyprus,REU,CYP,Northern Africa and Western Asia
+Czechia,REU,CZE,Europe and Northern America
+Democratic Republic of the Congo,RAF,COD,Sub-Saharan Africa
+Denmark,DEV,DNK,Europe and Northern America
+Djibouti,RAF,DJI,Sub-Saharan Africa
+Dominica,RLC,DMA,Latin America and the Caribbean
+Dominican Republic,RLC,DOM,Latin America and the Caribbean
+Ecuador,RLC,ECU,Latin America and the Caribbean
+Egypt,RNE,EGY,Northern Africa and Western Asia
+El Salvador,RLC,SLV,Latin America and the Caribbean
+Equatorial Guinea,RAF,GNQ,Sub-Saharan Africa
+Eritrea,RAF,ERI,Sub-Saharan Africa
+Estonia,REU,EST,Europe and Northern America
+Eswatini,RAF,SWZ,Sub-Saharan Africa
+Ethiopia,RAF,ETH,Latin America and the Caribbean
+Faroe Islands,UN only,FRO,Europe and Northern America
+Fiji,RAP,FJI,Oceania
+Finland,DEV,FIN,Europe and Northern America
+France,DEV,FRA,Europe and Northern America
+Gabon,RAF,GAB,Sub-Saharan Africa
+Gambia,RAF,GMB,Sub-Saharan Africa
+Georgia,REU,GEO,Northern Africa and Western Asia
+Germany,DEV,DEU,Europe and Northern America
+Ghana,RAF,GHA,Sub-Saharan Africa
+Greece,DEV,GRC,Europe and Northern America
+Grenada,RLC,GRD,Latin America and the Caribbean
+Guatemala,RLC,GTM,Latin America and the Caribbean
+Guinea,RAF,GIN,Sub-Saharan Africa
+Guinea-Bissau,RAF,GNB,Sub-Saharan Africa
+Guyana,RLC,GUY,Latin America and the Caribbean
+Haiti,RLC,HTI,Latin America and the Caribbean
+Honduras,RLC,HND,Latin America and the Caribbean
+Hungary,REU,HUN,Europe and Northern America
+Iceland,DEV,ISL,Europe and Northern America
+India,RAP,IND,Central and Southern Asia
+Indonesia,RAP,IDN,Eastern and South-Eastern Asia
+Iran (Islamic Republic of),RAP,IRN,Central and Southern Asia
+Iraq,RNE,IRQ,Northern Africa and Western Asia
+Ireland,DEV,IRL,Europe and Northern America
+Isle of Man,UN only,IMN,Europe and Northern America
+Israel,DEV,ISR,Northern Africa and Western Asia
+Italy,DEV,ITA,Europe and Northern America
+Jamaica,RLC,JAM,Latin America and the Caribbean
+Japan,DEV,JPN,Eastern and South-Eastern Asia
+Jordan,RNE,JOR,Northern Africa and Western Asia
+Kazakhstan,REU,KAZ,Central and Southern Asia
+Kenya,RAF,KEN,Sub-Saharan Africa
+Kiribati,RAP,KIR,Oceania
+Kuwait,RNE,KWT,Northern Africa and Western Asia
+Kyrgyzstan,REU,KGZ,Central and Southern Asia
+Latvia,REU,LVA,Europe and Northern America
+Lebanon,RNE,LBN,Northern Africa and Western Asia
+Lesotho,RAF,LSO,Sub-Saharan Africa
+Liberia,RAF,LBR,Sub-Saharan Africa
+Libya,RNE,LBY,Northern Africa and Western Asia
+Liechtenstein,UN Only,LIE,Europe and Northern America
+Lithuania,REU,LTU,Europe and Northern America
+Luxembourg,DEV,LUX,Europe and Northern America
+Madagascar,RAF,MDG,Sub-Saharan Africa
+Malawi,RAF,MWI,Sub-Saharan Africa
+Malaysia,RAP,MYS,Eastern and South-Eastern Asia
+Maldives,RAP,MDV,Central and Southern Asia
+Mali,RAF,MLI,Sub-Saharan Africa
+Malta,REU,MLT,Europe and Northern America
+Marshall Islands,RAP,MHL,Oceania
+Mauritania,RNE,MRT,Sub-Saharan Africa
+Mauritius,RAF,MUS,Sub-Saharan Africa
+Mexico,RLC,MEX,Latin America and the Caribbean
+Micronesia (Federated States of),RAP,FSM,Oceania
+Monaco,DEV,MCO,Europe and Northern America
+Mongolia,RAP,MNG,Eastern and South-Eastern Asia
+Montenegro,DEV,MNE,Europe and Northern America
+Montserrat,UN only,MSR,Latin America and the Caribbean
+Morocco,RNE,MAR,Northern Africa and Western Asia
+Mozambique,RAF,MOZ,Sub-Saharan Africa
+Myanmar,RAP,MMR,Eastern and South-Eastern Asia
+Namibia,RAF,NAM,Sub-Saharan Africa
+Nauru,RAP,NRU,Oceania
+Nepal,RAP,NPL,Central and Southern Asia
+Netherlands,DEV,NLD,Europe and Northern America
+New Caledonia,UN only,NCL,Oceania
+New Zealand,DEV,NZL,Oceania
+Nicaragua,RLC,NIC,Latin America and the Caribbean
+Niger,RAF,NER,Sub-Saharan Africa
+Nigeria,RAF,NGA,Sub-Saharan Africa
+Niue,RAP,NIU,Oceania
+North Macedonia,REU,MKD,Southern Europe
+Norway,DEV,NOR,Europe and Northern America
+Oman,RNE,OMN,Northern Africa and Western Asia
+Pakistan,RAP,PAK,Central and Southern Asia
+Palau,RAP,PLW,Oceania
+Panama,RLC,PAN,Latin America and the Caribbean
+Papua New Guinea,RAP,PNG,Oceania
+Paraguay,RLC,PRY,Latin America and the Caribbean
+Peru,RLC,PER,Latin America and the Caribbean
+Philippines,RAP,PHL,Eastern and South-Eastern Asia
+Poland,DEV,POL,Europe and Northern America
+Portugal,DEV,PRT,Europe and Northern America
+Puerto Rico,UN only,PRI,Latin America and the Caribbean
+Qatar,RNE,QAT,Northern Africa and Western Asia
+Republic of Korea,RAP,KOR,Eastern and South-Eastern Asia
+Republic of Moldova,REU,MDA,Europe and Northern America
+Romania,REU,ROU,Europe and Northern America
+Russian Federation,DEV,RUS,Europe and Northern America
+Rwanda,RAF,RWA,Sub-Saharan Africa
+Saint Helena,UN only,SHN,Sub-Saharan Africa
+Saint Kitts and Nevis,RLC,KNA,Latin America and the Caribbean
+Saint Lucia,RLC,LCA,Latin America and the Caribbean
+Saint Vincent and the Grenadines,RLC,VCT,Latin America and the Caribbean
+Samoa,RAP,WSM,Oceania
+Sao Tome and Principe,RAF,STP,Sub-Saharan Africa
+Saudi Arabia,RNE,SAU,Northern Africa and Western Asia
+Senegal,RAF,SEN,Sub-Saharan Africa
+Serbia,REU,SRB,Europe and Northern America
+Seychelles,RAF,SYC,Sub-Saharan Africa
+Sierra Leone,RAF,SLE,Sub-Saharan Africa
+Singapore,DEV,SGP,Eastern and South-Eastern Asia
+Slovakia,REU,SVK,Europe and Northern America
+Slovenia,REU,SVN,Europe and Northern America
+Solomon Islands,RAP,SLB,Oceania
+Somalia,RAF,SOM,Sub-Saharan Africa
+South Africa,RAF,ZAF,Sub-Saharan Africa
+South Sudan,RAF,SSD,Sub-Saharan Africa
+Spain,DEV,ESP,Europe and Northern America
+Sri Lanka,RAP,LKA,Central and Southern Asia
+State of Palestine,UN Only,PSE,Northern Africa and Western Asia
+Sudan,RNE,SDN,Northern Africa and Western Asia
+Suriname,RLC,SUR,Latin America and the Caribbean
+Sweden,DEV,SWE,Europe and Northern America
+Switzerland,DEV,CHE,Europe and Northern America
+Syrian Arab Republic,RNE,SYR,Northern Africa and Western Asia
+Tajikistan,REU,TJK,Central and Southern Asia
+Thailand,RAP,THA,Eastern and South-Eastern Asia
+Timor-Leste,RAP,TLS,Eastern and South-Eastern Asia
+Togo,RAF,TGO,Sub-Saharan Africa
+Tonga,RAP,TON,Oceania
+Trinidad Tobago,RLC,TTO,Latin America and the Caribbean
+Tunisia,RNE,TUN,Northern Africa and Western Asia
+Turkey,REU,TUR,Northern Africa and Western Asia
+Turkmenistan,REU,TKM,Central and Southern Asia
+Turks Caicos,UN only,TCA,Latin America and the Caribbean
+Tuvalu,RAP,TUV,Oceania
+Uganda,RAF,UGA,Sub-Saharan Africa
+Ukraine,REU,UKR,Europe and Northern America
+United Arab Emirates,RNE,ARE,Northern Africa and Western Asia
+United Kingdom,DEV,GBR,Europe and Northern America
+United Republic of Tanzania,RAF,TZA,Sub-Saharan Africa
+United States of America,DEV,USA,Europe and Northern America
+Uruguay,RLC,URY,Latin America and the Caribbean
+Uzbekistan,REU,UZB,Central and Southern Asia
+Vanuatu,RAP,VUT,Oceania
+Venezuela ,RLC,VEN,Latin America and the Caribbean
+Viet Nam,RAP,VNM,Eastern and South-Eastern Asia
+Yemen,RNE,YEM,Northern Africa and Western Asia
+Zambia,RAF,ZMB,Sub-Saharan Africa
+Zanzibar,UN only,ZAN,Sub-Saharan Africa
+Zimbabwe,RAF,ZWE,Sub-Saharan Africa

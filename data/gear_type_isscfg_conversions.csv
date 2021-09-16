@@ -1,0 +1,25 @@
+gear_type,isscfg_description,isscfg_code,descrepancies
+1.1,purse seines,PS,
+1.2,lampara,LA,
+2.1,Beach seines,SB,
+2.2,Boat or vessel seines,SV,
+3.22,pair trawls,PTB,
+3.29,midwater trawls,TM,
+3.9,Other trawls,TX,
+5.9,Lift nets,LN,
+6.1,Cast nets,FCN,
+6.9,Falling gear,FG,
+7.2,Driftnets,GND,
+7.5,Trammel nets,GTR,
+7.9,Gillnets and entangling nets,GEN,
+8.9,Traps,FIX,
+9.1,Handlines and pole-lines (hand-operated),LHP,
+9.2,Handlines and pole-lines (mechanized),LHM,
+9.31,Set longlines,LLS,9.3
+9.32,Drifting longlines,LLD,9.4
+9.39,Longlines,LL,9.5
+9.5,Trolling lines,LTL,9.6
+9.9,Hooks and lines,LX,9.9
+10.1,Harpoons,HAR,
+10.9,UNK,UNK,no number
+99.9,NK,NK,

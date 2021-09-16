@@ -1,0 +1,50 @@
+Ocean,Region,FAO_Area,Stock,Management_Authority,Assessment_Year,Run
+Indian,"Indian, West",51,SWO,IOTC,2017,1
+Indian,"Indian, West",51,YFT,IOTC,2016,1
+Indian,"Indian, West",51,BET,IOTC,2016,h70
+Indian,"Indian, West",51,BET,IOTC,2016,h80
+Indian,"Indian, West",51,BET,IOTC,2016,h90
+Indian,"Indian, West",51,SKJ,IOTC,2017,1
+Indian,"Indian, East",57,SWO,IOTC,2017,1
+Indian,"Indian, East",57,YFT,IOTC,2016,1
+Indian,"Indian, East",57,BET,IOTC,2016,h70
+Indian,"Indian, East",57,BET,IOTC,2016,h80
+Indian,"Indian, East",57,BET,IOTC,2016,h90
+Indian,"Indian, East",57,SKJ,IOTC,2017,1
+Atlantic,"Atlantic, Northwest",21,BFT,ICCAT,2017,VRE
+Atlantic,"Atlantic, Northwest",21,BFT,ICCAT,2017,82J
+Atlantic,"Atlantic, Northwest",21,BFT,ICCAT,2017,82Z
+Atlantic,"Atlantic, Northwest",21,BFT,ICCAT,2017,82AB
+Atlantic,"Atlantic, Northeast",27,BFT,ICCAT,2017,VRE
+Atlantic,"Atlantic, Northeast",27,BFT,ICCAT,2017,82J
+Atlantic,"Atlantic, Northeast",27,BFT,ICCAT,2017,82Z
+Atlantic,"Atlantic, Northeast",27,BFT,ICCAT,2017,82AB
+Atlantic,Mediterranean and Black Sea,37,BFT,ICCAT,2017,VRE
+Atlantic,Mediterranean and Black Sea,37,BFT,ICCAT,2017,82J
+Atlantic,Mediterranean and Black Sea,37,BFT,ICCAT,2017,82Z
+Atlantic,Mediterranean and Black Sea,37,BFT,ICCAT,2017,82AB
+Atlantic,"Atlantic, Western Central",31,BFT,ICCAT,2017,VRE
+Atlantic,"Atlantic, Western Central",31,BFT,ICCAT,2017,82J
+Atlantic,"Atlantic, Western Central",31,BFT,ICCAT,2017,82Z
+Atlantic,"Atlantic, Western Central",31,BFT,ICCAT,2017,82AB
+Atlantic,"Atlantic, Eastern Central",34,BFT,ICCAT,2017,VRE
+Atlantic,"Atlantic, Eastern Central",34,BFT,ICCAT,2017,82J
+Atlantic,"Atlantic, Eastern Central",34,BFT,ICCAT,2017,82Z
+Atlantic,"Atlantic, Eastern Central",34,BFT,ICCAT,2017,82AB
+Atlantic,"Atlantic, Southwest",41,BFT,ICCAT,2017,VRE
+Atlantic,"Atlantic, Southwest",41,BFT,ICCAT,2017,82J
+Atlantic,"Atlantic, Southwest",41,BFT,ICCAT,2017,82Z
+Atlantic,"Atlantic, Southwest",41,BFT,ICCAT,2017,82AB
+Atlantic,"Atlantic, Southeast",47,BFT,ICCAT,2017,VRE
+Atlantic,"Atlantic, Southeast",47,BFT,ICCAT,2017,82J
+Atlantic,"Atlantic, Southeast",47,BFT,ICCAT,2017,82Z
+Atlantic,"Atlantic, Southeast",47,BFT,ICCAT,2017,82AB
+Atlantic,"Atlantic, Antarctic",48,BFT,ICCAT,2017,VRE
+Atlantic,"Atlantic, Antarctic",48,BFT,ICCAT,2017,82J
+Atlantic,"Atlantic, Antarctic",48,BFT,ICCAT,2017,82Z
+Atlantic,"Atlantic, Antarctic",48,BFT,ICCAT,2017,82AB
+Atlantic,"Atlantic, Western Central",31,GAJ,WECAFC,2015,S_18022017_171204_mba9417_sigmaR65
+Atlantic,"Atlantic, Western Central",31,GAJ,WECAFC,2015,VRE_Z_21022018_141943_mba9417_sigmaR65
+Atlantic,"Atlantic, Southwest",41,GAJ,WECAFC,2015,S_18022017_171204_mba9417_sigmaR65
+Atlantic,"Atlantic, Southwest",41,GAJ,WECAFC,2015,VRE_Z_21022018_141943_mba9417_sigmaR65
+Global,Global,All,All,All,All,All

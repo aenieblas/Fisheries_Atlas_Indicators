@@ -1,0 +1,37 @@
+Ocean;Region;FAO_Area;Stock_species;Management_Authority;Major_Group;Family;Order;Gear;time_step;datasource;Year;Month;Plot_type
+Indian;Indian, West;51;SWO;IOTC;PISCES;Xiphiidae;SCOMBROIDEI;;Annual;fishstatj;NA;NA;timeseries
+Indian;Indian, West;51;YFT;IOTC;PISCES;Scombridae;SCOMBROIDEI;;Annual;fishstatj;NA;NA;timeseries
+Indian;Indian, West;51;BET;IOTC;PISCES;Scombridae;SCOMBROIDEI;;Annual;fishstatj;NA;NA;timeseries
+Indian;Indian, West;51;SKJ;IOTC;PISCES;Scombridae;SCOMBROIDEI;;Annual;fishstatj;NA;NA;timeseries
+Indian;Indian, East;57;SWO;IOTC;PISCES;Xiphiidae;SCOMBROIDEI;;Annual;fishstatj;NA;NA;timeseries
+Indian;Indian, East;57;YFT;IOTC;PISCES;Scombridae;SCOMBROIDEI;;Annual;fishstatj;NA;NA;timeseries
+Indian;Indian, East;57;BET;IOTC;PISCES;Scombridae;SCOMBROIDEI;;Annual;fishstatj;NA;NA;timeseries
+Indian;Indian, East;57;SKJ;IOTC;PISCES;Scombridae;SCOMBROIDEI;;Annual;fishstatj;NA;NA;timeseries
+Atlantic;Atlantic, Northwest;21;BFT;ICCAT;PISCES;Scombridae;SCOMBROIDEI;;Annual;fishstatj;NA;NA;timeseries
+Atlantic;Atlantic, Northeast;27;BFT;ICCAT;PISCES;Scombridae;SCOMBROIDEI;;Annual;fishstatj;NA;NA;timeseries
+Atlantic;Mediterranean and Black Sea;37;BFT;ICCAT;PISCES;Scombridae;SCOMBROIDEI;;Annual;fishstatj;NA;NA;timeseries
+Atlantic;Atlantic, Western Central;31;BFT;ICCAT;PISCES;Scombridae;SCOMBROIDEI;;Annual;fishstatj;NA;NA;timeseries
+Atlantic;Atlantic, Eastern Central;34;BFT;ICCAT;PISCES;Scombridae;SCOMBROIDEI;;Annual;fishstatj;NA;NA;timeseries
+Atlantic;Atlantic, Southwest;41;BFT;ICCAT;PISCES;Scombridae;SCOMBROIDEI;;Annual;fishstatj;NA;NA;timeseries
+Atlantic;Atlantic, Southeast;47;BFT;ICCAT;PISCES;Scombridae;SCOMBROIDEI;;Annual;fishstatj;NA;NA;timeseries
+Atlantic;Atlantic, Antarctic;48;BFT;ICCAT;PISCES;Scombridae;SCOMBROIDEI;;Annual;fishstatj;NA;NA;timeseries
+Atlantic;Atlantic, Western Central;31;GAJ;WECAFC;PISCES;Dichistiidae;PERCOIDEI;;Annual;fishstatj;NA;NA;timeseries
+Atlantic;Atlantic, Southwest;41;GAJ;WECAFC;PISCES;Dichistiidae;PERCOIDEI;;Annual;fishstatj;NA;NA;timeseries
+Indian;Indian, West;51;SWO;IOTC;PISCES;Xiphiidae;SCOMBROIDEI;;Annual;fishstatj;2018;6;gridded
+Indian;Indian, West;51;YFT;IOTC;PISCES;Scombridae;SCOMBROIDEI;;Annual;fishstatj;2018;6;gridded
+Indian;Indian, West;51;BET;IOTC;PISCES;Scombridae;SCOMBROIDEI;;Annual;fishstatj;2018;6;gridded
+Indian;Indian, West;51;SKJ;IOTC;PISCES;Scombridae;SCOMBROIDEI;;Annual;fishstatj;2018;6;gridded
+Indian;Indian, East;57;SWO;IOTC;PISCES;Xiphiidae;SCOMBROIDEI;;Annual;fishstatj;2018;6;gridded
+Indian;Indian, East;57;YFT;IOTC;PISCES;Scombridae;SCOMBROIDEI;;Annual;fishstatj;2018;6;gridded
+Indian;Indian, East;57;BET;IOTC;PISCES;Scombridae;SCOMBROIDEI;;Annual;fishstatj;2018;6;gridded
+Indian;Indian, East;57;SKJ;IOTC;PISCES;Scombridae;SCOMBROIDEI;;Annual;fishstatj;2018;6;gridded
+Atlantic;Atlantic, Northwest;21;BFT;ICCAT;PISCES;Scombridae;SCOMBROIDEI;;Annual;fishstatj;2018;6;gridded
+Atlantic;Atlantic, Northeast;27;BFT;ICCAT;PISCES;Scombridae;SCOMBROIDEI;;Annual;fishstatj;2018;6;gridded
+Atlantic;Mediterranean and Black Sea;37;BFT;ICCAT;PISCES;Scombridae;SCOMBROIDEI;;Annual;fishstatj;2018;6;gridded
+Atlantic;Atlantic, Western Central;31;BFT;ICCAT;PISCES;Scombridae;SCOMBROIDEI;;Annual;fishstatj;2018;6;gridded
+Atlantic;Atlantic, Eastern Central;34;BFT;ICCAT;PISCES;Scombridae;SCOMBROIDEI;;Annual;fishstatj;2018;6;gridded
+Atlantic;Atlantic, Southwest;41;BFT;ICCAT;PISCES;Scombridae;SCOMBROIDEI;;Annual;fishstatj;2018;6;gridded
+Atlantic;Atlantic, Southeast;47;BFT;ICCAT;PISCES;Scombridae;SCOMBROIDEI;;Annual;fishstatj;2018;6;gridded
+Atlantic;Atlantic, Antarctic;48;BFT;ICCAT;PISCES;Scombridae;SCOMBROIDEI;;Annual;fishstatj;2018;6;gridded
+Atlantic;Atlantic, Western Central;31;GAJ;WECAFC;PISCES;Dichistiidae;PERCOIDEI;;Annual;fishstatj;2018;6;gridded
+Atlantic;Atlantic, Southwest;41;GAJ;WECAFC;PISCES;Dichistiidae;PERCOIDEI;;Annual;fishstatj;2018;6;gridded
